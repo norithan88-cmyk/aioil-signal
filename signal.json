@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-20T06:38:11.721688+00:00",
+  "generated_at_utc": "2026-08-20T07:27:47.280196+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 84.61,
+  "latest_price": 85.3,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -9,7 +9,7 @@
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "4時間足:中央 / 日足:中央 → 2時間足の方向が一致していません",
+      "timeframes_note": "4時間足:上方向 / 日足:中央 → 2時間足の方向が一致していません",
       "calc_note": "2時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
@@ -27,24 +27,24 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.05,
-      "momentum": "FLAT",
-      "mid": 84.59,
-      "upper": 85.26,
-      "lower": 83.93
+      "position_sigma": 1.75,
+      "momentum": "UP",
+      "mid": 84.63,
+      "upper": 85.39,
+      "lower": 83.87
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 0.91,
+      "position_sigma": 1.08,
       "momentum": "FLAT",
-      "mid": 81.57,
-      "upper": 88.28,
-      "lower": 74.86
+      "mid": 81.62,
+      "upper": 88.42,
+      "lower": 74.82
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$84.61付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$85.30付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
@@ -66,13 +66,6 @@
       "link": "https://www.fxstreet.com/news/canadian-dollar-gains-on-higher-oil-prices-weaker-us-dollar-202608200416",
       "published_at_utc": "2026-08-20T04:16:03+00:00",
       "title": "原油価格上昇でカナダドル上昇、米ドル安"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "WTI surges above $84.50 as Strait of Hormuz standoff escalate",
-      "link": "https://www.fxstreet.com/news/wti-surges-above-8450-as-strait-of-hormuz-standoff-escalate-202608200117",
-      "published_at_utc": "2026-08-20T01:17:33+00:00",
-      "title": "ホルムズ海峡の対立が激化する中、WTIは84.50ドルを超えて急騰"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
