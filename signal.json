@@ -1,53 +1,50 @@
 {
-  "generated_at_utc": "2026-08-20T20:13:18.852092+00:00",
+  "generated_at_utc": "2026-08-20T20:49:37.230089+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 86.65,
+  "latest_price": 86.47,
   "day_change_pct": 0.0,
   "signal": {
-    "bias": "BUY",
-    "bias_label": "押し目買い優勢",
-    "stars": 4,
-    "confidence": 87,
+    "bias": "WAIT",
+    "bias_label": "方向感なし",
+    "stars": 2,
+    "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "4時間足:上方向 / 日足:上方向 → 2時間足とも一致、5分足の反発シグナルも確認済み",
-      "calc_note": "基本50% + 2時間足一致30% + バンド際からの乖離度ボーナス = 87%（上限95%）"
+      "timeframes_note": "4時間足:中央 / 日足:上方向 → 2時間足の方向が一致していません",
+      "calc_note": "2時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
   "volatility_risk": "LOW",
-  "market_mode": "TREND",
-  "market_mode_note": "4時間・日足の方向が揃っており、方向感のある地合い。",
+  "market_mode": "RANGE",
+  "market_mode_note": "時間足ごとに方向が割れており、方向感に乏しいレンジ地合い。",
   "priority_trade": {
-    "lead": "押し目買い ― 上位足の上昇方向一致＋5分足の押し目からの反発",
-    "entry": 86.65,
-    "take_profit": 86.74,
-    "stop_loss": 86.5
+    "lead": "様子見 ― 4時間・日足の方向が一致していない",
+    "entry": null,
+    "take_profit": null,
+    "stop_loss": null
   },
-  "reversal_setup": {
-    "extreme": 86.56,
-    "reverted_usd": 0.09
-  },
+  "reversal_setup": null,
   "regression_channels": [
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 1.43,
-      "momentum": "UP",
-      "mid": 85.22,
-      "upper": 87.22,
-      "lower": 83.21
+      "position_sigma": 1.28,
+      "momentum": "FLAT",
+      "mid": 85.2,
+      "upper": 87.18,
+      "lower": 83.23
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.41,
+      "position_sigma": 1.36,
       "momentum": "UP",
-      "mid": 81.71,
-      "upper": 88.74,
-      "lower": 74.68
+      "mid": 81.7,
+      "upper": 88.69,
+      "lower": 74.7
     }
   ],
-  "commentary": "押し目は焦らず拾う。飛び乗りより、待つ勇気を。",
-  "market_context": "WTI原油（CL=F）は現在$86.65付近で推移（直近1時間比+0.00%）。4時間・日足が揃って下値の堅さを示す中、5分足が短期的な押し目から反発したタイミング。目先は下値の堅い展開が想定され、押し目を焦らず拾うスタンスが機能しやすい局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
+  "market_context": "WTI原油（CL=F）は現在$86.47付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
