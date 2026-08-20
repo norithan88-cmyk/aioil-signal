@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-20T05:18:08.707642+00:00",
+  "generated_at_utc": "2026-08-20T05:52:29.660023+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
   "latest_price": 84.43,
   "day_change_pct": 0.0,
@@ -46,6 +46,13 @@
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
   "market_context": "WTI原油（CL=F）は現在$84.43付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "WTI Price Forecast: Bulls seem hesitant below $85.00 and 61.8% Fibo. hurdle",
+      "link": "https://www.fxstreet.com/news/wti-price-forecast-bulls-seem-hesitant-below-8500-and-618-fibo-hurdle-202608200528",
+      "published_at_utc": "2026-08-20T05:28:57+00:00",
+      "title": "WTI価格予測：強気派は85.00ドルと61.8％フィボを下回ることをためらっているようだ。ハードル"
+    },
     {
       "source": "FXStreet",
       "title_en": "Canadian Dollar gains on higher oil prices, weaker US Dollar",
