@@ -1,0 +1,14 @@
+{
+  "trades": [],
+  "stats": {
+    "total_closed": 0,
+    "wins": 0,
+    "losses": 0,
+    "win_rate_pct": null,
+    "avg_win_usd": null,
+    "avg_loss_usd": null,
+    "profit_factor": null,
+    "total_usd": 0.0
+  },
+  "updated_at_utc": "2026-08-20T02:10:19.019847+00:00"
+}

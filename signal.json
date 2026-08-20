@@ -1,0 +1,65 @@
+{
+  "generated_at_utc": "2026-08-20T02:10:19.019847+00:00",
+  "pair": "WTI CRUDE OIL (CL=F)",
+  "latest_price": 84.77,
+  "day_change_pct": 0.0,
+  "signal": {
+    "bias": "WAIT",
+    "bias_label": "方向感なし",
+    "stars": 2,
+    "confidence": 50,
+    "confidence_breakdown": {
+      "timeframes_note": "4時間足:中央 / 日足:中央 → 2時間足の方向が一致していません",
+      "calc_note": "2時間足の方向が揃っていないため、基本値50%のままです。"
+    }
+  },
+  "volatility_risk": "LOW",
+  "market_mode": "RANGE",
+  "market_mode_note": "時間足ごとに方向が割れており、方向感に乏しいレンジ地合い。",
+  "priority_trade": {
+    "lead": "様子見 ― 4時間・日足の方向が一致していない",
+    "entry": null,
+    "take_profit": null,
+    "stop_loss": null
+  },
+  "reversal_setup": null,
+  "regression_channels": [
+    {
+      "key": "h4",
+      "label": "4時間足",
+      "position_sigma": 0.47,
+      "momentum": "FLAT",
+      "mid": 84.61,
+      "upper": 85.28,
+      "lower": 83.94
+    },
+    {
+      "key": "d1",
+      "label": "日足",
+      "position_sigma": 1.04,
+      "momentum": "FLAT",
+      "mid": 81.43,
+      "upper": 87.87,
+      "lower": 74.99
+    }
+  ],
+  "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
+  "market_context": "WTI原油（CL=F）は現在$84.77付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "WTI surges above $84.50 as Strait of Hormuz standoff escalate",
+      "link": "https://www.fxstreet.com/news/wti-surges-above-8450-as-strait-of-hormuz-standoff-escalate-202608200117",
+      "published_at_utc": "2026-08-20T01:17:33+00:00",
+      "title": "ホルムズ海峡の対立が激化する中、WTIは84.50ドルを超えて急騰"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "WTI Oil climbs as US-Iran standoff keeps Middle East supply risks elevated",
+      "link": "https://www.fxstreet.com/news/wti-oil-climbs-as-us-iran-standoff-keeps-middle-east-supply-risks-elevated-202608191736",
+      "published_at_utc": "2026-08-19T17:36:40+00:00",
+      "title": "米国とイランの対立で中東の供給リスクが高まるなか、WTI原油は上昇"
+    }
+  ],
+  "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
+}
