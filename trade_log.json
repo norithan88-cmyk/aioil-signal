@@ -1,5 +1,19 @@
 {
-  "trades": [],
+  "trades": [
+    {
+      "id": "2026-08-20T11:13:32.329320+00:00",
+      "opened_at_utc": "2026-08-20T11:13:32.329320+00:00",
+      "bias": "BUY",
+      "entry": 86.8,
+      "take_profit": 87.02,
+      "stop_loss": 86.52,
+      "confidence": 91,
+      "status": "OPEN",
+      "closed_at_utc": null,
+      "closed_price": null,
+      "pnl_usd": null
+    }
+  ],
   "stats": {
     "total_closed": 0,
     "wins": 0,
@@ -10,5 +24,5 @@
     "profit_factor": null,
     "total_usd": 0.0
   },
-  "updated_at_utc": "2026-08-20T10:47:54.798679+00:00"
+  "updated_at_utc": "2026-08-20T11:13:32.329320+00:00"
 }
