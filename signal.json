@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-20T05:52:29.660023+00:00",
+  "generated_at_utc": "2026-08-20T06:38:11.721688+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 84.43,
+  "latest_price": 84.61,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,25 +27,32 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -0.45,
+      "position_sigma": 0.05,
       "momentum": "FLAT",
-      "mid": 84.58,
-      "upper": 85.25,
-      "lower": 83.91
+      "mid": 84.59,
+      "upper": 85.26,
+      "lower": 83.93
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 0.86,
+      "position_sigma": 0.91,
       "momentum": "FLAT",
-      "mid": 81.56,
-      "upper": 88.25,
-      "lower": 74.87
+      "mid": 81.57,
+      "upper": 88.28,
+      "lower": 74.86
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$84.43付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$84.61付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Indian Rupee: Elevated Oil keeps INR lagging against US Dollar – OCBC",
+      "link": "https://www.fxstreet.com/news/indian-rupee-elevated-oil-keeps-inr-lagging-against-us-dollar-ocbc-202608200636",
+      "published_at_utc": "2026-08-20T06:36:09+00:00",
+      "title": "インドルピー：原油高でインドルピーは対米ドルで遅れ続ける – OCBC"
+    },
     {
       "source": "FXStreet",
       "title_en": "WTI Price Forecast: Bulls seem hesitant below $85.00 and 61.8% Fibo. hurdle",
