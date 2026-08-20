@@ -1,0 +1,34 @@
+name: Update AI Oil Signal
+
+on:
+  schedule:
+    # 5分足がトリガー時間足のため5分おき(FXボリバン版と同じ間隔)。
+    - cron: "*/5 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-signal:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Compute signal
+        run: python scripts/compute_signal.py
+
+      - name: Commit signal.json and trade_log.json
+        run: |
+          git config user.name "aioil-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add signal.json trade_log.json
+          git diff --cached --quiet && echo "変更なし。コミットをスキップします。" || git commit -m "chore: update signal.json ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+          git pull --rebase origin main || { echo "::warning::別の実行と競合したため、今回の更新はスキップします（次回の実行で自動的に解消されます）"; git rebase --abort; exit 0; }
+          git push
