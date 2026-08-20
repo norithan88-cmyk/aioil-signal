@@ -1,60 +1,64 @@
 {
-  "generated_at_utc": "2026-08-20T14:52:30.268697+00:00",
+  "generated_at_utc": "2026-08-20T15:29:16.361894+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 86.22,
+  "latest_price": 86.36,
   "day_change_pct": 0.0,
   "signal": {
-    "bias": "BUY",
-    "bias_label": "押し目買い優勢",
-    "stars": 4,
-    "confidence": 87,
+    "bias": "WAIT",
+    "bias_label": "方向感なし",
+    "stars": 2,
+    "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "4時間足:上方向 / 日足:上方向 → 2時間足とも一致、5分足の反発シグナルも確認済み",
-      "calc_note": "基本50% + 2時間足一致30% + バンド際からの乖離度ボーナス = 87%（上限95%）"
+      "timeframes_note": "4時間足:上方向 / 日足:上方向 → 2時間足は一致していますが、5分足の反発シグナルはまだ点灯していません",
+      "calc_note": "2時間足の方向一致のみでは確信度は上がらず、5分足の反発確認まで基本値50%のままです。"
     }
   },
   "volatility_risk": "LOW",
   "market_mode": "TREND",
   "market_mode_note": "4時間・日足の方向が揃っており、方向感のある地合い。",
   "priority_trade": {
-    "lead": "押し目買い ― 上位足の上昇方向一致＋5分足の押し目からの反発",
-    "entry": 86.22,
-    "take_profit": 86.57,
-    "stop_loss": 85.81
+    "lead": "様子見 ― 上位足は押し目買い方向で一致、5分足の反発シグナル待ち",
+    "entry": null,
+    "take_profit": null,
+    "stop_loss": null
   },
-  "reversal_setup": {
-    "extreme": 85.87,
-    "reverted_usd": 0.35
-  },
+  "reversal_setup": null,
   "regression_channels": [
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 1.59,
+      "position_sigma": 1.72,
       "momentum": "UP",
-      "mid": 84.88,
-      "upper": 86.56,
-      "lower": 83.2
+      "mid": 84.89,
+      "upper": 86.6,
+      "lower": 83.18
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.31,
+      "position_sigma": 1.34,
       "momentum": "UP",
-      "mid": 81.68,
-      "upper": 88.63,
-      "lower": 74.73
+      "mid": 81.69,
+      "upper": 88.66,
+      "lower": 74.72
     }
   ],
-  "commentary": "押し目は焦らず拾う。飛び乗りより、待つ勇気を。",
-  "market_context": "WTI原油（CL=F）は現在$86.22付近で推移（直近1時間比+0.00%）。4時間・日足が揃って下値の堅さを示す中、5分足が短期的な押し目から反発したタイミング。目先は下値の堅い展開が想定され、押し目を焦らず拾うスタンスが機能しやすい局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "commentary": "上位足は上向き。焦らず、5分足の押し目からの反発を待つ。",
+  "market_context": "WTI原油（CL=F）は現在$86.36付近で推移（直近1時間比+0.00%）。4時間・日足は押し目買い方向で揃っているが、5分足の反発シグナルはまだ点灯していない。上位足の方向感は出ているため、5分足が押し目安値から反発するタイミングを待ちたい局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "Indian Rupee surrenders gains as higher Oil prices outweigh US Dollar weakness",
-      "link": "https://www.fxstreet.com/news/indian-rupee-rebounds-after-three-day-losing-streak-against-us-dollar-202608200502",
-      "published_at_utc": "2026-08-20T05:02:58+00:00",
-      "title": "原油価格の上昇が米ドル安を上回るため、インドルピーは上昇を記録"
+      "title_en": "WTI hits three-week high as Iran deadlock supports Oil",
+      "link": "https://www.fxstreet.com/news/wti-hits-three-week-high-as-iran-deadlock-supports-oil-202608201512",
+      "published_at_utc": "2026-08-20T15:12:46+00:00",
+      "title": "イランの行き詰まりで石油支援を受け、WTIは3週間の高値を更新"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Canadian Dollar remains supported by rising Oil prices and US tariff pause",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-remains-supported-despite-modest-us-dollar-rebound-202608201502",
+      "published_at_utc": "2026-08-20T15:02:01+00:00",
+      "title": "カナダドルは引き続き原油価格の上昇と米国の関税一時停止に支えられている"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
