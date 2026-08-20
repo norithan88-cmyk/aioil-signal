@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-20T04:00:16.404355+00:00",
+  "generated_at_utc": "2026-08-20T04:47:22.115735+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 84.53,
+  "latest_price": 84.57,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,25 +27,32 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.63,
+      "position_sigma": -0.05,
       "momentum": "FLAT",
-      "mid": 83.84,
-      "upper": 86.04,
-      "lower": 81.63
+      "mid": 84.59,
+      "upper": 85.26,
+      "lower": 83.91
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.1,
+      "position_sigma": 0.89,
       "momentum": "FLAT",
-      "mid": 81.41,
-      "upper": 87.81,
-      "lower": 75.01
+      "mid": 81.57,
+      "upper": 88.28,
+      "lower": 74.86
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$84.53付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$84.57付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Canadian Dollar gains on higher oil prices, weaker US Dollar",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-on-higher-oil-prices-weaker-us-dollar-202608200416",
+      "published_at_utc": "2026-08-20T04:16:03+00:00",
+      "title": "原油価格上昇でカナダドル上昇、米ドル安"
+    },
     {
       "source": "FXStreet",
       "title_en": "WTI surges above $84.50 as Strait of Hormuz standoff escalate",
