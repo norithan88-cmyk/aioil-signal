@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-20T08:07:39.556432+00:00",
+  "generated_at_utc": "2026-08-20T08:55:55.009058+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 85.7,
+  "latest_price": 86.28,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -9,15 +9,15 @@
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "4時間足:上方向 / 日足:中央 → 2時間足の方向が一致していません",
-      "calc_note": "2時間足の方向が揃っていないため、基本値50%のままです。"
+      "timeframes_note": "4時間足:上方向 / 日足:上方向 → 2時間足は一致していますが、5分足の反発シグナルはまだ点灯していません",
+      "calc_note": "2時間足の方向一致のみでは確信度は上がらず、5分足の反発確認まで基本値50%のままです。"
     }
   },
   "volatility_risk": "LOW",
-  "market_mode": "RANGE",
-  "market_mode_note": "時間足ごとに方向が割れており、方向感に乏しいレンジ地合い。",
+  "market_mode": "TREND",
+  "market_mode_note": "4時間・日足の方向が揃っており、方向感のある地合い。",
   "priority_trade": {
-    "lead": "様子見 ― 4時間・日足の方向が一致していない",
+    "lead": "様子見 ― 上位足は押し目買い方向で一致、5分足の反発シグナル待ち",
     "entry": null,
     "take_profit": null,
     "stop_loss": null
@@ -27,25 +27,32 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 2.39,
+      "position_sigma": 2.61,
       "momentum": "UP",
-      "mid": 84.67,
-      "upper": 85.53,
-      "lower": 83.8
+      "mid": 84.75,
+      "upper": 85.92,
+      "lower": 83.59
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.18,
-      "momentum": "FLAT",
-      "mid": 81.65,
-      "upper": 88.51,
-      "lower": 74.78
+      "position_sigma": 1.32,
+      "momentum": "UP",
+      "mid": 81.68,
+      "upper": 88.64,
+      "lower": 74.73
     }
   ],
-  "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$85.70付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "commentary": "上位足は上向き。焦らず、5分足の押し目からの反発を待つ。",
+  "market_context": "WTI原油（CL=F）は現在$86.28付近で推移（直近1時間比+0.00%）。4時間・日足は押し目買い方向で揃っているが、5分足の反発シグナルはまだ点灯していない。上位足の方向感は出ているため、5分足が押し目安値から反発するタイミングを待ちたい局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "WTI refreshes three-week high near $86 amid US-Iran deadlock",
+      "link": "https://www.fxstreet.com/news/wti-refreshes-three-week-high-near-86-amid-us-iran-deadlock-202608200855",
+      "published_at_utc": "2026-08-20T08:55:27+00:00",
+      "title": "米国とイランの行き詰まりの中、WTIが86ドル付近で3週間ぶりの高値を更新"
+    },
     {
       "source": "FXStreet",
       "title_en": "Oil: Rally extends on sanctions risk – ING",
@@ -59,20 +66,6 @@
       "link": "https://www.fxstreet.com/news/indian-rupee-elevated-oil-keeps-inr-lagging-against-us-dollar-ocbc-202608200636",
       "published_at_utc": "2026-08-20T06:36:09+00:00",
       "title": "インドルピー：原油高でインドルピーは対米ドルで遅れ続ける – OCBC"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "WTI Price Forecast: Bulls seem hesitant below $85.00 and 61.8% Fibo. hurdle",
-      "link": "https://www.fxstreet.com/news/wti-price-forecast-bulls-seem-hesitant-below-8500-and-618-fibo-hurdle-202608200528",
-      "published_at_utc": "2026-08-20T05:28:57+00:00",
-      "title": "WTI価格予測：強気派は85.00ドルと61.8％フィボを下回ることをためらっているようだ。ハードル"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Canadian Dollar gains on higher oil prices, weaker US Dollar",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-on-higher-oil-prices-weaker-us-dollar-202608200416",
-      "published_at_utc": "2026-08-20T04:16:03+00:00",
-      "title": "原油価格上昇でカナダドル上昇、米ドル安"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
