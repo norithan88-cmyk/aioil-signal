@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-20T11:46:47.476193+00:00",
+  "generated_at_utc": "2026-08-20T12:16:57.783810+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 87.17,
+  "latest_price": 87.28,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,24 +27,24 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 3.12,
+      "position_sigma": 2.37,
       "momentum": "UP",
-      "mid": 84.81,
-      "upper": 86.33,
-      "lower": 83.3
+      "mid": 84.95,
+      "upper": 86.92,
+      "lower": 82.99
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.53,
+      "position_sigma": 1.55,
       "momentum": "UP",
       "mid": 81.75,
-      "upper": 88.88,
-      "lower": 74.61
+      "upper": 88.9,
+      "lower": 74.6
     }
   ],
   "commentary": "上位足は上向き。焦らず、5分足の押し目からの反発を待つ。",
-  "market_context": "WTI原油（CL=F）は現在$87.17付近で推移（直近1時間比+0.00%）。4時間・日足は押し目買い方向で揃っているが、5分足の反発シグナルはまだ点灯していない。上位足の方向感は出ているため、5分足が押し目安値から反発するタイミングを待ちたい局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$87.28付近で推移（直近1時間比+0.00%）。4時間・日足は押し目買い方向で揃っているが、5分足の反発シグナルはまだ点灯していない。上位足の方向感は出ているため、5分足が押し目安値から反発するタイミングを待ちたい局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
@@ -59,13 +59,6 @@
       "link": "https://www.fxstreet.com/news/wti-refreshes-three-week-high-near-86-amid-us-iran-deadlock-202608200855",
       "published_at_utc": "2026-08-20T08:55:27+00:00",
       "title": "米国とイランの行き詰まりの中、WTIが86ドル付近で3週間ぶりの高値を更新"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Oil: Rally extends on sanctions risk – ING",
-      "link": "https://www.fxstreet.com/news/oil-rally-extends-on-sanctions-risk-ing-202608200802",
-      "published_at_utc": "2026-08-20T08:02:57+00:00",
-      "title": "石油：制裁リスクで上昇が拡大 – ING"
     },
     {
       "source": "FXStreet",
