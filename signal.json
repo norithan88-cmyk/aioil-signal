@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-21T12:20:23.062926+00:00",
+  "generated_at_utc": "2026-08-21T13:24:45.406115+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 86.91,
+  "latest_price": 86.71,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -9,7 +9,7 @@
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "4時間足:中央 / 日足:上方向 → 2時間足の方向が一致していません",
+      "timeframes_note": "4時間足:中央 / 日足:中央 → 2時間足の方向が一致していません",
       "calc_note": "2時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
@@ -27,31 +27,45 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 1.11,
+      "position_sigma": 0.94,
       "momentum": "FLAT",
-      "mid": 85.77,
-      "upper": 87.83,
-      "lower": 83.71
+      "mid": 85.75,
+      "upper": 87.79,
+      "lower": 83.72
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.31,
-      "momentum": "UP",
-      "mid": 81.94,
-      "upper": 89.52,
-      "lower": 74.35
+      "position_sigma": 1.27,
+      "momentum": "FLAT",
+      "mid": 81.92,
+      "upper": 89.47,
+      "lower": 74.37
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$86.91付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$86.71付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "WTI Price Forecast: Oil supply tightness supports further upside above $90",
-      "link": "https://www.fxstreet.com/news/wti-price-forecast-oil-supply-tightness-supports-further-upside-above-90-202608210904",
-      "published_at_utc": "2026-08-21T09:04:06+00:00",
-      "title": "WTI価格予測：石油供給の逼迫が90ドルを超えるさらなる上値を支える"
+      "title_en": "Canadian Dollar heads for fourth weekly gain on weaker US Dollar, elevated Oil prices",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-heads-for-fourth-weekly-gain-on-weaker-us-dollar-elevated-oil-prices-202608211259",
+      "published_at_utc": "2026-08-21T12:59:08+00:00",
+      "title": "カナダドルは米ドル安と原油価格の上昇を受けて週4回目の上昇に向かう"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Brent: Supply risks keep prices elevated – Commerzbank",
+      "link": "https://www.fxstreet.com/news/brent-supply-risks-keep-prices-elevated-commerzbank-202608211255",
+      "published_at_utc": "2026-08-21T12:55:18+00:00",
+      "title": "ブレント：供給リスクにより価格は上昇 – コメルツ銀行"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "WTI advances as supply tensions overshadow US inventory build",
+      "link": "https://www.fxstreet.com/news/wti-advances-as-supply-tensions-overshadow-us-inventory-build-202608211251",
+      "published_at_utc": "2026-08-21T12:51:32+00:00",
+      "title": "供給緊張が米国の在庫積み増しに影を落とす中、WTIは上昇"
     },
     {
       "source": "FXStreet",
