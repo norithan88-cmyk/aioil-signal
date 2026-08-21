@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-21T03:03:02.247822+00:00",
+  "generated_at_utc": "2026-08-21T03:57:24.352326+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 86.56,
+  "latest_price": 86.53,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,24 +27,24 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 1.23,
+      "position_sigma": 1.21,
       "momentum": "FLAT",
       "mid": 85.31,
-      "upper": 87.34,
+      "upper": 87.33,
       "lower": 83.28
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.39,
+      "position_sigma": 1.38,
       "momentum": "UP",
       "mid": 81.7,
       "upper": 88.71,
-      "lower": 74.69
+      "lower": 74.7
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$86.56付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$86.53付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
@@ -59,13 +59,6 @@
       "link": "https://www.fxstreet.com/news/wti-consolidates-around-8600-bulls-potential-intact-amid-us-iran-impasse-202608210109",
       "published_at_utc": "2026-08-21T01:09:56+00:00",
       "title": "WTIは86.00ドル付近で固まる。米国とイランの行き詰まりでも強気派の可能性は無傷"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Japanese Yen underperforms as elevated Oil prices weigh, US Dollar recovers",
-      "link": "https://www.fxstreet.com/news/japanese-yen-underperforms-as-elevated-oil-prices-weigh-us-dollar-recovers-202608201756",
-      "published_at_utc": "2026-08-20T17:56:46+00:00",
-      "title": "原油価格の高騰と米ドルの回復により、日本円はアンダーパフォーム"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
