@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-21T06:46:57.601518+00:00",
+  "generated_at_utc": "2026-08-21T07:31:30.639890+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 86.34,
+  "latest_price": 86.26,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,24 +27,24 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.9,
+      "position_sigma": 0.83,
       "momentum": "FLAT",
       "mid": 85.45,
-      "upper": 87.42,
+      "upper": 87.4,
       "lower": 83.49
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.19,
+      "position_sigma": 1.17,
       "momentum": "FLAT",
-      "mid": 81.9,
-      "upper": 89.39,
-      "lower": 74.41
+      "mid": 81.89,
+      "upper": 89.37,
+      "lower": 74.42
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$86.34付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$86.26付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
@@ -55,10 +55,10 @@
     },
     {
       "source": "FXStreet",
-      "title_en": "Indian Rupee ticks lower due to elevated oil prices, recovery in US bond yields",
+      "title_en": "Indian Rupee edges down amid elevated oil prices, recovery in US yields",
       "link": "https://www.fxstreet.com/news/indian-rupee-ticks-lower-due-to-elevated-oil-prices-recovery-in-us-bond-yields-202608210551",
       "published_at_utc": "2026-08-21T05:51:50+00:00",
-      "title": "原油価格の上昇と米国債利回りの回復によりインドルピーは下落"
+      "title": "原油価格の上昇と米国の利回り回復を受けてインドルピーは小幅下落"
     },
     {
       "source": "FXStreet",
@@ -66,13 +66,6 @@
       "link": "https://www.fxstreet.com/news/canadian-dollar-gains-ground-amid-rising-oil-prices-202608210153",
       "published_at_utc": "2026-08-21T01:53:19+00:00",
       "title": "原油価格の上昇でカナダドルが上昇"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "WTI consolidates around $86.00; bulls potential intact amid US-Iran impasse",
-      "link": "https://www.fxstreet.com/news/wti-consolidates-around-8600-bulls-potential-intact-amid-us-iran-impasse-202608210109",
-      "published_at_utc": "2026-08-21T01:09:56+00:00",
-      "title": "WTIは86.00ドル付近で固まる。米国とイランの行き詰まりでも強気派の可能性は無傷"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
