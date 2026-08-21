@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-21T08:09:28.551296+00:00",
+  "generated_at_utc": "2026-08-21T08:59:08.985198+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 86.39,
+  "latest_price": 86.09,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,24 +27,24 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.95,
+      "position_sigma": 0.55,
       "momentum": "FLAT",
-      "mid": 85.46,
-      "upper": 87.43,
-      "lower": 83.49
+      "mid": 85.56,
+      "upper": 87.48,
+      "lower": 83.64
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.2,
+      "position_sigma": 1.13,
       "momentum": "FLAT",
-      "mid": 81.9,
-      "upper": 89.4,
-      "lower": 74.41
+      "mid": 81.88,
+      "upper": 89.33,
+      "lower": 74.43
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$86.39付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$86.09付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
@@ -55,17 +55,10 @@
     },
     {
       "source": "FXStreet",
-      "title_en": "WTI steadies near $86.00 as Iran sanctions threat offsets US inventory build",
-      "link": "https://www.fxstreet.com/news/wti-steadies-near-8600-as-iran-sanctions-threat-offsets-us-inventory-build-202608210556",
-      "published_at_utc": "2026-08-21T05:56:28+00:00",
-      "title": "イラン制裁の脅威が米国の在庫積み増しを相殺、WTIは86.00ドル付近で安定"
-    },
-    {
-      "source": "FXStreet",
       "title_en": "Indian Rupee edges down amid elevated oil prices, recovery in US yields",
       "link": "https://www.fxstreet.com/news/indian-rupee-ticks-lower-due-to-elevated-oil-prices-recovery-in-us-bond-yields-202608210551",
       "published_at_utc": "2026-08-21T05:51:50+00:00",
-      "title": "原油価格の高騰と米国利回りの回復を受けてインドルピーは小幅下落"
+      "title": "原油価格の上昇と米国の利回り回復を受けてインドルピーは小幅下落"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
