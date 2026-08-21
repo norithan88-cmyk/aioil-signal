@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-21T05:20:17.186180+00:00",
+  "generated_at_utc": "2026-08-21T05:54:16.607816+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 86.14,
+  "latest_price": 86.44,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,25 +27,32 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.72,
+      "position_sigma": 0.98,
       "momentum": "FLAT",
-      "mid": 85.44,
-      "upper": 87.38,
-      "lower": 83.5
+      "mid": 85.47,
+      "upper": 87.46,
+      "lower": 83.48
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.14,
+      "position_sigma": 1.21,
       "momentum": "FLAT",
-      "mid": 81.89,
-      "upper": 89.34,
-      "lower": 74.43
+      "mid": 81.91,
+      "upper": 89.41,
+      "lower": 74.4
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$86.14付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$86.44付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Indian Rupee ticks lower due to elevated oil prices, recovery in US bond yields",
+      "link": "https://www.fxstreet.com/news/indian-rupee-ticks-lower-due-to-elevated-oil-prices-recovery-in-us-bond-yields-202608210551",
+      "published_at_utc": "2026-08-21T05:51:50+00:00",
+      "title": "原油価格の上昇と米国債利回りの回復によりインドルピーは下落"
+    },
     {
       "source": "FXStreet",
       "title_en": "Canadian Dollar gains ground amid rising oil prices",
