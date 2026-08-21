@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-21T15:28:06.554474+00:00",
+  "generated_at_utc": "2026-08-21T16:01:17.254331+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 86.79,
+  "latest_price": 86.91,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -9,7 +9,7 @@
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "4時間足:中央 / 日足:中央 → 2時間足の方向が一致していません",
+      "timeframes_note": "4時間足:中央 / 日足:上方向 → 2時間足の方向が一致していません",
       "calc_note": "2時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
@@ -27,24 +27,24 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 1.01,
+      "position_sigma": 1.11,
       "momentum": "FLAT",
-      "mid": 85.76,
-      "upper": 87.8,
-      "lower": 83.72
+      "mid": 85.77,
+      "upper": 87.83,
+      "lower": 83.71
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.29,
-      "momentum": "FLAT",
-      "mid": 81.93,
-      "upper": 89.49,
-      "lower": 74.37
+      "position_sigma": 1.31,
+      "momentum": "UP",
+      "mid": 81.94,
+      "upper": 89.52,
+      "lower": 74.35
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$86.79付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$86.91付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
@@ -66,13 +66,6 @@
       "link": "https://www.fxstreet.com/news/wti-advances-as-supply-tensions-overshadow-us-inventory-build-202608211251",
       "published_at_utc": "2026-08-21T12:51:32+00:00",
       "title": "供給緊張が米国の在庫積み増しに影を落とす中、WTIは上昇"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Indian Rupee remains under pressure amid elevated Oil prices",
-      "link": "https://www.fxstreet.com/news/indian-rupee-ticks-lower-due-to-elevated-oil-prices-recovery-in-us-bond-yields-202608210551",
-      "published_at_utc": "2026-08-21T05:51:50+00:00",
-      "title": "原油価格の高騰でインドルピーは引き続き圧力にさらされている"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
