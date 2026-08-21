@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-21T03:57:24.352326+00:00",
+  "generated_at_utc": "2026-08-21T04:48:18.223164+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
   "latest_price": 86.53,
   "day_change_pct": 0.0,
@@ -9,7 +9,7 @@
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "4時間足:中央 / 日足:上方向 → 2時間足の方向が一致していません",
+      "timeframes_note": "4時間足:中央 / 日足:中央 → 2時間足の方向が一致していません",
       "calc_note": "2時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
@@ -27,20 +27,20 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 1.21,
+      "position_sigma": 1.06,
       "momentum": "FLAT",
-      "mid": 85.31,
-      "upper": 87.33,
-      "lower": 83.28
+      "mid": 85.47,
+      "upper": 87.48,
+      "lower": 83.47
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.38,
-      "momentum": "UP",
-      "mid": 81.7,
-      "upper": 88.71,
-      "lower": 74.7
+      "position_sigma": 1.23,
+      "momentum": "FLAT",
+      "mid": 81.91,
+      "upper": 89.43,
+      "lower": 74.39
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
