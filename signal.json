@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-24T12:18:36.537627+00:00",
+  "generated_at_utc": "2026-08-24T13:26:35.710486+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 85.34,
+  "latest_price": 85.66,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -9,7 +9,7 @@
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "4時間足:下方向 / 日足:中央 → 2時間足の方向が一致していません",
+      "timeframes_note": "4時間足:中央 / 日足:中央 → 2時間足の方向が一致していません",
       "calc_note": "2時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
@@ -27,24 +27,24 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -1.69,
-      "momentum": "DOWN",
-      "mid": 86.33,
-      "upper": 87.49,
-      "lower": 85.16
+      "position_sigma": -1.25,
+      "momentum": "FLAT",
+      "mid": 86.35,
+      "upper": 87.45,
+      "lower": 85.24
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 0.79,
+      "position_sigma": 0.86,
       "momentum": "FLAT",
-      "mid": 82.28,
-      "upper": 90.02,
-      "lower": 74.54
+      "mid": 82.3,
+      "upper": 90.07,
+      "lower": 74.53
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$85.34付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$85.66付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
@@ -52,13 +52,6 @@
       "link": "https://www.fxstreet.com/news/wti-oil-retreats-toward-85-ahead-of-us-economic-offensive-against-iran-202608241217",
       "published_at_utc": "2026-08-24T12:17:26+00:00",
       "title": "WTI Oil retreats toward $85 ahead of US economic offensive against Iran"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Oil: Sanctions risk keeps market tense – Danske Bank",
-      "link": "https://www.fxstreet.com/news/oil-sanctions-risk-keeps-market-tense-danske-bank-202608240825",
-      "published_at_utc": "2026-08-24T08:25:58+00:00",
-      "title": "Oil: Sanctions risk keeps market tense – Danske Bank"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
