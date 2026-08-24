@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-24T16:40:16.003227+00:00",
+  "generated_at_utc": "2026-08-24T17:16:28.121982+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 85.26,
+  "latest_price": 85.15,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,38 +27,38 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -1.38,
+      "position_sigma": -1.51,
       "momentum": "DOWN",
-      "mid": 86.16,
-      "upper": 87.46,
-      "lower": 84.86
+      "mid": 86.15,
+      "upper": 87.48,
+      "lower": 84.83
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 0.77,
+      "position_sigma": 0.75,
       "momentum": "FLAT",
-      "mid": 82.28,
-      "upper": 90.0,
+      "mid": 82.27,
+      "upper": 89.99,
       "lower": 74.55
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$85.26付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$85.15付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
       "title_en": "WTI Price Forecast: 100-day SMA caps upside near $85",
       "link": "https://www.fxstreet.com/news/wti-price-forecast-100-day-sma-caps-upside-near-85-202608241541",
       "published_at_utc": "2026-08-24T15:41:44+00:00",
-      "title": "WTI Price Forecast: 100-day SMA caps upside near $85"
+      "title": "WTI価格予測：100日間SMA上限は85ドル付近で上昇"
     },
     {
       "source": "FXStreet",
       "title_en": "WTI Oil retreats toward $85 ahead of US economic offensive against Iran",
       "link": "https://www.fxstreet.com/news/wti-oil-retreats-toward-85-ahead-of-us-economic-offensive-against-iran-202608241217",
       "published_at_utc": "2026-08-24T12:17:26+00:00",
-      "title": "WTI Oil retreats toward $85 ahead of US economic offensive against Iran"
+      "title": "米国の対イラン経済攻勢を前に、WTI原油は85ドルに向けて後退"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
