@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-24T06:00:40.089938+00:00",
+  "generated_at_utc": "2026-08-24T07:15:53.766297+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 85.69,
+  "latest_price": 85.15,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -9,7 +9,7 @@
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "4時間足:中央 / 日足:中央 → 2時間足の方向が一致していません",
+      "timeframes_note": "4時間足:下方向 / 日足:中央 → 2時間足の方向が一致していません",
       "calc_note": "2時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
@@ -27,25 +27,39 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -0.9,
-      "momentum": "FLAT",
-      "mid": 86.3,
-      "upper": 87.65,
-      "lower": 84.94
+      "position_sigma": -1.51,
+      "momentum": "DOWN",
+      "mid": 86.25,
+      "upper": 87.71,
+      "lower": 84.79
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 0.87,
+      "position_sigma": 0.75,
       "momentum": "FLAT",
-      "mid": 82.3,
-      "upper": 90.08,
-      "lower": 74.53
+      "mid": 82.27,
+      "upper": 89.99,
+      "lower": 74.55
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$85.69付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$85.15付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "WTI Oil flirts with the $85.00 level as markets await economic D-Day sanctions on Iran",
+      "link": "https://www.fxstreet.com/news/wti-oil-flirts-with-the-8500-level-with-markets-economic-d-day-sanctions-on-iran-202608240645",
+      "published_at_utc": "2026-08-24T06:45:18+00:00",
+      "title": "WTI Oil flirts with the $85.00 level as markets await economic D-Day sanctions on Iran"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Indian Rupee moves little amid RBI support, lower oil",
+      "link": "https://www.fxstreet.com/news/indian-rupee-strengthens-due-to-strong-capital-inflows-rbi-support-202608240412",
+      "published_at_utc": "2026-08-24T04:12:40+00:00",
+      "title": "Indian Rupee moves little amid RBI support, lower oil"
+    },
     {
       "source": "FXStreet",
       "title_en": "WTI slips below $85.00 as traders take profits before new US sanctions on Iran",
