@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-24T21:22:45.994396+00:00",
+  "generated_at_utc": "2026-08-24T21:53:14.629243+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
   "latest_price": 84.98,
   "day_change_pct": 0.0,
@@ -30,7 +30,7 @@
       "position_sigma": -1.46,
       "momentum": "DOWN",
       "mid": 86.04,
-      "upper": 87.5,
+      "upper": 87.49,
       "lower": 84.59
     },
     {
@@ -51,7 +51,7 @@
       "title_en": "WTI Price Forecast: 100-day SMA caps upside near $85",
       "link": "https://www.fxstreet.com/news/wti-price-forecast-100-day-sma-caps-upside-near-85-202608241541",
       "published_at_utc": "2026-08-24T15:41:44+00:00",
-      "title": "WTI Price Forecast: 100-day SMA caps upside near $85"
+      "title": "WTI価格予測：100日間SMA上限は85ドル付近で上昇"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
