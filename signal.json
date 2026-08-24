@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-24T18:30:07.479881+00:00",
+  "generated_at_utc": "2026-08-24T19:12:47.369461+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 84.81,
+  "latest_price": 85.19,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,31 +27,31 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -1.88,
+      "position_sigma": -1.47,
       "momentum": "DOWN",
-      "mid": 86.13,
-      "upper": 87.53,
-      "lower": 84.73
+      "mid": 86.16,
+      "upper": 87.47,
+      "lower": 84.84
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 0.67,
+      "position_sigma": 0.76,
       "momentum": "FLAT",
-      "mid": 82.25,
-      "upper": 89.93,
-      "lower": 74.56
+      "mid": 82.27,
+      "upper": 89.99,
+      "lower": 74.55
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$84.81付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$85.19付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
       "title_en": "WTI Price Forecast: 100-day SMA caps upside near $85",
       "link": "https://www.fxstreet.com/news/wti-price-forecast-100-day-sma-caps-upside-near-85-202608241541",
       "published_at_utc": "2026-08-24T15:41:44+00:00",
-      "title": "WTI Price Forecast: 100-day SMA caps upside near $85"
+      "title": "WTI価格予測：100日間SMA上限は85ドル付近で上昇"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
