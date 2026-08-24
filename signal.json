@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-24T01:01:50.062666+00:00",
+  "generated_at_utc": "2026-08-24T02:35:36.450401+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 85.83,
+  "latest_price": 85.44,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,24 +27,32 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -0.46,
+      "position_sigma": -0.88,
       "momentum": "FLAT",
-      "mid": 86.21,
-      "upper": 87.87,
-      "lower": 84.55
+      "mid": 86.18,
+      "upper": 87.88,
+      "lower": 84.49
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 0.9,
+      "position_sigma": 0.81,
       "momentum": "FLAT",
-      "mid": 82.31,
-      "upper": 90.11,
-      "lower": 74.52
+      "mid": 82.29,
+      "upper": 90.04,
+      "lower": 74.54
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$85.83付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
-  "news": [],
+  "market_context": "WTI原油（CL=F）は現在$85.44付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "WTI slips below $85.00 as traders take profits before new US sanctions on Iran",
+      "link": "https://www.fxstreet.com/news/wti-slips-below-8500-as-traders-take-profits-before-new-us-sanctions-on-iran-202608240130",
+      "published_at_utc": "2026-08-24T01:30:59+00:00",
+      "title": "WTI slips below $85.00 as traders take profits before new US sanctions on Iran"
+    }
+  ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
 }
