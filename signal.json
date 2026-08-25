@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-25T03:36:30.167911+00:00",
+  "generated_at_utc": "2026-08-25T04:21:56.117882+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 85.35,
+  "latest_price": 85.37,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,16 +27,16 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -0.88,
+      "position_sigma": -1.27,
       "momentum": "FLAT",
-      "mid": 85.97,
-      "upper": 87.4,
-      "lower": 84.55
+      "mid": 86.27,
+      "upper": 87.68,
+      "lower": 84.85
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 0.7,
+      "position_sigma": 0.71,
       "momentum": "FLAT",
       "mid": 82.9,
       "upper": 89.9,
@@ -44,8 +44,15 @@
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$85.35付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$85.37付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Canadian Dollar remains depressed as firmer USD and trade war counter higher oil prices",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-remains-depressed-as-firmer-usd-and-trade-war-counter-higher-oil-prices-202608250412",
+      "published_at_utc": "2026-08-25T04:12:38+00:00",
+      "title": "Canadian Dollar remains depressed as firmer USD and trade war counter higher oil prices"
+    },
     {
       "source": "FXStreet",
       "title_en": "WTI holds ground above $84.50 as escalating concerns over US sanctions on Iran",
