@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-25T05:03:15.181341+00:00",
+  "generated_at_utc": "2026-08-25T05:43:38.938350+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 85.12,
+  "latest_price": 84.9,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -9,7 +9,7 @@
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "4時間足:中央 / 日足:中央 → 2時間足の方向が一致していません",
+      "timeframes_note": "4時間足:下方向 / 日足:中央 → 2時間足の方向が一致していません",
       "calc_note": "2時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
@@ -27,38 +27,38 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -1.07,
-      "momentum": "FLAT",
-      "mid": 85.91,
-      "upper": 87.38,
-      "lower": 84.44
+      "position_sigma": -1.32,
+      "momentum": "DOWN",
+      "mid": 85.89,
+      "upper": 87.4,
+      "lower": 84.39
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 0.64,
+      "position_sigma": 0.58,
       "momentum": "FLAT",
-      "mid": 82.88,
-      "upper": 89.86,
+      "mid": 82.87,
+      "upper": 89.83,
       "lower": 75.9
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$85.12付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$84.90付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
       "title_en": "Canadian Dollar remains depressed as firmer USD and trade war counter higher oil prices",
       "link": "https://www.fxstreet.com/news/canadian-dollar-remains-depressed-as-firmer-usd-and-trade-war-counter-higher-oil-prices-202608250412",
       "published_at_utc": "2026-08-25T04:12:38+00:00",
-      "title": "Canadian Dollar remains depressed as firmer USD and trade war counter higher oil prices"
+      "title": "米ドル高と貿易戦争が原油価格の上昇に対抗するため、カナダドルは引き続き下落"
     },
     {
       "source": "FXStreet",
       "title_en": "WTI holds ground above $84.50 as escalating concerns over US sanctions on Iran",
       "link": "https://www.fxstreet.com/news/wti-holds-ground-above-8450-as-escalating-concerns-over-us-sanctions-on-iran-202608250135",
       "published_at_utc": "2026-08-25T01:35:23+00:00",
-      "title": "WTI holds ground above $84.50 as escalating concerns over US sanctions on Iran"
+      "title": "米国の対イラン制裁に対する懸念の高まりを受け、WTIは84.50ドルを上回る地合いを維持"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
