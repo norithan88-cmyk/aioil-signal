@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-25T11:13:57.948839+00:00",
+  "generated_at_utc": "2026-08-25T11:48:05.221593+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 82.44,
+  "latest_price": 82.36,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,16 +27,16 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -2.76,
+      "position_sigma": -2.79,
       "momentum": "DOWN",
-      "mid": 85.6,
-      "upper": 87.89,
-      "lower": 83.31
+      "mid": 85.59,
+      "upper": 87.91,
+      "lower": 83.28
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -0.08,
+      "position_sigma": -0.1,
       "momentum": "FLAT",
       "mid": 82.7,
       "upper": 89.58,
@@ -44,14 +44,28 @@
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$82.44付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$82.36付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Oil: Chinese demand peak shifts market balance – Commerzbank",
+      "link": "https://www.fxstreet.com/news/oil-chinese-demand-peak-shifts-market-balance-commerzbank-202608251145",
+      "published_at_utc": "2026-08-25T11:45:47+00:00",
+      "title": "石油：中国の需要ピークにより市場バランスが変化 – コメルツ銀行"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "WTI plummets to near $82 as US economic pressure on Iran seems less risky",
+      "link": "https://www.fxstreet.com/news/wti-plummets-to-near-82-as-us-economic-pressure-on-iran-seems-less-risky-202608251136",
+      "published_at_utc": "2026-08-25T11:36:00+00:00",
+      "title": "米国の対イラン経済圧力のリスクが低くなり、WTIは82ドル近くまで急落"
+    },
     {
       "source": "FXStreet",
       "title_en": "Indian Rupee jumps to weekly high amid lower Oil prices, declining US Yields",
       "link": "https://www.fxstreet.com/news/indian-rupee-ticks-up-against-us-dollar-on-rbis-likely-intervention-202608250537",
       "published_at_utc": "2026-08-25T05:37:39+00:00",
-      "title": "Indian Rupee jumps to weekly high amid lower Oil prices, declining US Yields"
+      "title": "原油価格下落と米国利回りの低下を受けてインドルピーが週間高値に上昇"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
