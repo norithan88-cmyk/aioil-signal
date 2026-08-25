@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-25T07:14:44.047085+00:00",
+  "generated_at_utc": "2026-08-25T08:02:22.420593+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 84.22,
+  "latest_price": 84.43,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,24 +27,24 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -1.96,
+      "position_sigma": -1.78,
       "momentum": "DOWN",
-      "mid": 85.85,
-      "upper": 87.5,
-      "lower": 84.19
+      "mid": 85.86,
+      "upper": 87.46,
+      "lower": 84.26
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 0.4,
+      "position_sigma": 0.46,
       "momentum": "FLAT",
-      "mid": 82.82,
-      "upper": 89.74,
+      "mid": 82.84,
+      "upper": 89.77,
       "lower": 75.9
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$84.22付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$84.43付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
@@ -59,13 +59,6 @@
       "link": "https://www.fxstreet.com/news/canadian-dollar-remains-depressed-as-firmer-usd-and-trade-war-counter-higher-oil-prices-202608250412",
       "published_at_utc": "2026-08-25T04:12:38+00:00",
       "title": "Canadian Dollar remains depressed as firmer USD and trade war counter higher oil prices"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "WTI holds ground above $84.50 as escalating concerns over US sanctions on Iran",
-      "link": "https://www.fxstreet.com/news/wti-holds-ground-above-8450-as-escalating-concerns-over-us-sanctions-on-iran-202608250135",
-      "published_at_utc": "2026-08-25T01:35:23+00:00",
-      "title": "WTI holds ground above $84.50 as escalating concerns over US sanctions on Iran"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
