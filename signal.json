@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-08-25T13:24:14.729555+00:00",
+  "generated_at_utc": "2026-08-25T14:13:11.519831+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 81.92,
-  "day_change_pct": 0.0,
+  "latest_price": 82.68,
+  "day_change_pct": -0.05,
   "signal": {
     "bias": "WAIT",
     "bias_label": "方向感なし",
@@ -27,24 +27,24 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -2.22,
+      "position_sigma": -1.86,
       "momentum": "DOWN",
-      "mid": 85.27,
-      "upper": 88.29,
-      "lower": 82.25
+      "mid": 85.32,
+      "upper": 88.13,
+      "lower": 82.52
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -0.22,
+      "position_sigma": -0.01,
       "momentum": "FLAT",
-      "mid": 82.67,
-      "upper": 89.56,
-      "lower": 75.78
+      "mid": 82.72,
+      "upper": 89.6,
+      "lower": 75.84
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$81.92付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$82.68付近で推移（直近1時間比-0.05%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
