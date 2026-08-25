@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-25T15:59:46.815729+00:00",
+  "generated_at_utc": "2026-08-25T16:49:35.359199+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 81.9,
+  "latest_price": 82.25,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,45 +27,38 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -2.22,
+      "position_sigma": -1.71,
       "momentum": "DOWN",
-      "mid": 85.27,
-      "upper": 88.3,
-      "lower": 82.24
+      "mid": 84.97,
+      "upper": 88.15,
+      "lower": 81.78
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -0.22,
+      "position_sigma": -0.13,
       "momentum": "FLAT",
-      "mid": 82.67,
-      "upper": 89.56,
-      "lower": 75.78
+      "mid": 82.69,
+      "upper": 89.57,
+      "lower": 75.81
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$81.90付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$82.25付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Canadian Dollar faces double trouble from Oil slump, US tariffs",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-faces-double-trouble-from-oil-slump-us-tariffs-202608251622",
+      "published_at_utc": "2026-08-25T16:22:07+00:00",
+      "title": "Canadian Dollar faces double trouble from Oil slump, US tariffs"
+    },
     {
       "source": "FXStreet",
       "title_en": "WTI slides as traders shrug off US sanctions on Iran, Hormuz risks persist",
       "link": "https://www.fxstreet.com/news/wti-slides-as-traders-shrug-off-us-sanctions-on-iran-hormuz-risks-persist-202608251448",
       "published_at_utc": "2026-08-25T14:48:23+00:00",
       "title": "WTI slides as traders shrug off US sanctions on Iran, Hormuz risks persist"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Oil: Chinese demand peak shifts market balance – Commerzbank",
-      "link": "https://www.fxstreet.com/news/oil-chinese-demand-peak-shifts-market-balance-commerzbank-202608251145",
-      "published_at_utc": "2026-08-25T11:45:47+00:00",
-      "title": "Oil: Chinese demand peak shifts market balance – Commerzbank"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "WTI plummets to near $82 as US economic pressure on Iran seems less risky",
-      "link": "https://www.fxstreet.com/news/wti-plummets-to-near-82-as-us-economic-pressure-on-iran-seems-less-risky-202608251136",
-      "published_at_utc": "2026-08-25T11:36:00+00:00",
-      "title": "WTI plummets to near $82 as US economic pressure on Iran seems less risky"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
