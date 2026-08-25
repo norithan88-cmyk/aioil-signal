@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-25T08:02:22.420593+00:00",
+  "generated_at_utc": "2026-08-25T08:55:17.578546+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 84.43,
+  "latest_price": 83.41,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,38 +27,45 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -1.78,
+      "position_sigma": -2.3,
       "momentum": "DOWN",
-      "mid": 85.86,
-      "upper": 87.46,
-      "lower": 84.26
+      "mid": 85.66,
+      "upper": 87.62,
+      "lower": 83.71
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 0.46,
+      "position_sigma": 0.19,
       "momentum": "FLAT",
-      "mid": 82.84,
-      "upper": 89.77,
-      "lower": 75.9
+      "mid": 82.77,
+      "upper": 89.66,
+      "lower": 75.88
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$84.43付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$83.41付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
       "title_en": "WTI slides below $84.00 on firmer USD but US-Iran tensions limit deeper losses",
       "link": "https://www.fxstreet.com/news/wti-slides-below-8400-on-firmer-usd-but-us-iran-tensions-limit-deeper-losses-202608250647",
       "published_at_utc": "2026-08-25T06:47:29+00:00",
-      "title": "WTI slides below $84.00 on firmer USD but US-Iran tensions limit deeper losses"
+      "title": "WTIは米ドル高を受けて84.00ドルを下回るも、米国とイランの緊張によりさらなる下落は限定的"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Indian Rupee to remain under pressure due to elevated oil prices",
+      "link": "https://www.fxstreet.com/news/indian-rupee-ticks-up-against-us-dollar-on-rbis-likely-intervention-202608250537",
+      "published_at_utc": "2026-08-25T05:37:39+00:00",
+      "title": "インドルピーは原油価格高騰で引き続き圧力を受ける"
     },
     {
       "source": "FXStreet",
       "title_en": "Canadian Dollar remains depressed as firmer USD and trade war counter higher oil prices",
       "link": "https://www.fxstreet.com/news/canadian-dollar-remains-depressed-as-firmer-usd-and-trade-war-counter-higher-oil-prices-202608250412",
       "published_at_utc": "2026-08-25T04:12:38+00:00",
-      "title": "Canadian Dollar remains depressed as firmer USD and trade war counter higher oil prices"
+      "title": "米ドル高と貿易戦争が原油価格の上昇に対抗するため、カナダドルは引き続き下落"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
