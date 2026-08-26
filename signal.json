@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-08-26T07:56:00.899321+00:00",
+  "generated_at_utc": "2026-08-26T08:50:59.421188+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 80.1,
-  "day_change_pct": -0.01,
+  "latest_price": 79.83,
+  "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
     "bias_label": "方向感なし",
@@ -27,66 +27,59 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -1.64,
+      "position_sigma": -1.49,
       "momentum": "DOWN",
-      "mid": 83.62,
-      "upper": 87.9,
-      "lower": 79.33
+      "mid": 83.19,
+      "upper": 87.7,
+      "lower": 78.68
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -1.0,
+      "position_sigma": -1.09,
       "momentum": "FLAT",
-      "mid": 83.02,
-      "upper": 88.84,
-      "lower": 77.21
+      "mid": 83.01,
+      "upper": 88.86,
+      "lower": 77.15
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$80.10付近で推移（直近1時間比-0.01%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$79.83付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Euro advances against Canadian Dollar amid falling oil prices",
+      "link": "https://www.fxstreet.com/news/euro-advances-against-canadian-dollar-amid-falling-oil-prices-202608260828",
+      "published_at_utc": "2026-08-26T08:28:46+00:00",
+      "title": "Euro advances against Canadian Dollar amid falling oil prices"
+    },
     {
       "source": "FXStreet",
       "title_en": "Brent: Prices extend sharp decline – Deutsche Bank",
       "link": "https://www.fxstreet.com/news/brent-prices-extend-sharp-decline-deutsche-bank-202608260744",
       "published_at_utc": "2026-08-26T07:44:35+00:00",
-      "title": "ブレント：価格急落が続く – ドイツ銀行"
+      "title": "Brent: Prices extend sharp decline – Deutsche Bank"
     },
     {
       "source": "FXStreet",
       "title_en": "Equities: Tech-led gains with softer Oil – Deutsche Bank",
       "link": "https://www.fxstreet.com/news/equities-tech-led-gains-with-softer-oil-deutsche-bank-202608260647",
       "published_at_utc": "2026-08-26T06:47:35+00:00",
-      "title": "株式：原油安でハイテク主導の利益 – ドイツ銀行"
+      "title": "Equities: Tech-led gains with softer Oil – Deutsche Bank"
     },
     {
       "source": "FXStreet",
       "title_en": "Canadian Dollar gives away gains amid lower oil prices, fresh trade tensions",
       "link": "https://www.fxstreet.com/news/canadian-dollar-gives-away-gains-amid-lower-oil-prices-fresh-trade-tensions-202608260624",
       "published_at_utc": "2026-08-26T06:24:57+00:00",
-      "title": "原油価格の下落と新たな貿易摩擦の中でカナダドルが上昇"
+      "title": "Canadian Dollar gives away gains amid lower oil prices, fresh trade tensions"
     },
     {
       "source": "FXStreet",
       "title_en": "Oil: Prices retreat on Gulf diplomacy – ING",
       "link": "https://www.fxstreet.com/news/oil-prices-retreat-on-gulf-diplomacy-ing-202608260620",
       "published_at_utc": "2026-08-26T06:20:48+00:00",
-      "title": "石油：湾岸外交で価格後退 – ING"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Asian stock markets gain as oil extends downfall, eyes on Jackson Hole Symposium",
-      "link": "https://www.fxstreet.com/news/asian-stock-markets-gain-as-oil-extends-downfall-eyes-on-jackson-hall-symposium-202608260452",
-      "published_at_utc": "2026-08-26T04:52:55+00:00",
-      "title": "ジャクソンホールシンポジウムに注目、原油安が長期化する中、アジア株式市場は上昇"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "WTI Price Forecast: Seems vulnerable below $80.00 as break below 50% Fibo. comes into play",
-      "link": "https://www.fxstreet.com/news/wti-price-forecast-seems-vulnerable-below-8000-as-break-below-50-fibo-comes-into-play-202608260448",
-      "published_at_utc": "2026-08-26T04:48:39+00:00",
-      "title": "WTI価格予測: フィボナッチ50%を下回ると、80.00ドル以下で脆弱になるようです。登場する"
+      "title": "Oil: Prices retreat on Gulf diplomacy – ING"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
