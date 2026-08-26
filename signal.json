@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-26T12:00:29.392819+00:00",
+  "generated_at_utc": "2026-08-26T13:10:45.270348+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 80.54,
+  "latest_price": 80.68,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,24 +27,24 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -1.23,
+      "position_sigma": -1.02,
       "momentum": "FLAT",
-      "mid": 83.24,
-      "upper": 87.62,
-      "lower": 78.86
+      "mid": 82.91,
+      "upper": 87.26,
+      "lower": 78.56
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -0.87,
+      "position_sigma": -0.83,
       "momentum": "FLAT",
-      "mid": 83.05,
+      "mid": 83.06,
       "upper": 88.81,
-      "lower": 77.29
+      "lower": 77.32
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$80.54付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$80.68付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
@@ -66,13 +66,6 @@
       "link": "https://www.fxstreet.com/news/brent-diplomatic-progress-weighs-on-prices-ocbc-202608260907",
       "published_at_utc": "2026-08-26T09:07:10+00:00",
       "title": "Brent: Diplomatic progress weighs on prices – OCBC"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Euro advances against Canadian Dollar amid falling oil prices",
-      "link": "https://www.fxstreet.com/news/euro-advances-against-canadian-dollar-amid-falling-oil-prices-202608260828",
-      "published_at_utc": "2026-08-26T08:28:46+00:00",
-      "title": "Euro advances against Canadian Dollar amid falling oil prices"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
