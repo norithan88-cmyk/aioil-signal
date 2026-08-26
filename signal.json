@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-26T03:04:22.116613+00:00",
+  "generated_at_utc": "2026-08-26T04:00:22.314384+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 80.34,
+  "latest_price": 80.29,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,45 +27,45 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -1.8,
+      "position_sigma": -1.82,
       "momentum": "DOWN",
       "mid": 84.08,
-      "upper": 88.24,
-      "lower": 79.93
+      "upper": 88.25,
+      "lower": 79.91
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -0.93,
+      "position_sigma": -0.1,
       "momentum": "FLAT",
-      "mid": 83.04,
-      "upper": 88.82,
-      "lower": 77.26
+      "mid": 82.7,
+      "upper": 89.58,
+      "lower": 75.82
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$80.34付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$80.29付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
       "title_en": "WTI drops amid Middle East diplomacy, eased US sanction fears",
       "link": "https://www.fxstreet.com/news/wti-drops-amid-middle-east-diplomacy-eased-us-sanction-fears-202608260135",
       "published_at_utc": "2026-08-26T01:35:41+00:00",
-      "title": "中東外交の中でWTIが下落、米国の制裁懸念が和らぐ"
+      "title": "WTI drops amid Middle East diplomacy, eased US sanction fears"
     },
     {
       "source": "FXStreet",
       "title_en": "Canadian Dollar weakens amid falling oil prices as USD holds steady ahead of US PCE",
       "link": "https://www.fxstreet.com/news/canadian-dollar-weakens-amid-falling-oil-prices-as-usd-holds-steady-ahead-of-us-pce-202608260120",
       "published_at_utc": "2026-08-26T01:20:15+00:00",
-      "title": "米ドルが米国のPCEを上回って堅調に推移する中、原油価格下落の中でカナダドルが下落"
+      "title": "Canadian Dollar weakens amid falling oil prices as USD holds steady ahead of US PCE"
     },
     {
       "source": "FXStreet",
       "title_en": "US-Iran agree ceasefire deal, sinks Oil – RIA Novosti",
       "link": "https://www.fxstreet.com/news/reports-of-us-iran-ceasefire-deal-sinks-oil-ria-novosti-202608252015",
       "published_at_utc": "2026-08-25T20:15:37+00:00",
-      "title": "米国とイランが停戦協定に合意、石油を沈没させる – RIAノーボスチ"
+      "title": "US-Iran agree ceasefire deal, sinks Oil – RIA Novosti"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
