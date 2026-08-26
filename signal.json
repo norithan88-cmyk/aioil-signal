@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-26T09:32:16.726218+00:00",
+  "generated_at_utc": "2026-08-26T10:15:49.785110+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 79.71,
+  "latest_price": 80.13,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,25 +27,32 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -1.53,
+      "position_sigma": -1.38,
       "momentum": "DOWN",
-      "mid": 83.18,
-      "upper": 87.71,
-      "lower": 78.65
+      "mid": 83.21,
+      "upper": 87.66,
+      "lower": 78.76
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -1.12,
+      "position_sigma": -1.0,
       "momentum": "FLAT",
-      "mid": 83.0,
-      "upper": 88.87,
-      "lower": 77.13
+      "mid": 83.03,
+      "upper": 88.84,
+      "lower": 77.21
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$79.71付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$80.13付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "WTI Oil drops below $80 amid hopes of Hormuz reopening, US-Iran de-escalation",
+      "link": "https://www.fxstreet.com/news/wti-oil-drops-below-80-amid-hopes-of-hormuz-reopening-us-iran-de-escalation-202608260957",
+      "published_at_utc": "2026-08-26T09:57:06+00:00",
+      "title": "WTI Oil drops below $80 amid hopes of Hormuz reopening, US-Iran de-escalation"
+    },
     {
       "source": "FXStreet",
       "title_en": "Brent: Diplomatic progress weighs on prices – OCBC",
