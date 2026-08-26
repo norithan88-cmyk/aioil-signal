@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-26T10:15:49.785110+00:00",
+  "generated_at_utc": "2026-08-26T10:55:01.098492+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 80.13,
+  "latest_price": 80.19,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,52 +27,52 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -1.38,
+      "position_sigma": -1.36,
       "momentum": "DOWN",
       "mid": 83.21,
-      "upper": 87.66,
-      "lower": 78.76
+      "upper": 87.65,
+      "lower": 78.77
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -1.0,
+      "position_sigma": -0.98,
       "momentum": "FLAT",
       "mid": 83.03,
-      "upper": 88.84,
-      "lower": 77.21
+      "upper": 88.83,
+      "lower": 77.23
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$80.13付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$80.19付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
       "title_en": "WTI Oil drops below $80 amid hopes of Hormuz reopening, US-Iran de-escalation",
       "link": "https://www.fxstreet.com/news/wti-oil-drops-below-80-amid-hopes-of-hormuz-reopening-us-iran-de-escalation-202608260957",
       "published_at_utc": "2026-08-26T09:57:06+00:00",
-      "title": "WTI Oil drops below $80 amid hopes of Hormuz reopening, US-Iran de-escalation"
+      "title": "ホルムズ島再開への期待と米国とイランの緊張緩和でWTI原油が80ドルを下回る"
     },
     {
       "source": "FXStreet",
       "title_en": "Brent: Diplomatic progress weighs on prices – OCBC",
       "link": "https://www.fxstreet.com/news/brent-diplomatic-progress-weighs-on-prices-ocbc-202608260907",
       "published_at_utc": "2026-08-26T09:07:10+00:00",
-      "title": "Brent: Diplomatic progress weighs on prices – OCBC"
+      "title": "ブレント氏：外交の進展が物価の重し – OCBC"
     },
     {
       "source": "FXStreet",
       "title_en": "Euro advances against Canadian Dollar amid falling oil prices",
       "link": "https://www.fxstreet.com/news/euro-advances-against-canadian-dollar-amid-falling-oil-prices-202608260828",
       "published_at_utc": "2026-08-26T08:28:46+00:00",
-      "title": "Euro advances against Canadian Dollar amid falling oil prices"
+      "title": "原油価格下落でユーロが対カナダドルで上昇"
     },
     {
       "source": "FXStreet",
       "title_en": "Brent: Prices extend sharp decline – Deutsche Bank",
       "link": "https://www.fxstreet.com/news/brent-prices-extend-sharp-decline-deutsche-bank-202608260744",
       "published_at_utc": "2026-08-26T07:44:35+00:00",
-      "title": "Brent: Prices extend sharp decline – Deutsche Bank"
+      "title": "ブレント：価格急落が続く – ドイツ銀行"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
