@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-26T13:10:45.270348+00:00",
+  "generated_at_utc": "2026-08-26T14:04:49.812260+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 80.68,
+  "latest_price": 81.51,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,25 +27,32 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -1.02,
+      "position_sigma": -0.68,
       "momentum": "FLAT",
-      "mid": 82.91,
-      "upper": 87.26,
-      "lower": 78.56
+      "mid": 82.96,
+      "upper": 87.22,
+      "lower": 78.71
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -0.83,
+      "position_sigma": -0.57,
       "momentum": "FLAT",
-      "mid": 83.06,
-      "upper": 88.81,
-      "lower": 77.32
+      "mid": 83.12,
+      "upper": 88.78,
+      "lower": 77.45
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$80.68付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$81.51付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Oil: Tight balance persists as Iran deal talk grows – TD Securities",
+      "link": "https://www.fxstreet.com/news/oil-tight-balance-persists-as-iran-deal-talk-grows-td-securities-202608261312",
+      "published_at_utc": "2026-08-26T13:12:20+00:00",
+      "title": "Oil: Tight balance persists as Iran deal talk grows – TD Securities"
+    },
     {
       "source": "FXStreet",
       "title_en": "Indian Rupee poised for positive opening on Thursday amid lower oil prices",
@@ -59,13 +66,6 @@
       "link": "https://www.fxstreet.com/news/wti-oil-drops-below-80-amid-hopes-of-hormuz-reopening-us-iran-de-escalation-202608260957",
       "published_at_utc": "2026-08-26T09:57:06+00:00",
       "title": "WTI Oil drops below $80 amid hopes of Hormuz reopening, US-Iran de-escalation"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Brent: Diplomatic progress weighs on prices – OCBC",
-      "link": "https://www.fxstreet.com/news/brent-diplomatic-progress-weighs-on-prices-ocbc-202608260907",
-      "published_at_utc": "2026-08-26T09:07:10+00:00",
-      "title": "Brent: Diplomatic progress weighs on prices – OCBC"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
