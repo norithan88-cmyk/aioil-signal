@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-08-26T18:18:35.549340+00:00",
+  "generated_at_utc": "2026-08-26T20:15:00.298044+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 82.39,
-  "day_change_pct": -0.01,
+  "latest_price": 81.92,
+  "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
     "bias_label": "方向感なし",
@@ -27,24 +27,24 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -0.22,
+      "position_sigma": -0.35,
       "momentum": "FLAT",
-      "mid": 82.83,
-      "upper": 86.78,
-      "lower": 78.88
+      "mid": 82.57,
+      "upper": 86.31,
+      "lower": 78.82
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -0.28,
+      "position_sigma": -0.43,
       "momentum": "FLAT",
-      "mid": 83.18,
-      "upper": 88.79,
-      "lower": 77.56
+      "mid": 83.14,
+      "upper": 88.78,
+      "lower": 77.51
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$82.39付近で推移（直近1時間比-0.01%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$81.92付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
@@ -59,13 +59,6 @@
       "link": "https://www.fxstreet.com/news/canadian-dollar-falls-despite-oil-gains-as-trade-tensions-take-center-stage-202608261438",
       "published_at_utc": "2026-08-26T14:38:08+00:00",
       "title": "貿易摩擦が注目を集める中、原油上昇にもかかわらずカナダドルは下落"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Oil: Tight balance persists as Iran deal talk grows – TD Securities",
-      "link": "https://www.fxstreet.com/news/oil-tight-balance-persists-as-iran-deal-talk-grows-td-securities-202608261312",
-      "published_at_utc": "2026-08-26T13:12:20+00:00",
-      "title": "石油：イランとの合意交渉が高まる中、厳しいバランスが続く – TD Securities"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
