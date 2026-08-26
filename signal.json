@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-26T05:25:31.367486+00:00",
+  "generated_at_utc": "2026-08-26T06:00:47.852895+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 80.61,
+  "latest_price": 80.82,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,31 +27,31 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -1.46,
+      "position_sigma": -1.38,
       "momentum": "DOWN",
-      "mid": 83.65,
-      "upper": 87.82,
-      "lower": 79.48
+      "mid": 83.67,
+      "upper": 87.8,
+      "lower": 79.54
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -0.85,
+      "position_sigma": -0.79,
       "momentum": "FLAT",
-      "mid": 83.06,
-      "upper": 88.81,
-      "lower": 77.31
+      "mid": 83.07,
+      "upper": 88.8,
+      "lower": 77.34
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$80.61付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$80.82付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
       "title_en": "Asian stock markets gain as oil extends downfall, eyes on Jackson Hall Symposium",
       "link": "https://www.fxstreet.com/news/asian-stock-markets-gain-as-oil-extends-downfall-eyes-on-jackson-hall-symposium-202608260452",
       "published_at_utc": "2026-08-26T04:52:55+00:00",
-      "title": "ジャクソンホール・シンポジウムに注目、原油安が長期化する中、アジア株式市場は上昇"
+      "title": "ジャクソンホール・シンポジウムに注目、原油安が続く中アジア株式市場は上昇"
     },
     {
       "source": "FXStreet",
