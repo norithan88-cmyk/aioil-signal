@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-08-26T16:25:17.827527+00:00",
+  "generated_at_utc": "2026-08-26T18:18:35.549340+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 82.87,
-  "day_change_pct": 0.0,
+  "latest_price": 82.39,
+  "day_change_pct": -0.01,
   "signal": {
     "bias": "WAIT",
     "bias_label": "方向感なし",
@@ -27,25 +27,32 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.01,
+      "position_sigma": -0.22,
       "momentum": "FLAT",
-      "mid": 82.86,
-      "upper": 86.81,
-      "lower": 78.91
+      "mid": 82.83,
+      "upper": 86.78,
+      "lower": 78.88
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -0.12,
+      "position_sigma": -0.28,
       "momentum": "FLAT",
-      "mid": 83.21,
-      "upper": 88.81,
-      "lower": 77.6
+      "mid": 83.18,
+      "upper": 88.79,
+      "lower": 77.56
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$82.87付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$82.39付近で推移（直近1時間比-0.01%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Crude Oil finds the tollbooth inside the Hormuz corridor",
+      "link": "https://www.fxstreet.com/news/crude-oil-finds-the-tollbooth-inside-the-hormuz-corridor-202608261753",
+      "published_at_utc": "2026-08-26T17:53:25+00:00",
+      "title": "原油、ホルムズ回廊内で料金所を発見"
+    },
     {
       "source": "FXStreet",
       "title_en": "Canadian Dollar falls despite Oil gains as trade tensions take center stage",
@@ -59,13 +66,6 @@
       "link": "https://www.fxstreet.com/news/oil-tight-balance-persists-as-iran-deal-talk-grows-td-securities-202608261312",
       "published_at_utc": "2026-08-26T13:12:20+00:00",
       "title": "石油：イランとの合意交渉が高まる中、厳しいバランスが続く – TD Securities"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Indian Rupee poised for positive opening on Thursday amid lower oil prices",
-      "link": "https://www.fxstreet.com/news/indian-rupee-poised-for-positive-opening-on-thursday-amid-lower-oil-prices-202608261144",
-      "published_at_utc": "2026-08-26T11:44:11+00:00",
-      "title": "インドルピーは原油価格下落の中、木曜日にプラスで始まる準備が整っている"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
