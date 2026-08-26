@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-26T11:32:15.894523+00:00",
+  "generated_at_utc": "2026-08-26T12:00:29.392819+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 80.22,
+  "latest_price": 80.54,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -9,7 +9,7 @@
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "4時間足:下方向 / 日足:中央 → 2時間足の方向が一致していません",
+      "timeframes_note": "4時間足:中央 / 日足:中央 → 2時間足の方向が一致していません",
       "calc_note": "2時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
@@ -27,25 +27,32 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -1.35,
-      "momentum": "DOWN",
-      "mid": 83.22,
-      "upper": 87.65,
-      "lower": 78.78
+      "position_sigma": -1.23,
+      "momentum": "FLAT",
+      "mid": 83.24,
+      "upper": 87.62,
+      "lower": 78.86
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -0.97,
+      "position_sigma": -0.87,
       "momentum": "FLAT",
-      "mid": 83.03,
-      "upper": 88.83,
-      "lower": 77.23
+      "mid": 83.05,
+      "upper": 88.81,
+      "lower": 77.29
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$80.22付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$80.54付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Indian Rupee poised for positive opening on Thursday amid lower oil prices",
+      "link": "https://www.fxstreet.com/news/indian-rupee-poised-for-positive-opening-on-thursday-amid-lower-oil-prices-202608261144",
+      "published_at_utc": "2026-08-26T11:44:11+00:00",
+      "title": "Indian Rupee poised for positive opening on Thursday amid lower oil prices"
+    },
     {
       "source": "FXStreet",
       "title_en": "WTI Oil drops below $80 amid hopes of Hormuz reopening, US-Iran de-escalation",
