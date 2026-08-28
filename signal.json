@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-28T12:44:13.834813+00:00",
+  "generated_at_utc": "2026-08-28T22:43:38.812451+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 82.76,
+  "latest_price": 83.44,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,32 +27,24 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.48,
+      "position_sigma": 1.06,
       "momentum": "FLAT",
-      "mid": 82.27,
-      "upper": 84.31,
-      "lower": 80.24
+      "mid": 82.72,
+      "upper": 84.08,
+      "lower": 81.36
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -0.61,
+      "position_sigma": -0.27,
       "momentum": "FLAT",
-      "mid": 83.89,
-      "upper": 87.6,
-      "lower": 80.17
+      "mid": 83.93,
+      "upper": 87.61,
+      "lower": 80.26
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$82.76付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
-  "news": [
-    {
-      "source": "FXStreet",
-      "title_en": "Oil: Hormuz stalemate sustains inflation risks - Rabobank",
-      "link": "https://www.fxstreet.com/news/oil-hormuz-stalemate-sustains-inflation-risks-rabobank-202608280858",
-      "published_at_utc": "2026-08-28T08:58:50+00:00",
-      "title": "Oil: Hormuz stalemate sustains inflation risks - Rabobank"
-    }
-  ],
+  "market_context": "WTI原油（CL=F）は現在$83.44付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "news": [],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
 }
