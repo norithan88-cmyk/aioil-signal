@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-27T16:29:51.075128+00:00",
+  "generated_at_utc": "2026-08-28T01:05:21.222496+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 82.5,
+  "latest_price": 83.28,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,45 +27,45 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 1.05,
+      "position_sigma": 1.25,
       "momentum": "FLAT",
-      "mid": 81.61,
-      "upper": 83.31,
-      "lower": 79.91
+      "mid": 81.87,
+      "upper": 84.13,
+      "lower": 79.6
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -0.43,
+      "position_sigma": -0.12,
       "momentum": "FLAT",
-      "mid": 83.51,
-      "upper": 88.21,
-      "lower": 78.82
+      "mid": 83.56,
+      "upper": 88.23,
+      "lower": 78.9
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$82.50付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$83.28付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "Oil: Hormuz traffic and policy risks – MUFG",
-      "link": "https://www.fxstreet.com/news/oil-hormuz-traffic-and-policy-risks-mufg-202608271410",
-      "published_at_utc": "2026-08-27T14:10:01+00:00",
-      "title": "石油：ホルムズの交通と政策リスク – MUFG"
+      "title_en": "WTI remains above $82.50 amid rising UK-Russia tensions",
+      "link": "https://www.fxstreet.com/news/wti-remains-above-8250-amid-rising-uk-russia-tensions-202608280101",
+      "published_at_utc": "2026-08-28T01:01:58+00:00",
+      "title": "WTI remains above $82.50 amid rising UK-Russia tensions"
     },
     {
       "source": "FXStreet",
-      "title_en": "Brent: Watching support at 84/83 dollars – Societe Generale",
-      "link": "https://www.fxstreet.com/news/brent-watching-support-at-84-83-dollars-societe-generale-202608271228",
-      "published_at_utc": "2026-08-27T12:28:20+00:00",
-      "title": "ブレント氏：サポートは84/83ドルに注目 – ソシエテ・ジェネラル"
+      "title_en": "US President Trump hits Canada on trade, says Hormuz Oil keeps flowing",
+      "link": "https://www.fxstreet.com/news/us-president-trump-hits-canada-on-trade-says-hormuz-oil-keeps-flowing-202608271811",
+      "published_at_utc": "2026-08-27T18:11:07+00:00",
+      "title": "US President Trump hits Canada on trade, says Hormuz Oil keeps flowing"
     },
     {
       "source": "FXStreet",
-      "title_en": "Oil: Hormuz supply recovery eases risk premium – BNY",
-      "link": "https://www.fxstreet.com/news/oil-hormuz-supply-recovery-eases-risk-premium-bny-202608271133",
-      "published_at_utc": "2026-08-27T11:33:12+00:00",
-      "title": "石油：ホルムズの供給回復でリスクプレミアムが緩和 – BNY"
+      "title_en": "Crude Oil takes back the reopening it bought on Tuesday",
+      "link": "https://www.fxstreet.com/news/crude-oil-takes-back-the-reopening-it-bought-on-tuesday-202608271807",
+      "published_at_utc": "2026-08-27T18:07:59+00:00",
+      "title": "Crude Oil takes back the reopening it bought on Tuesday"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
