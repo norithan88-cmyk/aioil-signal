@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-28T01:05:21.222496+00:00",
+  "generated_at_utc": "2026-08-28T12:44:13.834813+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 83.28,
+  "latest_price": 82.76,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,45 +27,31 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 1.25,
+      "position_sigma": 0.48,
       "momentum": "FLAT",
-      "mid": 81.87,
-      "upper": 84.13,
-      "lower": 79.6
+      "mid": 82.27,
+      "upper": 84.31,
+      "lower": 80.24
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -0.12,
+      "position_sigma": -0.61,
       "momentum": "FLAT",
-      "mid": 83.56,
-      "upper": 88.23,
-      "lower": 78.9
+      "mid": 83.89,
+      "upper": 87.6,
+      "lower": 80.17
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$83.28付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$82.76付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "WTI remains above $82.50 amid rising UK-Russia tensions",
-      "link": "https://www.fxstreet.com/news/wti-remains-above-8250-amid-rising-uk-russia-tensions-202608280101",
-      "published_at_utc": "2026-08-28T01:01:58+00:00",
-      "title": "WTI remains above $82.50 amid rising UK-Russia tensions"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "US President Trump hits Canada on trade, says Hormuz Oil keeps flowing",
-      "link": "https://www.fxstreet.com/news/us-president-trump-hits-canada-on-trade-says-hormuz-oil-keeps-flowing-202608271811",
-      "published_at_utc": "2026-08-27T18:11:07+00:00",
-      "title": "US President Trump hits Canada on trade, says Hormuz Oil keeps flowing"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Crude Oil takes back the reopening it bought on Tuesday",
-      "link": "https://www.fxstreet.com/news/crude-oil-takes-back-the-reopening-it-bought-on-tuesday-202608271807",
-      "published_at_utc": "2026-08-27T18:07:59+00:00",
-      "title": "Crude Oil takes back the reopening it bought on Tuesday"
+      "title_en": "Oil: Hormuz stalemate sustains inflation risks - Rabobank",
+      "link": "https://www.fxstreet.com/news/oil-hormuz-stalemate-sustains-inflation-risks-rabobank-202608280858",
+      "published_at_utc": "2026-08-28T08:58:50+00:00",
+      "title": "Oil: Hormuz stalemate sustains inflation risks - Rabobank"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
