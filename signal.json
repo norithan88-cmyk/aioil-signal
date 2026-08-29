@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-29T15:29:49.326653+00:00",
+  "generated_at_utc": "2026-08-29T18:48:30.860295+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
   "latest_price": 83.4,
   "day_change_pct": 0.0,
@@ -36,11 +36,11 @@
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -0.02,
+      "position_sigma": -0.29,
       "momentum": "FLAT",
-      "mid": 83.58,
-      "upper": 88.25,
-      "lower": 78.92
+      "mid": 83.93,
+      "upper": 87.6,
+      "lower": 80.25
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
