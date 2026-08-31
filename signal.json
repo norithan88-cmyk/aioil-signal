@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-08-31T20:15:02.338030+00:00",
+  "generated_at_utc": "2026-08-31T23:55:02.368771+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 85.91,
-  "day_change_pct": -0.06,
+  "latest_price": 86.35,
+  "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
     "bias_label": "方向感なし",
@@ -27,38 +27,45 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 1.31,
+      "position_sigma": 1.56,
       "momentum": "UP",
-      "mid": 84.34,
-      "upper": 86.81,
-      "lower": 81.86
+      "mid": 84.37,
+      "upper": 86.91,
+      "lower": 81.82
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 0.97,
+      "position_sigma": 1.15,
       "momentum": "FLAT",
-      "mid": 84.18,
-      "upper": 87.86,
-      "lower": 80.51
+      "mid": 84.21,
+      "upper": 87.94,
+      "lower": 80.48
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$85.91付近で推移（直近1時間比-0.06%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$86.35付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Australian Dollar flat as Oil spike, Fed hawkish bets keep traders cautious",
+      "link": "https://www.fxstreet.com/news/australian-dollar-flat-as-oil-spike-fed-hawkish-bets-keep-traders-cautious-202608312300",
+      "published_at_utc": "2026-08-31T23:00:10+00:00",
+      "title": "原油高騰で豪ドルは横ばい、FRBのタカ派的観測でトレーダーらは慎重に"
+    },
     {
       "source": "FXStreet",
       "title_en": "US President Trump says Iran strikes will be limited as Oil flows through Hormuz",
       "link": "https://www.fxstreet.com/news/us-president-trump-says-iran-strikes-will-be-limited-as-hormuz-oil-flows-202608311956",
       "published_at_utc": "2026-08-31T19:56:29+00:00",
-      "title": "トランプ米大統領、原油がホルムズを通過する中、イランの攻撃は限定的になる見通し"
+      "title": "トランプ米大統領、石油がホルムズを通過するためイラン攻撃は限定的になると発言"
     },
     {
       "source": "FXStreet",
       "title_en": "Gold slips as Warsh Fed hike bets, Oil rally lift US yields",
       "link": "https://www.fxstreet.com/news/gold-slips-as-warsh-fed-hike-bets-oil-rally-lift-us-yields-202608311836",
       "published_at_utc": "2026-08-31T18:36:48+00:00",
-      "title": "ウォーシュ連銀の利上げ観測で金は下落、原油相場の上昇で米国利回りが上昇"
+      "title": "ウォーシュ連銀の利上げ観測で金は下落、原油上昇で米国利回りが上昇"
     },
     {
       "source": "FXStreet",
