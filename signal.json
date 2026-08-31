@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-31T00:51:48.430860+00:00",
+  "generated_at_utc": "2026-08-31T06:32:49.155003+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 84.37,
+  "latest_price": 85.63,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,24 +27,46 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 1.54,
+      "position_sigma": 2.1,
       "momentum": "UP",
-      "mid": 83.01,
-      "upper": 84.78,
-      "lower": 81.24
+      "mid": 83.31,
+      "upper": 85.52,
+      "lower": 81.1
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 0.16,
+      "position_sigma": 0.81,
       "momentum": "FLAT",
-      "mid": 84.08,
-      "upper": 87.63,
+      "mid": 84.16,
+      "upper": 87.8,
       "lower": 80.53
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$84.37付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
-  "news": [],
+  "market_context": "WTI原油（CL=F）は現在$85.63付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Indian Rupee opens lower as renewed US-Iran tensions lift oil prices",
+      "link": "https://www.fxstreet.com/news/indian-rupee-opens-lower-as-renewed-us-iran-tensions-lift-oil-prices-202608310525",
+      "published_at_utc": "2026-08-31T05:25:47+00:00",
+      "title": "Indian Rupee opens lower as renewed US-Iran tensions lift oil prices"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "WTI rises to near $84.50 as IRGC claims supertanker struck by mines in Hormuz",
+      "link": "https://www.fxstreet.com/news/wti-rises-to-near-8450-as-irgc-claims-supertanker-struck-by-mines-in-hormuz-202608310502",
+      "published_at_utc": "2026-08-31T05:02:47+00:00",
+      "title": "WTI rises to near $84.50 as IRGC claims supertanker struck by mines in Hormuz"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "WTI remains above $83.50 as Iran fires missiles following US strikes",
+      "link": "https://www.fxstreet.com/news/wti-remains-above-8350-as-iran-fires-missiles-following-us-strikes-202608310053",
+      "published_at_utc": "2026-08-31T00:53:35+00:00",
+      "title": "WTI remains above $83.50 as Iran fires missiles following US strikes"
+    }
+  ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
 }
