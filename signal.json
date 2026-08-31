@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-08-31T14:22:43.452994+00:00",
+  "generated_at_utc": "2026-08-31T20:15:02.338030+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 85.55,
-  "day_change_pct": 0.0,
+  "latest_price": 85.91,
+  "day_change_pct": -0.06,
   "signal": {
     "bias": "WAIT",
     "bias_label": "方向感なし",
@@ -27,38 +27,59 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 1.41,
+      "position_sigma": 1.31,
       "momentum": "UP",
-      "mid": 83.88,
-      "upper": 86.25,
-      "lower": 81.51
+      "mid": 84.34,
+      "upper": 86.81,
+      "lower": 81.86
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 0.77,
+      "position_sigma": 0.97,
       "momentum": "FLAT",
-      "mid": 84.16,
-      "upper": 87.78,
-      "lower": 80.53
+      "mid": 84.18,
+      "upper": 87.86,
+      "lower": 80.51
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$85.55付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$85.91付近で推移（直近1時間比-0.06%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "Oil: geopolitical support and Venezuela deal risk – BNY",
-      "link": "https://www.fxstreet.com/news/oil-geopolitical-support-and-venezuela-deal-risk-bny-202608311227",
-      "published_at_utc": "2026-08-31T12:27:13+00:00",
-      "title": "石油：地政学的な支援とベネズエラ取引のリスク – BNY"
+      "title_en": "US President Trump says Iran strikes will be limited as Oil flows through Hormuz",
+      "link": "https://www.fxstreet.com/news/us-president-trump-says-iran-strikes-will-be-limited-as-hormuz-oil-flows-202608311956",
+      "published_at_utc": "2026-08-31T19:56:29+00:00",
+      "title": "トランプ米大統領、原油がホルムズを通過する中、イランの攻撃は限定的になる見通し"
     },
     {
       "source": "FXStreet",
-      "title_en": "WTI Oil appreciates beyond $85.50 as tensions rise in Iran",
-      "link": "https://www.fxstreet.com/news/wti-oil-appreciates-beyond-8550-as-tensions-rise-in-iran-202608311008",
-      "published_at_utc": "2026-08-31T10:08:51+00:00",
-      "title": "イランの緊張が高まる中、WTI原油は85.50ドルを超えて上昇"
+      "title_en": "Gold slips as Warsh Fed hike bets, Oil rally lift US yields",
+      "link": "https://www.fxstreet.com/news/gold-slips-as-warsh-fed-hike-bets-oil-rally-lift-us-yields-202608311836",
+      "published_at_utc": "2026-08-31T18:36:48+00:00",
+      "title": "ウォーシュ連銀の利上げ観測で金は下落、原油相場の上昇で米国利回りが上昇"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Crude Oil prices the mines, not the barrels",
+      "link": "https://www.fxstreet.com/news/crude-oil-prices-the-mines-not-the-barrels-202608311606",
+      "published_at_utc": "2026-08-31T16:06:08+00:00",
+      "title": "原油の価格はバレルではなく鉱山で決まる"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "US Treasury Secretary Bessent says Oil prices to fall, Yen to strengthen",
+      "link": "https://www.fxstreet.com/news/us-treasury-secretary-bessent-says-oil-prices-to-fall-yen-to-strengthen-202608311505",
+      "published_at_utc": "2026-08-31T15:05:37+00:00",
+      "title": "ベッセント米財務長官、原油価格は下落、円高になると発言"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Canadian Dollar outperforms US Dollar as geopolitical tensions boost Oil",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-outperforms-us-dollar-as-geopolitical-tensions-boost-oil-202608311453",
+      "published_at_utc": "2026-08-31T14:53:26+00:00",
+      "title": "地政学的な緊張が石油を押し上げる中、カナダドルが米ドルをアウトパフォーム"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
