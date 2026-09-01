@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-01T17:52:04.474506+00:00",
+  "generated_at_utc": "2026-09-01T20:24:43.713439+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 90.04,
+  "latest_price": 90.91,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,25 +27,32 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 2.19,
+      "position_sigma": 2.05,
       "momentum": "UP",
-      "mid": 85.96,
-      "upper": 89.69,
-      "lower": 82.22
+      "mid": 86.52,
+      "upper": 90.8,
+      "lower": 82.24
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 2.34,
+      "position_sigma": 2.54,
       "momentum": "UP",
-      "mid": 84.63,
-      "upper": 89.25,
-      "lower": 80.0
+      "mid": 84.69,
+      "upper": 89.6,
+      "lower": 79.78
     }
   ],
   "commentary": "上位足は上向き。焦らず、5分足の押し目からの反発を待つ。",
-  "market_context": "WTI原油（CL=F）は現在$90.04付近で推移（直近1時間比+0.00%）。4時間・日足は押し目買い方向で揃っているが、5分足の反発シグナルはまだ点灯していない。上位足の方向感は出ているため、5分足が押し目安値から反発するタイミングを待ちたい局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$90.91付近で推移（直近1時間比+0.00%）。4時間・日足は押し目買い方向で揃っているが、5分足の反発シグナルはまだ点灯していない。上位足の方向感は出ているため、5分足が押し目安値から反発するタイミングを待ちたい局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Gold collapses as US-Iran strikes send Oil, US yields higher",
+      "link": "https://www.fxstreet.com/news/gold-collapses-as-us-iran-strikes-send-oil-us-yields-higher-202609011930",
+      "published_at_utc": "2026-09-01T19:30:49+00:00",
+      "title": "米国とイランの攻撃で原油が流出、米国の利回りが上昇、金が暴落"
+    },
     {
       "source": "FXStreet",
       "title_en": "Crude Oil goes vertical on fresh explosions in southern Iran",
