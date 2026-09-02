@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-02T13:50:50.164347+00:00",
+  "generated_at_utc": "2026-09-02T17:30:57.354044+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 89.49,
+  "latest_price": 91.08,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -9,15 +9,15 @@
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "4時間足:中央 / 日足:上方向 → 2時間足の方向が一致していません",
-      "calc_note": "2時間足の方向が揃っていないため、基本値50%のままです。"
+      "timeframes_note": "4時間足:上方向 / 日足:上方向 → 2時間足は一致していますが、5分足の反発シグナルはまだ点灯していません",
+      "calc_note": "2時間足の方向一致のみでは確信度は上がらず、5分足の反発確認まで基本値50%のままです。"
     }
   },
   "volatility_risk": "LOW",
-  "market_mode": "RANGE",
-  "market_mode_note": "時間足ごとに方向が割れており、方向感に乏しいレンジ地合い。",
+  "market_mode": "TREND",
+  "market_mode_note": "4時間・日足の方向が揃っており、方向感のある地合い。",
   "priority_trade": {
-    "lead": "様子見 ― 4時間・日足の方向が一致していない",
+    "lead": "様子見 ― 上位足は押し目買い方向で一致、5分足の反発シグナル待ち",
     "entry": null,
     "take_profit": null,
     "stop_loss": null
@@ -27,31 +27,45 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.76,
-      "momentum": "FLAT",
-      "mid": 88.03,
-      "upper": 91.85,
-      "lower": 84.22
+      "position_sigma": 1.32,
+      "momentum": "UP",
+      "mid": 88.48,
+      "upper": 92.43,
+      "lower": 84.54
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.71,
+      "position_sigma": 2.11,
       "momentum": "UP",
-      "mid": 85.05,
-      "upper": 90.25,
-      "lower": 79.86
+      "mid": 85.16,
+      "upper": 90.76,
+      "lower": 79.56
     }
   ],
-  "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$89.49付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "commentary": "上位足は上向き。焦らず、5分足の押し目からの反発を待つ。",
+  "market_context": "WTI原油（CL=F）は現在$91.08付近で推移（直近1時間比+0.00%）。4時間・日足は押し目買い方向で揃っているが、5分足の反発シグナルはまだ点灯していない。上位足の方向感は出ているため、5分足が押し目安値から反発するタイミングを待ちたい局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "Gold: Oil-driven rate repricing weighs on bullion – ING",
-      "link": "https://www.fxstreet.com/news/gold-oil-driven-rate-repricing-weighs-on-bullion-ing-202609021117",
-      "published_at_utc": "2026-09-02T11:17:25+00:00",
-      "title": "金：原油による金利再設定が地金を圧迫 – ING"
+      "title_en": "BoC recap: Risks are shifting as oil prices and US trade actions complicate outlook",
+      "link": "https://www.fxstreet.com/news/boc-recap-risks-are-shifting-as-oil-prices-and-us-trade-actions-complicate-outlook-202609021702",
+      "published_at_utc": "2026-09-02T17:02:00+00:00",
+      "title": "BoC 総括: 原油価格と米国の通商政策により見通しが複雑になる中、リスクは変化している"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Euro: Downside risks build against US Dollar as oil rises – Scotiabank",
+      "link": "https://www.fxstreet.com/news/euro-downside-risks-build-against-us-dollar-as-oil-rises-scotiabank-202609021539",
+      "published_at_utc": "2026-09-02T15:39:25+00:00",
+      "title": "ユーロ：原油価格の上昇に伴い対米ドルの下値リスクが高まる – スコシアバンク"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Gold turns positive as turmoil in Yen pairs hits US Dollar",
+      "link": "https://www.fxstreet.com/news/gold-declines-as-us-iran-escalation-drives-oil-prices-global-bond-yields-higher-202609021114",
+      "published_at_utc": "2026-09-02T11:14:59+00:00",
+      "title": "円ペアの混乱が米ドルに影響を与える中、金はプラスに転じる"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
