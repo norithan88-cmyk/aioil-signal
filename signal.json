@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-02T09:32:21.794421+00:00",
+  "generated_at_utc": "2026-09-02T13:50:50.164347+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 90.48,
+  "latest_price": 89.49,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,52 +27,31 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 1.27,
+      "position_sigma": 0.76,
       "momentum": "FLAT",
-      "mid": 87.83,
-      "upper": 92.0,
-      "lower": 83.66
+      "mid": 88.03,
+      "upper": 91.85,
+      "lower": 84.22
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.97,
+      "position_sigma": 1.71,
       "momentum": "UP",
-      "mid": 85.12,
-      "upper": 90.56,
-      "lower": 79.68
+      "mid": 85.05,
+      "upper": 90.25,
+      "lower": 79.86
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$90.48付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$89.49付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "Brent: Higher inflation risks support prices – OCBC",
-      "link": "https://www.fxstreet.com/news/brent-higher-inflation-risks-support-prices-ocbc-202609020928",
-      "published_at_utc": "2026-09-02T09:28:32+00:00",
-      "title": "ブレント：インフレリスクの高まりが価格を支える – OCBC"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "WTI slips below $89.00 despite US-Iran escalation threatening Strait of Hormuz",
-      "link": "https://www.fxstreet.com/news/wti-slips-below-8900-despite-us-iran-escalation-threatening-strait-of-hormuz-202609020841",
-      "published_at_utc": "2026-09-02T08:41:53+00:00",
-      "title": "米国とイランのエスカレーションがホルムズ海峡を脅かすにもかかわらず、WTIは89.00ドルを下回る"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Euro advances against Canadian Dollar amid lower oil prices, ECB rate hike bets",
-      "link": "https://www.fxstreet.com/news/euro-advances-against-canadian-dollar-amid-lower-oil-prices-ecb-rate-hike-bets-202609020815",
-      "published_at_utc": "2026-09-02T08:15:23+00:00",
-      "title": "原油価格下落、ECB利上げの賭けの中、ユーロは対カナダドルで上昇"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Brent: Geopolitical risk keeps cracks elevated – ING",
-      "link": "https://www.fxstreet.com/news/brent-geopolitical-risk-keeps-cracks-elevated-ing-202609020639",
-      "published_at_utc": "2026-09-02T06:39:34+00:00",
-      "title": "ブレント氏：地政学的リスクにより亀裂は拡大し続ける – ING"
+      "title_en": "Gold: Oil-driven rate repricing weighs on bullion – ING",
+      "link": "https://www.fxstreet.com/news/gold-oil-driven-rate-repricing-weighs-on-bullion-ing-202609021117",
+      "published_at_utc": "2026-09-02T11:17:25+00:00",
+      "title": "金：原油による金利再設定が地金を圧迫 – ING"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
