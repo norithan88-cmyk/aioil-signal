@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-02T05:03:04.251210+00:00",
+  "generated_at_utc": "2026-09-02T09:32:21.794421+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 90.58,
+  "latest_price": 90.48,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -9,15 +9,15 @@
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "4時間足:上方向 / 日足:上方向 → 2時間足は一致していますが、5分足の反発シグナルはまだ点灯していません",
-      "calc_note": "2時間足の方向一致のみでは確信度は上がらず、5分足の反発確認まで基本値50%のままです。"
+      "timeframes_note": "4時間足:中央 / 日足:上方向 → 2時間足の方向が一致していません",
+      "calc_note": "2時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
   "volatility_risk": "LOW",
-  "market_mode": "TREND",
-  "market_mode_note": "4時間・日足の方向が揃っており、方向感のある地合い。",
+  "market_mode": "RANGE",
+  "market_mode_note": "時間足ごとに方向が割れており、方向感に乏しいレンジ地合い。",
   "priority_trade": {
-    "lead": "様子見 ― 上位足は押し目買い方向で一致、5分足の反発シグナル待ち",
+    "lead": "様子見 ― 4時間・日足の方向が一致していない",
     "entry": null,
     "take_profit": null,
     "stop_loss": null
@@ -27,38 +27,52 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 1.46,
-      "momentum": "UP",
-      "mid": 87.48,
-      "upper": 91.74,
-      "lower": 83.21
+      "position_sigma": 1.27,
+      "momentum": "FLAT",
+      "mid": 87.83,
+      "upper": 92.0,
+      "lower": 83.66
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.99,
+      "position_sigma": 1.97,
       "momentum": "UP",
-      "mid": 85.13,
-      "upper": 90.59,
-      "lower": 79.66
+      "mid": 85.12,
+      "upper": 90.56,
+      "lower": 79.68
     }
   ],
-  "commentary": "上位足は上向き。焦らず、5分足の押し目からの反発を待つ。",
-  "market_context": "WTI原油（CL=F）は現在$90.58付近で推移（直近1時間比+0.00%）。4時間・日足は押し目買い方向で揃っているが、5分足の反発シグナルはまだ点灯していない。上位足の方向感は出ているため、5分足が押し目安値から反発するタイミングを待ちたい局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
+  "market_context": "WTI原油（CL=F）は現在$90.48付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "WTI advances to mid-$90.00s, fresh high since July 24 amid escalating US-Iran tensions",
-      "link": "https://www.fxstreet.com/news/wti-advances-to-mid-9000s-fresh-high-since-july-24-amid-escalating-us-iran-tensions-202609020148",
-      "published_at_utc": "2026-09-02T01:48:55+00:00",
-      "title": "米国とイランの緊張が高まる中、WTIは90.00ドル台半ばまで上昇、7月24日以来の高値を更新"
+      "title_en": "Brent: Higher inflation risks support prices – OCBC",
+      "link": "https://www.fxstreet.com/news/brent-higher-inflation-risks-support-prices-ocbc-202609020928",
+      "published_at_utc": "2026-09-02T09:28:32+00:00",
+      "title": "ブレント：インフレリスクの高まりが価格を支える – OCBC"
     },
     {
       "source": "FXStreet",
-      "title_en": "British Pound drops as US Dollar strengthens on rising US yields, higher oil prices",
-      "link": "https://www.fxstreet.com/news/british-pound-drops-as-us-dollar-strengthens-on-rising-us-yields-higher-oil-prices-202609020102",
-      "published_at_utc": "2026-09-02T01:02:31+00:00",
-      "title": "米国利回りの上昇と原油価格の上昇で米ドルが上昇し、英国ポンドが下落"
+      "title_en": "WTI slips below $89.00 despite US-Iran escalation threatening Strait of Hormuz",
+      "link": "https://www.fxstreet.com/news/wti-slips-below-8900-despite-us-iran-escalation-threatening-strait-of-hormuz-202609020841",
+      "published_at_utc": "2026-09-02T08:41:53+00:00",
+      "title": "米国とイランのエスカレーションがホルムズ海峡を脅かすにもかかわらず、WTIは89.00ドルを下回る"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Euro advances against Canadian Dollar amid lower oil prices, ECB rate hike bets",
+      "link": "https://www.fxstreet.com/news/euro-advances-against-canadian-dollar-amid-lower-oil-prices-ecb-rate-hike-bets-202609020815",
+      "published_at_utc": "2026-09-02T08:15:23+00:00",
+      "title": "原油価格下落、ECB利上げの賭けの中、ユーロは対カナダドルで上昇"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Brent: Geopolitical risk keeps cracks elevated – ING",
+      "link": "https://www.fxstreet.com/news/brent-geopolitical-risk-keeps-cracks-elevated-ing-202609020639",
+      "published_at_utc": "2026-09-02T06:39:34+00:00",
+      "title": "ブレント氏：地政学的リスクにより亀裂は拡大し続ける – ING"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
