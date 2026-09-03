@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-02T22:35:01.953096+00:00",
+  "generated_at_utc": "2026-09-03T00:38:04.893481+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 90.74,
+  "latest_price": 90.79,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,24 +27,24 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 1.02,
+      "position_sigma": 0.95,
       "momentum": "FLAT",
-      "mid": 88.75,
-      "upper": 92.64,
-      "lower": 84.87
+      "mid": 89.09,
+      "upper": 92.68,
+      "lower": 85.51
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 2.03,
+      "position_sigma": 2.05,
       "momentum": "UP",
       "mid": 85.14,
-      "upper": 90.65,
-      "lower": 79.63
+      "upper": 90.66,
+      "lower": 79.62
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$90.74付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$90.79付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
@@ -58,14 +58,14 @@
       "title_en": "Indonesian Rupiah: Higher oil prices add to IDR pressure - MUFG",
       "link": "https://www.fxstreet.com/news/indonesian-rupiah-higher-oil-prices-add-to-idr-pressure-mufg-202609021807",
       "published_at_utc": "2026-09-02T18:07:46+00:00",
-      "title": "インドネシア・ルピア：原油価格上昇でIDR圧力が高まる - MUFG"
+      "title": "インドネシアルピア：原油価格上昇でIDR圧力が高まる - MUFG"
     },
     {
       "source": "FXStreet",
       "title_en": "BoC recap: Risks are shifting as Oil prices and US trade actions complicate outlook",
       "link": "https://www.fxstreet.com/news/boc-recap-risks-are-shifting-as-oil-prices-and-us-trade-actions-complicate-outlook-202609021702",
       "published_at_utc": "2026-09-02T17:02:00+00:00",
-      "title": "BoC 総括: 原油価格と米国の通商政策が見通しを複雑にする中、リスクは変化している"
+      "title": "BoC 総括: 原油価格と米国の通商政策により見通しが複雑になる中、リスクは変化している"
     },
     {
       "source": "FXStreet",
