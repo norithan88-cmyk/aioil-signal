@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-09-03T09:43:06.943491+00:00",
+  "generated_at_utc": "2026-09-03T13:55:01.686333+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 91.6,
-  "day_change_pct": 0.0,
+  "latest_price": 91.94,
+  "day_change_pct": 0.01,
   "signal": {
     "bias": "WAIT",
     "bias_label": "方向感なし",
@@ -27,45 +27,38 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 1.22,
+      "position_sigma": 1.15,
       "momentum": "FLAT",
-      "mid": 89.76,
-      "upper": 92.77,
-      "lower": 86.75
+      "mid": 90.2,
+      "upper": 93.21,
+      "lower": 87.19
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.91,
+      "position_sigma": 1.98,
       "momentum": "UP",
-      "mid": 85.85,
-      "upper": 91.87,
-      "lower": 79.82
+      "mid": 85.87,
+      "upper": 91.98,
+      "lower": 79.76
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$91.60付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$91.94付近で推移（直近1時間比+0.01%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "Dow Jones futures gain as oil prices, US yields ease",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-gain-as-oil-prices-us-yields-ease-202609030839",
-      "published_at_utc": "2026-09-03T08:39:05+00:00",
-      "title": "原油価格と米国利回りの低下を受けてダウジョーンズ先物が上昇"
+      "title_en": "Brent: Updated price paths as Persian Gulf flows shift – ING",
+      "link": "https://www.fxstreet.com/news/brent-updated-price-paths-as-persian-gulf-flows-shift-ing-202609031300",
+      "published_at_utc": "2026-09-03T13:00:22+00:00",
+      "title": "ブレント：ペルシャ湾の流れの変化に伴う価格経路の更新 – ING"
     },
     {
       "source": "FXStreet",
-      "title_en": "Oil: Rally pace moderates after Iran strikes – Commerzbank",
-      "link": "https://www.fxstreet.com/news/oil-rally-pace-moderates-after-iran-strikes-commerzbank-202609030819",
-      "published_at_utc": "2026-09-03T08:19:42+00:00",
-      "title": "石油：イラン攻撃後、上昇ペースは緩やか – コメルツ銀行"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "WTI remains broadly firm around $90 as oil shipments through Hormuz remain restricted",
-      "link": "https://www.fxstreet.com/news/wti-remains-broadly-firm-around-90-as-oil-shipments-through-hormuz-remain-restricted-202609030750",
-      "published_at_utc": "2026-09-03T07:50:44+00:00",
-      "title": "ホルムズ経由の石油輸送が引き続き制限されているため、WTIは90ドル付近で概ね堅調に推移している"
+      "title_en": "WTI Oil hits highs near $91 as risks of an all-out war in the Middle East grow",
+      "link": "https://www.fxstreet.com/news/wti-oil-hits-highs-near-91-as-risks-of-an-all-out-war-in-the-middle-east-grow-202609031121",
+      "published_at_utc": "2026-09-03T11:21:26+00:00",
+      "title": "中東での全面戦争のリスクが高まる中、WTI原油は91ドル付近の高値を更新"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
