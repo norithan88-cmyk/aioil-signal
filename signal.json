@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-03T05:05:16.231872+00:00",
+  "generated_at_utc": "2026-09-03T09:43:06.943491+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 90.57,
+  "latest_price": 91.6,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,45 +27,45 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.71,
+      "position_sigma": 1.22,
       "momentum": "FLAT",
-      "mid": 89.42,
-      "upper": 92.69,
-      "lower": 86.15
+      "mid": 89.76,
+      "upper": 92.77,
+      "lower": 86.75
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.66,
+      "position_sigma": 1.91,
       "momentum": "UP",
-      "mid": 85.78,
-      "upper": 91.56,
-      "lower": 80.0
+      "mid": 85.85,
+      "upper": 91.87,
+      "lower": 79.82
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$90.57付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$91.60付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "WTI Price Forecast: Consolidates above $89.00; bullish bias remains amid Iran risks",
-      "link": "https://www.fxstreet.com/news/wti-price-forecast-consolidates-above-8900-bullish-bias-remains-amid-iran-risks-202609030440",
-      "published_at_utc": "2026-09-03T04:40:21+00:00",
-      "title": "WTI価格予想：89.00ドルを超えると堅調。イランリスクの中、強気バイアスが残る"
+      "title_en": "Dow Jones futures gain as oil prices, US yields ease",
+      "link": "https://www.fxstreet.com/news/dow-jones-futures-gain-as-oil-prices-us-yields-ease-202609030839",
+      "published_at_utc": "2026-09-03T08:39:05+00:00",
+      "title": "原油価格と米国利回りの低下を受けてダウジョーンズ先物が上昇"
     },
     {
       "source": "FXStreet",
-      "title_en": "Canadian Dollar rises on weaker US Dollar, rising oil prices",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-rises-on-weaker-us-dollar-rising-oil-prices-202609030333",
-      "published_at_utc": "2026-09-03T03:33:04+00:00",
-      "title": "米ドル安、原油価格上昇でカナダドルが上昇"
+      "title_en": "Oil: Rally pace moderates after Iran strikes – Commerzbank",
+      "link": "https://www.fxstreet.com/news/oil-rally-pace-moderates-after-iran-strikes-commerzbank-202609030819",
+      "published_at_utc": "2026-09-03T08:19:42+00:00",
+      "title": "石油：イラン攻撃後、上昇ペースは緩やか – コメルツ銀行"
     },
     {
       "source": "FXStreet",
-      "title_en": "WTI holds gains above $89.50 amid renewed Middle East hostilities",
-      "link": "https://www.fxstreet.com/news/wti-holds-gains-above-8950-amid-renewed-middle-east-hostilities-202609030202",
-      "published_at_utc": "2026-09-03T02:02:45+00:00",
-      "title": "中東での敵対行為が再燃する中、WTIは89.50ドル以上の上昇を維持"
+      "title_en": "WTI remains broadly firm around $90 as oil shipments through Hormuz remain restricted",
+      "link": "https://www.fxstreet.com/news/wti-remains-broadly-firm-around-90-as-oil-shipments-through-hormuz-remain-restricted-202609030750",
+      "published_at_utc": "2026-09-03T07:50:44+00:00",
+      "title": "ホルムズ経由の石油輸送が引き続き制限されているため、WTIは90ドル付近で概ね堅調に推移している"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
