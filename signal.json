@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-03T00:38:04.893481+00:00",
+  "generated_at_utc": "2026-09-03T05:05:16.231872+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 90.79,
+  "latest_price": 90.57,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,59 +27,45 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.95,
+      "position_sigma": 0.71,
       "momentum": "FLAT",
-      "mid": 89.09,
-      "upper": 92.68,
-      "lower": 85.51
+      "mid": 89.42,
+      "upper": 92.69,
+      "lower": 86.15
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 2.05,
+      "position_sigma": 1.66,
       "momentum": "UP",
-      "mid": 85.14,
-      "upper": 90.66,
-      "lower": 79.62
+      "mid": 85.78,
+      "upper": 91.56,
+      "lower": 80.0
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$90.79付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$90.57付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "WTI Oil fluctuates near six-week high as Middle East tensions fuel volatility",
-      "link": "https://www.fxstreet.com/news/wti-oil-fluctuates-near-six-week-high-as-middle-east-tensions-fuel-volatility-202609021821",
-      "published_at_utc": "2026-09-02T18:21:06+00:00",
-      "title": "中東の緊張がボラティリティを高める中、WTI原油は6週間ぶりの高値付近で変動"
+      "title_en": "WTI Price Forecast: Consolidates above $89.00; bullish bias remains amid Iran risks",
+      "link": "https://www.fxstreet.com/news/wti-price-forecast-consolidates-above-8900-bullish-bias-remains-amid-iran-risks-202609030440",
+      "published_at_utc": "2026-09-03T04:40:21+00:00",
+      "title": "WTI価格予想：89.00ドルを超えると堅調。イランリスクの中、強気バイアスが残る"
     },
     {
       "source": "FXStreet",
-      "title_en": "Indonesian Rupiah: Higher oil prices add to IDR pressure - MUFG",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-higher-oil-prices-add-to-idr-pressure-mufg-202609021807",
-      "published_at_utc": "2026-09-02T18:07:46+00:00",
-      "title": "インドネシアルピア：原油価格上昇でIDR圧力が高まる - MUFG"
+      "title_en": "Canadian Dollar rises on weaker US Dollar, rising oil prices",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-rises-on-weaker-us-dollar-rising-oil-prices-202609030333",
+      "published_at_utc": "2026-09-03T03:33:04+00:00",
+      "title": "米ドル安、原油価格上昇でカナダドルが上昇"
     },
     {
       "source": "FXStreet",
-      "title_en": "BoC recap: Risks are shifting as Oil prices and US trade actions complicate outlook",
-      "link": "https://www.fxstreet.com/news/boc-recap-risks-are-shifting-as-oil-prices-and-us-trade-actions-complicate-outlook-202609021702",
-      "published_at_utc": "2026-09-02T17:02:00+00:00",
-      "title": "BoC 総括: 原油価格と米国の通商政策により見通しが複雑になる中、リスクは変化している"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Euro: Downside risks build against US Dollar as oil rises – Scotiabank",
-      "link": "https://www.fxstreet.com/news/euro-downside-risks-build-against-us-dollar-as-oil-rises-scotiabank-202609021539",
-      "published_at_utc": "2026-09-02T15:39:25+00:00",
-      "title": "ユーロ：原油価格上昇に伴い、対米ドルでの下値リスクが高まる – スコシアバンク"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Gold turns positive as turmoil in Yen pairs hits US Dollar",
-      "link": "https://www.fxstreet.com/news/gold-declines-as-us-iran-escalation-drives-oil-prices-global-bond-yields-higher-202609021114",
-      "published_at_utc": "2026-09-02T11:14:59+00:00",
-      "title": "円ペアの混乱が米ドルに影響を与える中、金はプラスに転じる"
+      "title_en": "WTI holds gains above $89.50 amid renewed Middle East hostilities",
+      "link": "https://www.fxstreet.com/news/wti-holds-gains-above-8950-amid-renewed-middle-east-hostilities-202609030202",
+      "published_at_utc": "2026-09-03T02:02:45+00:00",
+      "title": "中東での敵対行為が再燃する中、WTIは89.50ドル以上の上昇を維持"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
