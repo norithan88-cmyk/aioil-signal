@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-03T20:07:52.742497+00:00",
+  "generated_at_utc": "2026-09-03T22:34:10.222825+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 91.58,
+  "latest_price": 91.76,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,31 +27,31 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.91,
+      "position_sigma": 0.98,
       "momentum": "FLAT",
-      "mid": 90.46,
-      "upper": 92.91,
-      "lower": 88.02
+      "mid": 90.73,
+      "upper": 92.82,
+      "lower": 88.64
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.91,
+      "position_sigma": 1.95,
       "momentum": "UP",
-      "mid": 85.84,
-      "upper": 91.86,
-      "lower": 79.82
+      "mid": 85.86,
+      "upper": 91.92,
+      "lower": 79.79
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$91.58付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$91.76付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "Brent: Updated price paths as Persian Gulf flows shift – ING",
-      "link": "https://www.fxstreet.com/news/brent-updated-price-paths-as-persian-gulf-flows-shift-ing-202609031300",
-      "published_at_utc": "2026-09-03T13:00:22+00:00",
-      "title": "ブレント：ペルシャ湾の流れの変化に伴う価格経路の更新 – ING"
+      "title_en": "Indonesian Rupiah: Depreciation trend persists as oil shock weighs – MUFG",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-depreciation-trend-persists-as-oil-shock-weighs-mufg-202609032113",
+      "published_at_utc": "2026-09-03T21:13:49+00:00",
+      "title": "インドネシアルピア：オイルショックの影響で下落傾向が続く – MUFG"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
