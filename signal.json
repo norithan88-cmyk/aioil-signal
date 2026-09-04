@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-04T00:22:10.157014+00:00",
+  "generated_at_utc": "2026-09-04T04:52:37.703345+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 91.67,
+  "latest_price": 91.7,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,31 +27,38 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.84,
+      "position_sigma": 0.76,
       "momentum": "FLAT",
-      "mid": 90.96,
-      "upper": 92.66,
-      "lower": 89.26
+      "mid": 91.04,
+      "upper": 92.78,
+      "lower": 89.29
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.93,
+      "position_sigma": 1.66,
       "momentum": "UP",
-      "mid": 85.85,
-      "upper": 91.89,
-      "lower": 79.81
+      "mid": 86.45,
+      "upper": 92.76,
+      "lower": 80.13
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$91.67付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$91.70付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "Indonesian Rupiah: Depreciation trend persists as oil shock weighs – MUFG",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-depreciation-trend-persists-as-oil-shock-weighs-mufg-202609032113",
-      "published_at_utc": "2026-09-03T21:13:49+00:00",
-      "title": "インドネシアルピア：オイルショックの影響で下落傾向が続く – MUFG"
+      "title_en": "WTI Price Forecast: Bulls await acceptance above $90.00 and 61.8% Fibo. amid Iran risks",
+      "link": "https://www.fxstreet.com/news/wti-price-forecast-bulls-await-acceptance-above-9000-and-618-fibo-amid-iran-risks-202609040446",
+      "published_at_utc": "2026-09-04T04:46:11+00:00",
+      "title": "WTI価格予測: 強気派は90.00ドルおよび61.8%フィボを超える値での受け入れを待っています。イランリスクのさなか"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "WTI hovers around $89.50 as US military escorts tankers through Hormuz earlier this week",
+      "link": "https://www.fxstreet.com/news/wti-hovers-around-8950-as-us-military-escorts-tankers-through-hormuz-earlier-this-week-202609040129",
+      "published_at_utc": "2026-09-04T01:29:01+00:00",
+      "title": "今週初めに米軍がタンカーをホルムズ経由で護衛する中、WTIは89.50ドル付近で推移している"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
