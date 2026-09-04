@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-04T09:17:55.767838+00:00",
+  "generated_at_utc": "2026-09-04T13:36:15.662258+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 90.96,
+  "latest_price": 90.21,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -9,7 +9,7 @@
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "4時間足:中央 / 日足:上方向 → 2時間足の方向が一致していません",
+      "timeframes_note": "4時間足:中央 / 日足:中央 → 2時間足の方向が一致していません",
       "calc_note": "2時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
@@ -27,31 +27,31 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -0.05,
+      "position_sigma": -0.84,
       "momentum": "FLAT",
-      "mid": 91.0,
+      "mid": 90.96,
       "upper": 92.74,
-      "lower": 89.26
+      "lower": 89.17
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.48,
-      "momentum": "UP",
-      "mid": 86.4,
-      "upper": 92.56,
-      "lower": 80.23
+      "position_sigma": 1.28,
+      "momentum": "FLAT",
+      "mid": 86.35,
+      "upper": 92.37,
+      "lower": 80.32
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$90.96付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$90.21付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "Oil: Elevated prices face fragile support – ING",
-      "link": "https://www.fxstreet.com/news/oil-elevated-prices-face-fragile-support-ing-202609040648",
-      "published_at_utc": "2026-09-04T06:48:48+00:00",
-      "title": "石油：価格高騰で脆弱なサポートに直面 – ING"
+      "title_en": "WTI Oil retreats below $89 despite persistent tensions around the Strait of Hormuz",
+      "link": "https://www.fxstreet.com/news/wti-oil-retreats-below-89-despite-persistent-tensions-around-the-strait-of-hormuz-202609041224",
+      "published_at_utc": "2026-09-04T12:24:38+00:00",
+      "title": "WTI Oil retreats below $89 despite persistent tensions around the Strait of Hormuz"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
