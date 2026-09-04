@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-04T17:04:15.936506+00:00",
+  "generated_at_utc": "2026-09-04T19:31:54.402175+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 90.93,
+  "latest_price": 91.46,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,24 +27,24 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -0.15,
+      "position_sigma": 0.43,
       "momentum": "FLAT",
-      "mid": 91.06,
-      "upper": 92.74,
-      "lower": 89.38
+      "mid": 91.09,
+      "upper": 92.78,
+      "lower": 89.41
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.47,
+      "position_sigma": 1.61,
       "momentum": "UP",
-      "mid": 86.39,
-      "upper": 92.55,
-      "lower": 80.24
+      "mid": 86.43,
+      "upper": 92.7,
+      "lower": 80.16
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$90.93付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$91.46付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
@@ -65,7 +65,7 @@
       "title_en": "WTI Oil retreats below $89 despite persistent tensions around the Strait of Hormuz",
       "link": "https://www.fxstreet.com/news/wti-oil-retreats-below-89-despite-persistent-tensions-around-the-strait-of-hormuz-202609041224",
       "published_at_utc": "2026-09-04T12:24:38+00:00",
-      "title": "ホルムズ海峡周辺で緊張が続くにも関わらず、WTI原油は89ドル以下に後退"
+      "title": "ホルムズ海峡周辺の緊張が続くにも関わらず、WTI原油は89ドル以下に後退"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
