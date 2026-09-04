@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-04T13:36:15.662258+00:00",
+  "generated_at_utc": "2026-09-04T17:04:15.936506+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 90.21,
+  "latest_price": 90.93,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -9,7 +9,7 @@
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "4時間足:中央 / 日足:中央 → 2時間足の方向が一致していません",
+      "timeframes_note": "4時間足:中央 / 日足:上方向 → 2時間足の方向が一致していません",
       "calc_note": "2時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
@@ -27,31 +27,45 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -0.84,
+      "position_sigma": -0.15,
       "momentum": "FLAT",
-      "mid": 90.96,
+      "mid": 91.06,
       "upper": 92.74,
-      "lower": 89.17
+      "lower": 89.38
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.28,
-      "momentum": "FLAT",
-      "mid": 86.35,
-      "upper": 92.37,
-      "lower": 80.32
+      "position_sigma": 1.47,
+      "momentum": "UP",
+      "mid": 86.39,
+      "upper": 92.55,
+      "lower": 80.24
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$90.21付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$90.93付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Brent: Questionable flows, fragile outlook – Commerzbank",
+      "link": "https://www.fxstreet.com/news/brent-questionable-flows-fragile-outlook-commerzbank-202609041542",
+      "published_at_utc": "2026-09-04T15:42:27+00:00",
+      "title": "ブレント：疑わしいフロー、脆弱な見通し – コメルツ銀行"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "European Central Bank: September hike path and oil risks – Nomura",
+      "link": "https://www.fxstreet.com/news/european-central-bank-september-hike-path-and-oil-risks-nomura-202609041421",
+      "published_at_utc": "2026-09-04T14:21:06+00:00",
+      "title": "欧州中央銀行：9月利上げ経路と石油リスク – 野村"
+    },
     {
       "source": "FXStreet",
       "title_en": "WTI Oil retreats below $89 despite persistent tensions around the Strait of Hormuz",
       "link": "https://www.fxstreet.com/news/wti-oil-retreats-below-89-despite-persistent-tensions-around-the-strait-of-hormuz-202609041224",
       "published_at_utc": "2026-09-04T12:24:38+00:00",
-      "title": "WTI Oil retreats below $89 despite persistent tensions around the Strait of Hormuz"
+      "title": "ホルムズ海峡周辺で緊張が続くにも関わらず、WTI原油は89ドル以下に後退"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
