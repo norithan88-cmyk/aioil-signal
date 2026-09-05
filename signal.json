@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-05T13:12:40.172694+00:00",
+  "generated_at_utc": "2026-09-05T16:06:54.766831+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
   "latest_price": 91.48,
   "day_change_pct": 0.13,
@@ -45,21 +45,6 @@
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
   "market_context": "WTI原油（CL=F）は現在$91.48付近で推移（直近1時間比+0.13%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
-  "news": [
-    {
-      "source": "FXStreet",
-      "title_en": "Brent: Questionable flows, fragile outlook – Commerzbank",
-      "link": "https://www.fxstreet.com/news/brent-questionable-flows-fragile-outlook-commerzbank-202609041542",
-      "published_at_utc": "2026-09-04T15:42:27+00:00",
-      "title": "ブレント：疑わしいフロー、脆弱な見通し – コメルツ銀行"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "European Central Bank: September hike path and oil risks – Nomura",
-      "link": "https://www.fxstreet.com/news/european-central-bank-september-hike-path-and-oil-risks-nomura-202609041421",
-      "published_at_utc": "2026-09-04T14:21:06+00:00",
-      "title": "欧州中央銀行：9月利上げ経路と石油リスク – 野村"
-    }
-  ],
+  "news": [],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
 }
