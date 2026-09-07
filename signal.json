@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-07T06:01:55.858199+00:00",
+  "generated_at_utc": "2026-09-07T12:20:26.701461+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
   "latest_price": 91.48,
   "day_change_pct": 0.13,
@@ -48,38 +48,45 @@
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "WTI Price Forecast: Bulls retain control above $90.50, near July high amid Iran tensions",
-      "link": "https://www.fxstreet.com/news/wti-price-forecast-bulls-retain-control-above-9050-near-july-high-amid-iran-tensions-202609070527",
-      "published_at_utc": "2026-09-07T05:27:55+00:00",
-      "title": "WTI価格予測：強気派はイラン緊張の中、7月高値付近の90.50ドル以上で主導権を維持"
+      "title_en": "Brent: Uptrend targets $102 before higher projections - Societe Generale",
+      "link": "https://www.fxstreet.com/news/brent-uptrend-targets-102-before-higher-projections-societe-generale-202609071153",
+      "published_at_utc": "2026-09-07T11:53:43+00:00",
+      "title": "Brent: Uptrend targets $102 before higher projections - Societe Generale"
     },
     {
       "source": "FXStreet",
-      "title_en": "Canadian Dollar steadies as robust US jobs data counter rising oil prices",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-steadies-as-robust-us-jobs-data-counter-rising-oil-prices-202609070512",
-      "published_at_utc": "2026-09-07T05:12:38+00:00",
-      "title": "堅調な米国雇用統計が原油価格の上昇に対抗する中、カナダドルは安定"
+      "title_en": "Gold bears retain control as Fed hike bets and Oil-driven inflation weigh",
+      "link": "https://www.fxstreet.com/news/gold-bears-retain-control-as-fed-hike-bets-and-oil-driven-inflation-weigh-202609071113",
+      "published_at_utc": "2026-09-07T11:13:47+00:00",
+      "title": "Gold bears retain control as Fed hike bets and Oil-driven inflation weigh"
     },
     {
       "source": "FXStreet",
-      "title_en": "Canadian Dollar moves little despite weaker US Dollar, higher oil prices",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-moves-little-despite-weaker-us-dollar-higher-oil-prices-202609070136",
-      "published_at_utc": "2026-09-07T01:36:38+00:00",
-      "title": "米ドル安、原油価格上昇にもかかわらず、カナダドルはほとんど動かない"
+      "title_en": "Saudi Oil facilities hit in fresh strikes, WTI surges above $90",
+      "link": "https://www.fxstreet.com/news/saudi-oil-facilities-hit-in-fresh-strikes-wti-surges-above-90-202609071109",
+      "published_at_utc": "2026-09-07T11:09:53+00:00",
+      "title": "Saudi Oil facilities hit in fresh strikes, WTI surges above $90"
     },
     {
       "source": "FXStreet",
-      "title_en": "WTI rises to near $90.00 on escalating US-Iran conflict",
-      "link": "https://www.fxstreet.com/news/wti-rises-to-near-9000-on-escalating-us-iran-conflict-202609070113",
-      "published_at_utc": "2026-09-07T01:13:52+00:00",
-      "title": "米国とイランの紛争激化でWTIが90.00ドル近くまで上昇"
+      "title_en": "Brent: Supply risks support prices – Danske Bank",
+      "link": "https://www.fxstreet.com/news/brent-supply-risks-support-prices-danske-bank-202609070910",
+      "published_at_utc": "2026-09-07T09:10:42+00:00",
+      "title": "Brent: Supply risks support prices – Danske Bank"
     },
     {
       "source": "FXStreet",
-      "title_en": "OPEC+ agrees to keep oil output policy unchanged for October",
-      "link": "https://www.fxstreet.com/news/opec-agrees-to-keep-oil-output-policy-unchanged-for-october-202609062342",
-      "published_at_utc": "2026-09-06T23:42:44+00:00",
-      "title": "OPEC+、10月の産油量政策を据え置くことで合意"
+      "title_en": "WTI struggles to hold above $90 despite material supply risks",
+      "link": "https://www.fxstreet.com/news/wti-struggles-to-hold-above-90-despite-material-supply-risks-202609070900",
+      "published_at_utc": "2026-09-07T09:00:29+00:00",
+      "title": "WTI struggles to hold above $90 despite material supply risks"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Indian Rupee remains higher despite oil strain, hawkish Fed bets",
+      "link": "https://www.fxstreet.com/news/indian-rupee-opens-positively-at-the-start-of-the-week-202609070533",
+      "published_at_utc": "2026-09-07T05:33:57+00:00",
+      "title": "Indian Rupee remains higher despite oil strain, hawkish Fed bets"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
