@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-06T23:12:05.390915+00:00",
+  "generated_at_utc": "2026-09-07T01:03:42.438056+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
   "latest_price": 91.48,
   "day_change_pct": 0.0,
@@ -45,6 +45,14 @@
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
   "market_context": "WTI原油（CL=F）は現在$91.48付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
-  "news": [],
+  "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "OPEC+ agrees to keep oil output policy unchanged for October",
+      "link": "https://www.fxstreet.com/news/opec-agrees-to-keep-oil-output-policy-unchanged-for-october-202609062342",
+      "published_at_utc": "2026-09-06T23:42:44+00:00",
+      "title": "OPEC+、10月の産油量政策を据え置くことで合意"
+    }
+  ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
 }
