@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-07T17:47:47.768406+00:00",
+  "generated_at_utc": "2026-09-07T20:48:35.128529+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
   "latest_price": 91.48,
   "day_change_pct": 0.13,
@@ -48,6 +48,20 @@
   "news": [
     {
       "source": "FXStreet",
+      "title_en": "Asia FX: Stronger Dollar and Oil weigh on CNY and peers – BNY",
+      "link": "https://www.fxstreet.com/news/asia-fx-stronger-dollar-and-oil-weigh-on-cny-and-peers-bny-202609071941",
+      "published_at_utc": "2026-09-07T19:41:00+00:00",
+      "title": "アジア為替：ドル高と原油が人民元と同業通貨を圧迫 – BNY"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "The world has enough Crude Oil and not enough diesel",
+      "link": "https://www.fxstreet.com/news/the-world-has-enough-crude-oil-and-not-enough-diesel-202609071813",
+      "published_at_utc": "2026-09-07T18:13:45+00:00",
+      "title": "世界には原油は十分にありますが、ディーゼルは不足しています"
+    },
+    {
+      "source": "FXStreet",
       "title_en": "United States: Sideways growth and oil shock risks – TD Securities",
       "link": "https://www.fxstreet.com/news/united-states-sideways-growth-and-oil-shock-risks-td-securities-202609071737",
       "published_at_utc": "2026-09-07T17:37:43+00:00",
@@ -73,20 +87,6 @@
       "link": "https://www.fxstreet.com/news/asia-fx-oil-shock-keeps-tone-cautious-ocbc-202609071300",
       "published_at_utc": "2026-09-07T13:00:22+00:00",
       "title": "アジア為替：オイルショックで引き続き慎重な姿勢 – OCBC"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Brent: Uptrend targets $102 before higher projections - Societe Generale",
-      "link": "https://www.fxstreet.com/news/brent-uptrend-targets-102-before-higher-projections-societe-generale-202609071153",
-      "published_at_utc": "2026-09-07T11:53:43+00:00",
-      "title": "ブレント氏：上昇予測の前に上昇トレンドは102ドルを目標 - ソシエテ・ジェネラル"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Gold bears retain control as Fed hike bets and Oil-driven inflation weigh",
-      "link": "https://www.fxstreet.com/news/gold-bears-retain-control-as-fed-hike-bets-and-oil-driven-inflation-weigh-202609071113",
-      "published_at_utc": "2026-09-07T11:13:47+00:00",
-      "title": "FRBの利上げ観測と石油主導のインフレが重しとなる中、金弱気派が主導権を維持"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
