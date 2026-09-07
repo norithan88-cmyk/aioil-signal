@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-07T12:20:26.701461+00:00",
+  "generated_at_utc": "2026-09-07T17:47:47.768406+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
   "latest_price": 91.48,
   "day_change_pct": 0.13,
@@ -48,45 +48,45 @@
   "news": [
     {
       "source": "FXStreet",
+      "title_en": "United States: Sideways growth and oil shock risks – TD Securities",
+      "link": "https://www.fxstreet.com/news/united-states-sideways-growth-and-oil-shock-risks-td-securities-202609071737",
+      "published_at_utc": "2026-09-07T17:37:43+00:00",
+      "title": "米国：横ばいの成長とオイルショックのリスク – TD Securities"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "WTI Oil climbs as Middle East supply risks remain evelated",
+      "link": "https://www.fxstreet.com/news/wti-oil-climbs-as-middle-east-supply-risks-remain-evelated-202609071512",
+      "published_at_utc": "2026-09-07T15:12:59+00:00",
+      "title": "中東の供給リスクが高まる中、WTI原油は上昇"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Canadian Dollar finds support from Oil surge despite Fed rate hike bets",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-finds-support-from-oil-surge-despite-fed-rate-hike-bets-202609071322",
+      "published_at_utc": "2026-09-07T13:22:43+00:00",
+      "title": "FRBの利上げ観測にもかかわらず、カナダドルは原油高騰に支えられる"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Asia FX: Oil shock keeps tone cautious – OCBC",
+      "link": "https://www.fxstreet.com/news/asia-fx-oil-shock-keeps-tone-cautious-ocbc-202609071300",
+      "published_at_utc": "2026-09-07T13:00:22+00:00",
+      "title": "アジア為替：オイルショックで引き続き慎重な姿勢 – OCBC"
+    },
+    {
+      "source": "FXStreet",
       "title_en": "Brent: Uptrend targets $102 before higher projections - Societe Generale",
       "link": "https://www.fxstreet.com/news/brent-uptrend-targets-102-before-higher-projections-societe-generale-202609071153",
       "published_at_utc": "2026-09-07T11:53:43+00:00",
-      "title": "Brent: Uptrend targets $102 before higher projections - Societe Generale"
+      "title": "ブレント氏：上昇予測の前に上昇トレンドは102ドルを目標 - ソシエテ・ジェネラル"
     },
     {
       "source": "FXStreet",
       "title_en": "Gold bears retain control as Fed hike bets and Oil-driven inflation weigh",
       "link": "https://www.fxstreet.com/news/gold-bears-retain-control-as-fed-hike-bets-and-oil-driven-inflation-weigh-202609071113",
       "published_at_utc": "2026-09-07T11:13:47+00:00",
-      "title": "Gold bears retain control as Fed hike bets and Oil-driven inflation weigh"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Saudi Oil facilities hit in fresh strikes, WTI surges above $90",
-      "link": "https://www.fxstreet.com/news/saudi-oil-facilities-hit-in-fresh-strikes-wti-surges-above-90-202609071109",
-      "published_at_utc": "2026-09-07T11:09:53+00:00",
-      "title": "Saudi Oil facilities hit in fresh strikes, WTI surges above $90"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Brent: Supply risks support prices – Danske Bank",
-      "link": "https://www.fxstreet.com/news/brent-supply-risks-support-prices-danske-bank-202609070910",
-      "published_at_utc": "2026-09-07T09:10:42+00:00",
-      "title": "Brent: Supply risks support prices – Danske Bank"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "WTI struggles to hold above $90 despite material supply risks",
-      "link": "https://www.fxstreet.com/news/wti-struggles-to-hold-above-90-despite-material-supply-risks-202609070900",
-      "published_at_utc": "2026-09-07T09:00:29+00:00",
-      "title": "WTI struggles to hold above $90 despite material supply risks"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Indian Rupee remains higher despite oil strain, hawkish Fed bets",
-      "link": "https://www.fxstreet.com/news/indian-rupee-opens-positively-at-the-start-of-the-week-202609070533",
-      "published_at_utc": "2026-09-07T05:33:57+00:00",
-      "title": "Indian Rupee remains higher despite oil strain, hawkish Fed bets"
+      "title": "FRBの利上げ観測と石油主導のインフレが重しとなる中、金弱気派が主導権を維持"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
