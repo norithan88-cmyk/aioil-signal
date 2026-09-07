@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-07T20:48:35.128529+00:00",
+  "generated_at_utc": "2026-09-07T23:03:08.742260+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
   "latest_price": 91.48,
   "day_change_pct": 0.13,
@@ -36,11 +36,11 @@
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.38,
+      "position_sigma": 1.64,
       "momentum": "UP",
-      "mid": 86.9,
-      "upper": 93.55,
-      "lower": 80.24
+      "mid": 86.97,
+      "upper": 93.86,
+      "lower": 80.09
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
@@ -48,10 +48,24 @@
   "news": [
     {
       "source": "FXStreet",
+      "title_en": "The Canadian Dollar gains as Oil rally offsets jobs gloom",
+      "link": "https://www.fxstreet.com/news/the-canadian-dollar-gains-as-oil-rally-offsets-jobs-gloom-202609072208",
+      "published_at_utc": "2026-09-07T22:08:39+00:00",
+      "title": "原油価格の上昇が雇用の暗さを補い、カナダドルが上昇"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Indonesian Rupiah: Oil and US inflation pose risks – MUFG",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-oil-and-us-inflation-pose-risks-mufg-202609072101",
+      "published_at_utc": "2026-09-07T21:01:00+00:00",
+      "title": "インドネシア・ルピア：原油と米国のインフレがリスクを引き起こす – MUFG"
+    },
+    {
+      "source": "FXStreet",
       "title_en": "Asia FX: Stronger Dollar and Oil weigh on CNY and peers – BNY",
       "link": "https://www.fxstreet.com/news/asia-fx-stronger-dollar-and-oil-weigh-on-cny-and-peers-bny-202609071941",
       "published_at_utc": "2026-09-07T19:41:00+00:00",
-      "title": "アジア為替：ドル高と原油が人民元と同業通貨を圧迫 – BNY"
+      "title": "アジア為替：ドル高と原油が人民元と同業他社を圧迫 – BNY"
     },
     {
       "source": "FXStreet",
@@ -73,20 +87,6 @@
       "link": "https://www.fxstreet.com/news/wti-oil-climbs-as-middle-east-supply-risks-remain-evelated-202609071512",
       "published_at_utc": "2026-09-07T15:12:59+00:00",
       "title": "中東の供給リスクが高まる中、WTI原油は上昇"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Canadian Dollar finds support from Oil surge despite Fed rate hike bets",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-finds-support-from-oil-surge-despite-fed-rate-hike-bets-202609071322",
-      "published_at_utc": "2026-09-07T13:22:43+00:00",
-      "title": "FRBの利上げ観測にもかかわらず、カナダドルは原油高騰に支えられる"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Asia FX: Oil shock keeps tone cautious – OCBC",
-      "link": "https://www.fxstreet.com/news/asia-fx-oil-shock-keeps-tone-cautious-ocbc-202609071300",
-      "published_at_utc": "2026-09-07T13:00:22+00:00",
-      "title": "アジア為替：オイルショックで引き続き慎重な姿勢 – OCBC"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
