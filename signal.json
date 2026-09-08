@@ -1,81 +1,71 @@
 {
-  "generated_at_utc": "2026-09-08T11:07:24.408808+00:00",
+  "generated_at_utc": "2026-09-08T15:05:50.576271+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 93.9,
+  "latest_price": 92.66,
   "day_change_pct": 0.0,
   "signal": {
-    "bias": "BUY",
-    "bias_label": "押し目買い優勢",
-    "stars": 4,
-    "confidence": 90,
+    "bias": "WAIT",
+    "bias_label": "方向感なし",
+    "stars": 2,
+    "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "4時間足:上方向 / 日足:上方向 → 2時間足とも一致、5分足の反発シグナルも確認済み",
-      "calc_note": "基本50% + 2時間足一致30% + バンド際からの乖離度ボーナス = 90%（上限95%）"
+      "timeframes_note": "4時間足:中央 / 日足:上方向 → 2時間足の方向が一致していません",
+      "calc_note": "2時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
   "volatility_risk": "LOW",
-  "market_mode": "TREND",
-  "market_mode_note": "4時間・日足の方向が揃っており、方向感のある地合い。",
+  "market_mode": "RANGE",
+  "market_mode_note": "時間足ごとに方向が割れており、方向感に乏しいレンジ地合い。",
   "priority_trade": {
-    "lead": "押し目買い ― 上位足の上昇方向一致＋5分足の押し目からの反発",
-    "entry": 93.9,
-    "take_profit": 94.07,
-    "stop_loss": 93.67
+    "lead": "様子見 ― 4時間・日足の方向が一致していない",
+    "entry": null,
+    "take_profit": null,
+    "stop_loss": null
   },
-  "reversal_setup": {
-    "extreme": 93.73,
-    "reverted_usd": 0.17
-  },
+  "reversal_setup": null,
   "regression_channels": [
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 1.9,
-      "momentum": "UP",
-      "mid": 91.71,
-      "upper": 94.02,
-      "lower": 89.41
+      "position_sigma": 0.74,
+      "momentum": "FLAT",
+      "mid": 91.84,
+      "upper": 94.06,
+      "lower": 89.61
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.9,
+      "position_sigma": 1.65,
       "momentum": "UP",
-      "mid": 87.06,
-      "upper": 94.24,
-      "lower": 79.87
+      "mid": 86.97,
+      "upper": 93.87,
+      "lower": 80.08
     }
   ],
-  "commentary": "押し目は焦らず拾う。飛び乗りより、待つ勇気を。",
-  "market_context": "WTI原油（CL=F）は現在$93.90付近で推移（直近1時間比+0.00%）。4時間・日足が揃って下値の堅さを示す中、5分足が短期的な押し目から反発したタイミング。目先は下値の堅い展開が想定され、押し目を焦らず拾うスタンスが機能しやすい局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
+  "market_context": "WTI原油（CL=F）は現在$92.66付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "WTI advances above $92.00, highest since July as Hormuz tensions stoke supply concerns",
-      "link": "https://www.fxstreet.com/news/wti-advances-above-9200-highest-since-july-as-hormuz-tensions-stoke-supply-concerns-202609080757",
-      "published_at_utc": "2026-09-08T07:57:32+00:00",
-      "title": "WTI advances above $92.00, highest since July as Hormuz tensions stoke supply concerns"
+      "title_en": "US Dollar: Crude rally and CPI risks shape path – BBH",
+      "link": "https://www.fxstreet.com/news/us-dollar-crude-rally-and-cpi-risks-shape-path-bbh-202609081308",
+      "published_at_utc": "2026-09-08T13:08:03+00:00",
+      "title": "米ドル：原油価格の上昇とCPIリスクが進路を形成 – BBH"
     },
     {
       "source": "FXStreet",
-      "title_en": "Forex Today: Japanese Yen extends rally, Oil prices climb higher",
-      "link": "https://www.fxstreet.com/news/forex-today-japanese-yen-extends-rally-oil-prices-climb-higher-202609080738",
-      "published_at_utc": "2026-09-08T07:38:06+00:00",
-      "title": "Forex Today: Japanese Yen extends rally, Oil prices climb higher"
+      "title_en": "Oil: Supply shocks lift price risks – BNY",
+      "link": "https://www.fxstreet.com/news/oil-supply-shocks-lift-price-risks-bny-202609081156",
+      "published_at_utc": "2026-09-08T11:56:44+00:00",
+      "title": "石油：供給ショックにより価格リスクが高まる – BNY"
     },
     {
       "source": "FXStreet",
-      "title_en": "USD/CAD Price Forecast: Surging oil prices lift Canadian Dollar",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-surging-oil-prices-lift-canadian-dollar-202609080655",
-      "published_at_utc": "2026-09-08T06:55:18+00:00",
-      "title": "USD/CAD Price Forecast: Surging oil prices lift Canadian Dollar"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Indian Rupee corrects sharply from two-month high as oil price boils",
+      "title_en": "Indian Rupee corrects sharply from two-month high as Oil price boils",
       "link": "https://www.fxstreet.com/news/indian-rupee-corrects-from-two-month-high-as-oil-prices-extend-rally-202609080608",
       "published_at_utc": "2026-09-08T06:08:08+00:00",
-      "title": "Indian Rupee corrects sharply from two-month high as oil price boils"
+      "title": "原油価格の沸騰を受けてインドルピーは2カ月ぶりの高値から大幅に調整"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
