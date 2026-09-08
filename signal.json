@@ -1,23 +1,23 @@
 {
-  "generated_at_utc": "2026-09-08T01:08:41.359152+00:00",
+  "generated_at_utc": "2026-09-08T05:58:09.039070+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 91.48,
-  "day_change_pct": 0.13,
+  "latest_price": 93.43,
+  "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
     "bias_label": "方向感なし",
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "4時間足:中央 / 日足:上方向 → 2時間足の方向が一致していません",
-      "calc_note": "2時間足の方向が揃っていないため、基本値50%のままです。"
+      "timeframes_note": "4時間足:上方向 / 日足:上方向 → 2時間足は一致していますが、5分足の反発シグナルはまだ点灯していません",
+      "calc_note": "2時間足の方向一致のみでは確信度は上がらず、5分足の反発確認まで基本値50%のままです。"
     }
   },
   "volatility_risk": "LOW",
-  "market_mode": "RANGE",
-  "market_mode_note": "時間足ごとに方向が割れており、方向感に乏しいレンジ地合い。",
+  "market_mode": "TREND",
+  "market_mode_note": "4時間・日足の方向が揃っており、方向感のある地合い。",
   "priority_trade": {
-    "lead": "様子見 ― 4時間・日足の方向が一致していない",
+    "lead": "様子見 ― 上位足は押し目買い方向で一致、5分足の反発シグナル待ち",
     "entry": null,
     "take_profit": null,
     "stop_loss": null
@@ -27,25 +27,32 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.36,
-      "momentum": "FLAT",
-      "mid": 91.25,
-      "upper": 92.56,
-      "lower": 89.93
+      "position_sigma": 2.41,
+      "momentum": "UP",
+      "mid": 91.44,
+      "upper": 93.09,
+      "lower": 89.78
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.58,
+      "position_sigma": 1.81,
       "momentum": "UP",
-      "mid": 86.95,
-      "upper": 93.78,
-      "lower": 80.13
+      "mid": 87.03,
+      "upper": 94.1,
+      "lower": 79.96
     }
   ],
-  "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$91.48付近で推移（直近1時間比+0.13%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "commentary": "上位足は上向き。焦らず、5分足の押し目からの反発を待つ。",
+  "market_context": "WTI原油（CL=F）は現在$93.43付近で推移（直近1時間比+0.00%）。4時間・日足は押し目買い方向で揃っているが、5分足の反発シグナルはまだ点灯していない。上位足の方向感は出ているため、5分足が押し目安値から反発するタイミングを待ちたい局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "WTI slips below $90.50 despite rising Middle East supply risks",
+      "link": "https://www.fxstreet.com/news/wti-slips-below-9050-despite-rising-middle-east-supply-risks-202609080121",
+      "published_at_utc": "2026-09-08T01:21:52+00:00",
+      "title": "中東の供給リスクの高まりにもかかわらず、WTIは90.50ドルを下回る"
+    },
     {
       "source": "FXStreet",
       "title_en": "The Canadian Dollar gains as Oil rally offsets jobs gloom",
@@ -59,34 +66,6 @@
       "link": "https://www.fxstreet.com/news/indonesian-rupiah-oil-and-us-inflation-pose-risks-mufg-202609072101",
       "published_at_utc": "2026-09-07T21:01:00+00:00",
       "title": "インドネシア・ルピア：原油と米国のインフレがリスクを引き起こす – MUFG"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Asia FX: Stronger Dollar and Oil weigh on CNY and peers – BNY",
-      "link": "https://www.fxstreet.com/news/asia-fx-stronger-dollar-and-oil-weigh-on-cny-and-peers-bny-202609071941",
-      "published_at_utc": "2026-09-07T19:41:00+00:00",
-      "title": "アジア為替：ドル高と原油が人民元と同業他社を圧迫 – BNY"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "The world has enough Crude Oil and not enough diesel",
-      "link": "https://www.fxstreet.com/news/the-world-has-enough-crude-oil-and-not-enough-diesel-202609071813",
-      "published_at_utc": "2026-09-07T18:13:45+00:00",
-      "title": "世界には原油は十分にありますが、ディーゼルは不足しています"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "United States: Sideways growth and oil shock risks – TD Securities",
-      "link": "https://www.fxstreet.com/news/united-states-sideways-growth-and-oil-shock-risks-td-securities-202609071737",
-      "published_at_utc": "2026-09-07T17:37:43+00:00",
-      "title": "米国：横ばいの成長とオイルショックのリスク – TD Securities"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "WTI Oil climbs as Middle East supply risks remain evelated",
-      "link": "https://www.fxstreet.com/news/wti-oil-climbs-as-middle-east-supply-risks-remain-evelated-202609071512",
-      "published_at_utc": "2026-09-07T15:12:59+00:00",
-      "title": "中東の供給リスクが高まる中、WTI原油は上昇"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
