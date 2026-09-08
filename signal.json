@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-08T15:05:50.576271+00:00",
+  "generated_at_utc": "2026-09-08T18:36:35.512064+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 92.66,
+  "latest_price": 93.0,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,45 +27,45 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.74,
+      "position_sigma": 0.95,
       "momentum": "FLAT",
-      "mid": 91.84,
-      "upper": 94.06,
-      "lower": 89.61
+      "mid": 91.94,
+      "upper": 94.18,
+      "lower": 89.71
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.65,
+      "position_sigma": 1.72,
       "momentum": "UP",
-      "mid": 86.97,
-      "upper": 93.87,
-      "lower": 80.08
+      "mid": 87.0,
+      "upper": 93.97,
+      "lower": 80.03
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$92.66付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$93.00付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "US Dollar: Crude rally and CPI risks shape path – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-crude-rally-and-cpi-risks-shape-path-bbh-202609081308",
-      "published_at_utc": "2026-09-08T13:08:03+00:00",
-      "title": "米ドル：原油価格の上昇とCPIリスクが進路を形成 – BBH"
+      "title_en": "Gold price wilts as Oil shock puts CPI in Fed crosshairs",
+      "link": "https://www.fxstreet.com/news/gold-price-wilts-as-oil-shock-puts-cpi-in-fed-crosshairs-202609081801",
+      "published_at_utc": "2026-09-08T18:01:43+00:00",
+      "title": "オイルショックでCPIがFRBの標的にされる中、金価格が低迷"
     },
     {
       "source": "FXStreet",
-      "title_en": "Oil: Supply shocks lift price risks – BNY",
-      "link": "https://www.fxstreet.com/news/oil-supply-shocks-lift-price-risks-bny-202609081156",
-      "published_at_utc": "2026-09-08T11:56:44+00:00",
-      "title": "石油：供給ショックにより価格リスクが高まる – BNY"
+      "title_en": "Canadian Dollar trims gains as risk aversion supports US Dollar despite higher Oil prices",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-trims-gains-as-risk-aversion-supports-us-dollar-despite-higher-oil-prices-202609081632",
+      "published_at_utc": "2026-09-08T16:32:51+00:00",
+      "title": "原油価格上昇にもかかわらず、リスク回避姿勢が米ドルを下支えし、カナダドルは上昇幅を縮小"
     },
     {
       "source": "FXStreet",
-      "title_en": "Indian Rupee corrects sharply from two-month high as Oil price boils",
-      "link": "https://www.fxstreet.com/news/indian-rupee-corrects-from-two-month-high-as-oil-prices-extend-rally-202609080608",
-      "published_at_utc": "2026-09-08T06:08:08+00:00",
-      "title": "原油価格の沸騰を受けてインドルピーは2カ月ぶりの高値から大幅に調整"
+      "title_en": "Dow Jones Industrial Average is paying for a sixth day of Crude Oil",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-is-paying-for-a-sixth-day-of-crude-oil-202609081554",
+      "published_at_utc": "2026-09-08T15:54:39+00:00",
+      "title": "ダウ工業株30種平均は6日分の原油の代金を支払っている"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
