@@ -1,16 +1,16 @@
 {
-  "generated_at_utc": "2026-09-10T11:32:23.155800+00:00",
+  "generated_at_utc": "2026-09-10T15:08:03.035336+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 97.43,
+  "latest_price": 99.84,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "BUY",
     "bias_label": "押し目買い優勢",
-    "stars": 4,
-    "confidence": 88,
+    "stars": 5,
+    "confidence": 91,
     "confidence_breakdown": {
       "timeframes_note": "4時間足:上方向 / 日足:上方向 → 2時間足とも一致、5分足の反発シグナルも確認済み",
-      "calc_note": "基本50% + 2時間足一致30% + バンド際からの乖離度ボーナス = 88%（上限95%）"
+      "calc_note": "基本50% + 2時間足一致30% + バンド際からの乖離度ボーナス = 91%（上限95%）"
     }
   },
   "volatility_risk": "LOW",
@@ -18,64 +18,50 @@
   "market_mode_note": "4時間・日足の方向が揃っており、方向感のある地合い。",
   "priority_trade": {
     "lead": "押し目買い ― 上位足の上昇方向一致＋5分足の押し目からの反発",
-    "entry": 97.43,
-    "take_profit": 97.84,
-    "stop_loss": 96.96
+    "entry": 99.84,
+    "take_profit": 100.83,
+    "stop_loss": 98.79
   },
   "reversal_setup": {
-    "extreme": 97.02,
-    "reverted_usd": 0.41
+    "extreme": 98.85,
+    "reverted_usd": 0.99
   },
   "regression_channels": [
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 1.47,
+      "position_sigma": 2.22,
       "momentum": "UP",
-      "mid": 94.97,
-      "upper": 98.32,
-      "lower": 91.63
+      "mid": 95.61,
+      "upper": 99.42,
+      "lower": 91.8
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.89,
+      "position_sigma": 2.21,
       "momentum": "UP",
-      "mid": 88.51,
-      "upper": 97.94,
-      "lower": 79.09
+      "mid": 88.67,
+      "upper": 98.76,
+      "lower": 78.59
     }
   ],
   "commentary": "押し目は焦らず拾う。飛び乗りより、待つ勇気を。",
-  "market_context": "WTI原油（CL=F）は現在$97.43付近で推移（直近1時間比+0.00%）。4時間・日足が揃って下値の堅さを示す中、5分足が短期的な押し目から反発したタイミング。目先は下値の堅い展開が想定され、押し目を焦らず拾うスタンスが機能しやすい局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$99.84付近で推移（直近1時間比+0.00%）。4時間・日足が揃って下値の堅さを示す中、5分足が短期的な押し目から反発したタイミング。目先は下値の堅い展開が想定され、押し目を焦らず拾うスタンスが機能しやすい局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "US Treasury yields hit fresh long-term highs amid surging Oil prices, US Treasury's buybacks",
+      "title_en": "WTI US Oil rebounds toward $97 as US-Iran conflict escalates",
+      "link": "https://www.fxstreet.com/news/wti-us-oil-rebounds-toward-97-as-us-iran-conflict-escalates-202609101306",
+      "published_at_utc": "2026-09-10T13:06:46+00:00",
+      "title": "米国とイランの紛争が激化する中、WTI USオイルは97ドルに向けて反発"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "US Treasury yields hit fresh long-term highs amid surging Oil prices, bond buybacks",
       "link": "https://www.fxstreet.com/news/us-treasury-yields-hit-fresh-long-term-highs-amid-surging-oil-prices-us-treasurys-buybacks-202609101124",
       "published_at_utc": "2026-09-10T11:24:10+00:00",
-      "title": "原油価格の急騰と米国債の買い戻しを受けて、米国債利回りが長期最高値を更新"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Gold Price Forecast: XAU/USD holds below $4,400 with Oil, yields surging",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-holds-below-4-400-with-oil-yields-surging-202609100956",
-      "published_at_utc": "2026-09-10T09:56:43+00:00",
-      "title": "金価格予測: XAU/USD は原油価格とともに 4,400 ドル以下に維持、利回りは急上昇"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Brent: Geopolitical risk drives price surge – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/brent-geopolitical-risk-drives-price-surge-deutsche-bank-202609100918",
-      "published_at_utc": "2026-09-10T09:18:02+00:00",
-      "title": "ブレント：地政学的リスクが価格高騰を引き起こす – ドイツ銀行"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Indian Rupee hits fresh 10-day low amid boiling oil prices",
-      "link": "https://www.fxstreet.com/news/indian-rupee-extends-its-downward-streak-as-oil-prices-keep-rising-202609100524",
-      "published_at_utc": "2026-09-10T05:24:41+00:00",
-      "title": "原油価格が沸騰する中、インドルピーは10日間ぶりの安値を記録"
+      "title": "原油価格の急騰と債券買い戻しを受けて、米国債利回りが長期最高値を更新"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
