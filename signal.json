@@ -1,71 +1,81 @@
 {
-  "generated_at_utc": "2026-09-10T06:18:29.417809+00:00",
+  "generated_at_utc": "2026-09-10T11:32:23.155800+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 95.46,
+  "latest_price": 97.43,
   "day_change_pct": 0.0,
   "signal": {
-    "bias": "WAIT",
-    "bias_label": "方向感なし",
-    "stars": 2,
-    "confidence": 50,
+    "bias": "BUY",
+    "bias_label": "押し目買い優勢",
+    "stars": 4,
+    "confidence": 88,
     "confidence_breakdown": {
-      "timeframes_note": "4時間足:中央 / 日足:上方向 → 2時間足の方向が一致していません",
-      "calc_note": "2時間足の方向が揃っていないため、基本値50%のままです。"
+      "timeframes_note": "4時間足:上方向 / 日足:上方向 → 2時間足とも一致、5分足の反発シグナルも確認済み",
+      "calc_note": "基本50% + 2時間足一致30% + バンド際からの乖離度ボーナス = 88%（上限95%）"
     }
   },
   "volatility_risk": "LOW",
-  "market_mode": "RANGE",
-  "market_mode_note": "時間足ごとに方向が割れており、方向感に乏しいレンジ地合い。",
+  "market_mode": "TREND",
+  "market_mode_note": "4時間・日足の方向が揃っており、方向感のある地合い。",
   "priority_trade": {
-    "lead": "様子見 ― 4時間・日足の方向が一致していない",
-    "entry": null,
-    "take_profit": null,
-    "stop_loss": null
+    "lead": "押し目買い ― 上位足の上昇方向一致＋5分足の押し目からの反発",
+    "entry": 97.43,
+    "take_profit": 97.84,
+    "stop_loss": 96.96
   },
-  "reversal_setup": null,
+  "reversal_setup": {
+    "extreme": 97.02,
+    "reverted_usd": 0.41
+  },
   "regression_channels": [
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.55,
-      "momentum": "FLAT",
-      "mid": 94.51,
-      "upper": 97.95,
-      "lower": 91.08
+      "position_sigma": 1.47,
+      "momentum": "UP",
+      "mid": 94.97,
+      "upper": 98.32,
+      "lower": 91.63
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.58,
+      "position_sigma": 1.89,
       "momentum": "UP",
-      "mid": 88.38,
-      "upper": 97.35,
-      "lower": 79.41
+      "mid": 88.51,
+      "upper": 97.94,
+      "lower": 79.09
     }
   ],
-  "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$95.46付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "commentary": "押し目は焦らず拾う。飛び乗りより、待つ勇気を。",
+  "market_context": "WTI原油（CL=F）は現在$97.43付近で推移（直近1時間比+0.00%）。4時間・日足が揃って下値の堅さを示す中、5分足が短期的な押し目から反発したタイミング。目先は下値の堅い展開が想定され、押し目を焦らず拾うスタンスが機能しやすい局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "Indian Rupee extends its downward streak as oil prices keep rising",
+      "title_en": "US Treasury yields hit fresh long-term highs amid surging Oil prices, US Treasury's buybacks",
+      "link": "https://www.fxstreet.com/news/us-treasury-yields-hit-fresh-long-term-highs-amid-surging-oil-prices-us-treasurys-buybacks-202609101124",
+      "published_at_utc": "2026-09-10T11:24:10+00:00",
+      "title": "原油価格の急騰と米国債の買い戻しを受けて、米国債利回りが長期最高値を更新"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Gold Price Forecast: XAU/USD holds below $4,400 with Oil, yields surging",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-holds-below-4-400-with-oil-yields-surging-202609100956",
+      "published_at_utc": "2026-09-10T09:56:43+00:00",
+      "title": "金価格予測: XAU/USD は原油価格とともに 4,400 ドル以下に維持、利回りは急上昇"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Brent: Geopolitical risk drives price surge – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/brent-geopolitical-risk-drives-price-surge-deutsche-bank-202609100918",
+      "published_at_utc": "2026-09-10T09:18:02+00:00",
+      "title": "ブレント：地政学的リスクが価格高騰を引き起こす – ドイツ銀行"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Indian Rupee hits fresh 10-day low amid boiling oil prices",
       "link": "https://www.fxstreet.com/news/indian-rupee-extends-its-downward-streak-as-oil-prices-keep-rising-202609100524",
       "published_at_utc": "2026-09-10T05:24:41+00:00",
-      "title": "原油価格が上昇し続ける中、インドルピーは下落幅を拡大"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Canadian Dollar consolidates as higher oil prices offset USD uptick ahead of US PPI",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-consolidates-as-higher-oil-prices-offset-usd-uptick-ahead-of-us-ppi-202609100152",
-      "published_at_utc": "2026-09-10T01:52:34+00:00",
-      "title": "米国のPPIに先立つ米ドルの上昇を原油価格の上昇が相殺し、カナダドルは堅調"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "WTI declines despite rising US-Iran tensions threaten",
-      "link": "https://www.fxstreet.com/news/wti-declines-despite-rising-us-iran-tensions-threaten-202609100108",
-      "published_at_utc": "2026-09-10T01:08:22+00:00",
-      "title": "米国とイランの緊張高まる脅威にもかかわらず、WTIは下落"
+      "title": "原油価格が沸騰する中、インドルピーは10日間ぶりの安値を記録"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
