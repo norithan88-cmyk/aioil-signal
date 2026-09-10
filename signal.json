@@ -1,54 +1,58 @@
 {
-  "generated_at_utc": "2026-09-09T23:27:08.364934+00:00",
+  "generated_at_utc": "2026-09-10T01:22:47.221303+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 97.15,
+  "latest_price": 96.63,
   "day_change_pct": 0.0,
   "signal": {
-    "bias": "BUY",
-    "bias_label": "押し目買い優勢",
-    "stars": 4,
-    "confidence": 90,
+    "bias": "WAIT",
+    "bias_label": "方向感なし",
+    "stars": 2,
+    "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "4時間足:上方向 / 日足:上方向 → 2時間足とも一致、5分足の反発シグナルも確認済み",
-      "calc_note": "基本50% + 2時間足一致30% + バンド際からの乖離度ボーナス = 90%（上限95%）"
+      "timeframes_note": "4時間足:中央 / 日足:上方向 → 2時間足の方向が一致していません",
+      "calc_note": "2時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
   "volatility_risk": "LOW",
-  "market_mode": "TREND",
-  "market_mode_note": "4時間・日足の方向が揃っており、方向感のある地合い。",
+  "market_mode": "RANGE",
+  "market_mode_note": "時間足ごとに方向が割れており、方向感に乏しいレンジ地合い。",
   "priority_trade": {
-    "lead": "押し目買い ― 上位足の上昇方向一致＋5分足の押し目からの反発",
-    "entry": 97.15,
-    "take_profit": 97.37,
-    "stop_loss": 96.87
+    "lead": "様子見 ― 4時間・日足の方向が一致していない",
+    "entry": null,
+    "take_profit": null,
+    "stop_loss": null
   },
-  "reversal_setup": {
-    "extreme": 96.93,
-    "reverted_usd": 0.22
-  },
+  "reversal_setup": null,
   "regression_channels": [
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 1.61,
-      "momentum": "UP",
-      "mid": 93.87,
-      "upper": 97.93,
-      "lower": 89.8
+      "position_sigma": 1.22,
+      "momentum": "FLAT",
+      "mid": 94.25,
+      "upper": 98.15,
+      "lower": 90.35
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 2.2,
+      "position_sigma": 2.12,
       "momentum": "UP",
-      "mid": 87.81,
-      "upper": 96.32,
-      "lower": 79.31
+      "mid": 87.78,
+      "upper": 96.13,
+      "lower": 79.42
     }
   ],
-  "commentary": "押し目は焦らず拾う。飛び乗りより、待つ勇気を。",
-  "market_context": "WTI原油（CL=F）は現在$97.15付近で推移（直近1時間比+0.00%）。4時間・日足が揃って下値の堅さを示す中、5分足が短期的な押し目から反発したタイミング。目先は下値の堅い展開が想定され、押し目を焦らず拾うスタンスが機能しやすい局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
+  "market_context": "WTI原油（CL=F）は現在$96.63付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "WTI declines despite rising US-Iran tensions threaten",
+      "link": "https://www.fxstreet.com/news/wti-declines-despite-rising-us-iran-tensions-threaten-202609100108",
+      "published_at_utc": "2026-09-10T01:08:22+00:00",
+      "title": "米国とイランの緊張高まる脅威にもかかわらず、WTIは下落"
+    },
     {
       "source": "FXStreet",
       "title_en": "Crude Oil rallies into 14-week highs as US and Iran spend the week attacking tankers",
@@ -68,14 +72,7 @@
       "title_en": "British Pound catches bid as Oil-USD link breaks ahead US CPI",
       "link": "https://www.fxstreet.com/news/british-pound-catches-bid-as-oil-usd-link-breaks-ahead-us-cpi-202609091515",
       "published_at_utc": "2026-09-09T15:15:58+00:00",
-      "title": "石油と米ドルのリンクが米国のCPIを上回り、英国ポンドが入札を獲得"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "WTI Oil rises as Middle East escalation threatens global supply",
-      "link": "https://www.fxstreet.com/news/wti-oil-rises-as-middle-east-escalation-threatens-global-supply-202609091501",
-      "published_at_utc": "2026-09-09T15:01:07+00:00",
-      "title": "中東のエスカレーションが世界の供給を脅かす中、WTI原油が上昇"
+      "title": "石油と米ドルのリンクが米国のCPIを上回り、英国ポンドが入札に追いつく"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
