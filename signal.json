@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-10T01:22:47.221303+00:00",
+  "generated_at_utc": "2026-09-10T06:18:29.417809+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 96.63,
+  "latest_price": 95.46,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,52 +27,45 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 1.22,
+      "position_sigma": 0.55,
       "momentum": "FLAT",
-      "mid": 94.25,
-      "upper": 98.15,
-      "lower": 90.35
+      "mid": 94.51,
+      "upper": 97.95,
+      "lower": 91.08
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 2.12,
+      "position_sigma": 1.58,
       "momentum": "UP",
-      "mid": 87.78,
-      "upper": 96.13,
-      "lower": 79.42
+      "mid": 88.38,
+      "upper": 97.35,
+      "lower": 79.41
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$96.63付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$95.46付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Indian Rupee extends its downward streak as oil prices keep rising",
+      "link": "https://www.fxstreet.com/news/indian-rupee-extends-its-downward-streak-as-oil-prices-keep-rising-202609100524",
+      "published_at_utc": "2026-09-10T05:24:41+00:00",
+      "title": "原油価格が上昇し続ける中、インドルピーは下落幅を拡大"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Canadian Dollar consolidates as higher oil prices offset USD uptick ahead of US PPI",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-consolidates-as-higher-oil-prices-offset-usd-uptick-ahead-of-us-ppi-202609100152",
+      "published_at_utc": "2026-09-10T01:52:34+00:00",
+      "title": "米国のPPIに先立つ米ドルの上昇を原油価格の上昇が相殺し、カナダドルは堅調"
+    },
     {
       "source": "FXStreet",
       "title_en": "WTI declines despite rising US-Iran tensions threaten",
       "link": "https://www.fxstreet.com/news/wti-declines-despite-rising-us-iran-tensions-threaten-202609100108",
       "published_at_utc": "2026-09-10T01:08:22+00:00",
       "title": "米国とイランの緊張高まる脅威にもかかわらず、WTIは下落"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Crude Oil rallies into 14-week highs as US and Iran spend the week attacking tankers",
-      "link": "https://www.fxstreet.com/news/crude-oil-rallies-into-14-week-highs-as-us-and-iran-spend-the-week-attacking-tankers-202609091917",
-      "published_at_utc": "2026-09-09T19:17:17+00:00",
-      "title": "米国とイランが今週タンカー攻撃に費やす中、原油は14週間ぶりの高値に上昇"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "WTI: Upside path persists – TD Securities",
-      "link": "https://www.fxstreet.com/news/wti-upside-path-persists-td-securities-202609091520",
-      "published_at_utc": "2026-09-09T15:20:47+00:00",
-      "title": "WTI：上昇経路は継続 – TD Securities"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "British Pound catches bid as Oil-USD link breaks ahead US CPI",
-      "link": "https://www.fxstreet.com/news/british-pound-catches-bid-as-oil-usd-link-breaks-ahead-us-cpi-202609091515",
-      "published_at_utc": "2026-09-09T15:15:58+00:00",
-      "title": "石油と米ドルのリンクが米国のCPIを上回り、英国ポンドが入札に追いつく"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
