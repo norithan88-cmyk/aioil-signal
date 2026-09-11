@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-11T11:01:52.713125+00:00",
+  "generated_at_utc": "2026-09-11T14:57:32.212128+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 98.77,
+  "latest_price": 99.23,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,45 +27,59 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.09,
+      "position_sigma": 0.13,
       "momentum": "FLAT",
-      "mid": 98.47,
-      "upper": 104.88,
-      "lower": 92.06
+      "mid": 98.84,
+      "upper": 104.84,
+      "lower": 92.84
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.54,
+      "position_sigma": 1.6,
       "momentum": "UP",
-      "mid": 89.58,
-      "upper": 101.54,
-      "lower": 77.62
+      "mid": 89.61,
+      "upper": 101.67,
+      "lower": 77.55
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$98.77付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$99.23付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "Canadian Dollar underperforms as Oil prices correct significantly",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-underperforms-as-oil-prices-correct-significantly-202609110923",
-      "published_at_utc": "2026-09-11T09:23:57+00:00",
-      "title": "原油価格が大幅に修正される中、カナダドルはアンダーパフォーム"
+      "title_en": "Canadian Dollar slides with Oil prices, US CPI fails to keep US Dollar higher",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-slides-with-oil-prices-us-cpi-fails-to-keep-us-dollar-higher-202609111409",
+      "published_at_utc": "2026-09-11T14:09:51+00:00",
+      "title": "カナダドルは原油価格とともに下落、米国CPIは米ドル高を維持できず"
     },
     {
       "source": "FXStreet",
-      "title_en": "Swedish Krona: Higher Oil and ECB stance pressure currency – Danske Bank",
-      "link": "https://www.fxstreet.com/news/swedish-krona-higher-oil-and-ecb-stance-pressure-currency-danske-bank-202609110916",
-      "published_at_utc": "2026-09-11T09:16:36+00:00",
-      "title": "スウェーデンクローナ：原油高とECBスタンス圧力通貨 – ダンスケ銀行"
+      "title_en": "Oil: Gradual easing as dark transits grow – Commerzbank",
+      "link": "https://www.fxstreet.com/news/oil-gradual-easing-as-dark-transits-grow-commerzbank-202609111244",
+      "published_at_utc": "2026-09-11T12:44:29+00:00",
+      "title": "石油：ダークトランジットの拡大に​​伴い段階的に緩和 – コメルツ銀行"
     },
     {
       "source": "FXStreet",
-      "title_en": "Euro steadies against Canadian Dollar amid ECB hawkish sentiment, lower oil prices",
-      "link": "https://www.fxstreet.com/news/euro-steadies-against-canadian-dollar-amid-ecb-hawkish-sentiment-lower-oil-prices-202609110757",
-      "published_at_utc": "2026-09-11T07:57:38+00:00",
-      "title": "ECBのタカ派感情と原油価格の下落を受けて、ユーロは対カナダドルで安定"
+      "title_en": "WTI drops more than 4% below $97 as profit-taking kicks in, Iran tensions limit losses",
+      "link": "https://www.fxstreet.com/news/wti-drops-more-than-4-below-97-as-profit-taking-kicks-in-iran-tensions-limit-losses-202609111230",
+      "published_at_utc": "2026-09-11T12:30:46+00:00",
+      "title": "WTIは利益確定売りが始まり97ドルを4％以上下回り、イランの緊張で損失は限定的"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Oil: Supply risks and central bank inflation worries – BNY",
+      "link": "https://www.fxstreet.com/news/oil-supply-risks-and-central-bank-inflation-worries-bny-202609111142",
+      "published_at_utc": "2026-09-11T11:42:39+00:00",
+      "title": "石油：供給リスクと中央銀行のインフレ懸念 – BNY"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Indian Rupee cracks this week amid higher oil prices, US bond yields",
+      "link": "https://www.fxstreet.com/news/indian-rupee-extends-decline-on-fresh-escalation-in-hawkish-fed-bets-202609110534",
+      "published_at_utc": "2026-09-11T05:34:21+00:00",
+      "title": "今週、原油価格と米国債利回りの上昇を受けてインドルピーが急落"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
