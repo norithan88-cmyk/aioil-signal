@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-09-11T14:57:32.212128+00:00",
+  "generated_at_utc": "2026-09-11T18:22:05.619489+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 99.23,
-  "day_change_pct": 0.0,
+  "latest_price": 99.64,
+  "day_change_pct": -0.02,
   "signal": {
     "bias": "WAIT",
     "bias_label": "方向感なし",
@@ -27,25 +27,32 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.13,
+      "position_sigma": 0.16,
       "momentum": "FLAT",
-      "mid": 98.84,
-      "upper": 104.84,
-      "lower": 92.84
+      "mid": 99.22,
+      "upper": 104.76,
+      "lower": 93.68
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.6,
+      "position_sigma": 1.65,
       "momentum": "UP",
-      "mid": 89.61,
-      "upper": 101.67,
-      "lower": 77.55
+      "mid": 89.64,
+      "upper": 101.79,
+      "lower": 77.49
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$99.23付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$99.64付近で推移（直近1時間比-0.02%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "WTI Oil Price Forecast: corrects lower after reaching overbought levels",
+      "link": "https://www.fxstreet.com/news/wti-oil-price-forecast-corrects-lower-after-reaching-overbought-levels-202609111602",
+      "published_at_utc": "2026-09-11T16:02:34+00:00",
+      "title": "WTI原油価格予測：買われ過ぎの水準に達した後、下落修正"
+    },
     {
       "source": "FXStreet",
       "title_en": "Canadian Dollar slides with Oil prices, US CPI fails to keep US Dollar higher",
@@ -66,13 +73,6 @@
       "link": "https://www.fxstreet.com/news/wti-drops-more-than-4-below-97-as-profit-taking-kicks-in-iran-tensions-limit-losses-202609111230",
       "published_at_utc": "2026-09-11T12:30:46+00:00",
       "title": "WTIは利益確定売りが始まり97ドルを4％以上下回り、イランの緊張で損失は限定的"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Oil: Supply risks and central bank inflation worries – BNY",
-      "link": "https://www.fxstreet.com/news/oil-supply-risks-and-central-bank-inflation-worries-bny-202609111142",
-      "published_at_utc": "2026-09-11T11:42:39+00:00",
-      "title": "石油：供給リスクと中央銀行のインフレ懸念 – BNY"
     },
     {
       "source": "FXStreet",
