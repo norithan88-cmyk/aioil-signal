@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-09-11T18:22:05.619489+00:00",
+  "generated_at_utc": "2026-09-11T21:07:26.945464+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 99.64,
-  "day_change_pct": -0.02,
+  "latest_price": 99.97,
+  "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
     "bias_label": "方向感なし",
@@ -27,25 +27,32 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.16,
+      "position_sigma": 0.15,
       "momentum": "FLAT",
-      "mid": 99.22,
-      "upper": 104.76,
-      "lower": 93.68
+      "mid": 99.58,
+      "upper": 104.79,
+      "lower": 94.37
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.65,
+      "position_sigma": 1.69,
       "momentum": "UP",
-      "mid": 89.64,
-      "upper": 101.79,
-      "lower": 77.49
+      "mid": 89.66,
+      "upper": 101.88,
+      "lower": 77.44
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$99.64付近で推移（直近1時間比-0.02%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$99.97付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Crude Oil buckles early and grinds back on talk of a Hormuz arrangement",
+      "link": "https://www.fxstreet.com/news/crude-oil-buckles-early-and-grinds-back-on-talk-of-a-hormuz-arrangement-202609112019",
+      "published_at_utc": "2026-09-11T20:19:56+00:00",
+      "title": "原油は早々に態度を崩し、ホルムズ協定の話に後退"
+    },
     {
       "source": "FXStreet",
       "title_en": "WTI Oil Price Forecast: corrects lower after reaching overbought levels",
@@ -59,27 +66,6 @@
       "link": "https://www.fxstreet.com/news/canadian-dollar-slides-with-oil-prices-us-cpi-fails-to-keep-us-dollar-higher-202609111409",
       "published_at_utc": "2026-09-11T14:09:51+00:00",
       "title": "カナダドルは原油価格とともに下落、米国CPIは米ドル高を維持できず"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Oil: Gradual easing as dark transits grow – Commerzbank",
-      "link": "https://www.fxstreet.com/news/oil-gradual-easing-as-dark-transits-grow-commerzbank-202609111244",
-      "published_at_utc": "2026-09-11T12:44:29+00:00",
-      "title": "石油：ダークトランジットの拡大に​​伴い段階的に緩和 – コメルツ銀行"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "WTI drops more than 4% below $97 as profit-taking kicks in, Iran tensions limit losses",
-      "link": "https://www.fxstreet.com/news/wti-drops-more-than-4-below-97-as-profit-taking-kicks-in-iran-tensions-limit-losses-202609111230",
-      "published_at_utc": "2026-09-11T12:30:46+00:00",
-      "title": "WTIは利益確定売りが始まり97ドルを4％以上下回り、イランの緊張で損失は限定的"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Indian Rupee cracks this week amid higher oil prices, US bond yields",
-      "link": "https://www.fxstreet.com/news/indian-rupee-extends-decline-on-fresh-escalation-in-hawkish-fed-bets-202609110534",
-      "published_at_utc": "2026-09-11T05:34:21+00:00",
-      "title": "今週、原油価格と米国債利回りの上昇を受けてインドルピーが急落"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
