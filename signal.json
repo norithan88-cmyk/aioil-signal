@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-11T05:56:33.785891+00:00",
+  "generated_at_utc": "2026-09-11T11:01:52.713125+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 101.08,
+  "latest_price": 98.77,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,59 +27,45 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.9,
+      "position_sigma": 0.09,
       "momentum": "FLAT",
-      "mid": 98.15,
-      "upper": 104.7,
-      "lower": 91.59
+      "mid": 98.47,
+      "upper": 104.88,
+      "lower": 92.06
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.82,
+      "position_sigma": 1.54,
       "momentum": "UP",
-      "mid": 89.73,
-      "upper": 102.21,
-      "lower": 77.26
+      "mid": 89.58,
+      "upper": 101.54,
+      "lower": 77.62
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$101.08付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$98.77付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "Asian Stocks decline as surging oil prices stoke inflation fears and lift Fed hike bets",
-      "link": "https://www.fxstreet.com/news/asian-stocks-decline-as-surging-oil-prices-stoke-inflation-fears-and-lift-fed-hike-bets-202609110423",
-      "published_at_utc": "2026-09-11T04:23:31+00:00",
-      "title": "原油価格の高騰でインフレ懸念が高まり、FRBの利上げ観測が高まる中、アジア株は下落"
+      "title_en": "Canadian Dollar underperforms as Oil prices correct significantly",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-underperforms-as-oil-prices-correct-significantly-202609110923",
+      "published_at_utc": "2026-09-11T09:23:57+00:00",
+      "title": "原油価格が大幅に修正される中、カナダドルはアンダーパフォーム"
     },
     {
       "source": "FXStreet",
-      "title_en": "Canadian Dollar struggles as oil prices decline",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-struggles-as-oil-prices-decline-202609110217",
-      "published_at_utc": "2026-09-11T02:17:55+00:00",
-      "title": "原油価格下落でカナダドルは苦戦"
+      "title_en": "Swedish Krona: Higher Oil and ECB stance pressure currency – Danske Bank",
+      "link": "https://www.fxstreet.com/news/swedish-krona-higher-oil-and-ecb-stance-pressure-currency-danske-bank-202609110916",
+      "published_at_utc": "2026-09-11T09:16:36+00:00",
+      "title": "スウェーデンクローナ：原油高とECBスタンス圧力通貨 – ダンスケ銀行"
     },
     {
       "source": "FXStreet",
-      "title_en": "WTI trades near $99.00 after pulling back from nearly four-month highs",
-      "link": "https://www.fxstreet.com/news/wti-falls-to-near-9900-despite-escalating-us-iran-conflict-202609110123",
-      "published_at_utc": "2026-09-11T01:23:43+00:00",
-      "title": "WTIは約4カ月ぶりの高値から反落後、99.00ドル付近で取引"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Gold falls below $4,350 as rising oil prices, US PPI reinforces Fed hike bets",
-      "link": "https://www.fxstreet.com/news/gold-falls-below-4-350-as-rising-oil-prices-us-ppi-reinforces-fed-hike-bets-202609102336",
-      "published_at_utc": "2026-09-10T23:36:31+00:00",
-      "title": "原油価格上昇で金が4,350ドルを下回る、米国のPPIがFRB利上げ観測を裏付ける"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "WTI blasts past $100 as Red Sea, Hormuz risks collide",
-      "link": "https://www.fxstreet.com/news/wti-blasts-past-100-as-red-sea-hormuz-risks-collide-202609102126",
-      "published_at_utc": "2026-09-10T21:26:35+00:00",
-      "title": "紅海とホルムズのリスクが衝突し、WTIは100ドルを突破"
+      "title_en": "Euro steadies against Canadian Dollar amid ECB hawkish sentiment, lower oil prices",
+      "link": "https://www.fxstreet.com/news/euro-steadies-against-canadian-dollar-amid-ecb-hawkish-sentiment-lower-oil-prices-202609110757",
+      "published_at_utc": "2026-09-11T07:57:38+00:00",
+      "title": "ECBのタカ派感情と原油価格の下落を受けて、ユーロは対カナダドルで安定"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
