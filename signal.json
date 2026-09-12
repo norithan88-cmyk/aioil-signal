@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-12T13:35:05.290686+00:00",
+  "generated_at_utc": "2026-09-12T16:28:12.893820+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
   "latest_price": 100.05,
   "day_change_pct": -0.56,
@@ -51,21 +51,7 @@
       "title_en": "Crude Oil buckles early and grinds back on talk of a Hormuz arrangement",
       "link": "https://www.fxstreet.com/news/crude-oil-buckles-early-and-grinds-back-on-talk-of-a-hormuz-arrangement-202609112019",
       "published_at_utc": "2026-09-11T20:19:56+00:00",
-      "title": "原油は早々に態度を崩し、ホルムズ協定の話に後退"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "WTI Oil Price Forecast: corrects lower after reaching overbought levels",
-      "link": "https://www.fxstreet.com/news/wti-oil-price-forecast-corrects-lower-after-reaching-overbought-levels-202609111602",
-      "published_at_utc": "2026-09-11T16:02:34+00:00",
-      "title": "WTI原油価格予測：買われ過ぎの水準に達した後、下落修正"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Canadian Dollar slides with Oil prices, US CPI fails to keep US Dollar higher",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-slides-with-oil-prices-us-cpi-fails-to-keep-us-dollar-higher-202609111409",
-      "published_at_utc": "2026-09-11T14:09:51+00:00",
-      "title": "カナダドルは原油価格とともに下落、米国CPIは米ドル高を維持できず"
+      "title": "原油は早々に折れ、ホルムズ協定の話は後退"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
