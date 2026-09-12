@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-09-12T05:53:12.004672+00:00",
+  "generated_at_utc": "2026-09-12T10:05:32.204931+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 99.99,
-  "day_change_pct": -0.62,
+  "latest_price": 100.05,
+  "day_change_pct": -0.56,
   "signal": {
     "bias": "WAIT",
     "bias_label": "方向感なし",
@@ -27,11 +27,11 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.16,
+      "position_sigma": 0.18,
       "momentum": "FLAT",
       "mid": 99.58,
       "upper": 104.79,
-      "lower": 94.37
+      "lower": 94.38
     },
     {
       "key": "d1",
@@ -44,28 +44,28 @@
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$99.99付近で推移（直近1時間比-0.62%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$100.05付近で推移（直近1時間比-0.56%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
       "title_en": "Crude Oil buckles early and grinds back on talk of a Hormuz arrangement",
       "link": "https://www.fxstreet.com/news/crude-oil-buckles-early-and-grinds-back-on-talk-of-a-hormuz-arrangement-202609112019",
       "published_at_utc": "2026-09-11T20:19:56+00:00",
-      "title": "原油は早々に折れ、ホルムズ協定の話は後退"
+      "title": "Crude Oil buckles early and grinds back on talk of a Hormuz arrangement"
     },
     {
       "source": "FXStreet",
       "title_en": "WTI Oil Price Forecast: corrects lower after reaching overbought levels",
       "link": "https://www.fxstreet.com/news/wti-oil-price-forecast-corrects-lower-after-reaching-overbought-levels-202609111602",
       "published_at_utc": "2026-09-11T16:02:34+00:00",
-      "title": "WTI原油価格予測：買われ過ぎの水準に達した後、下落修正"
+      "title": "WTI Oil Price Forecast: corrects lower after reaching overbought levels"
     },
     {
       "source": "FXStreet",
       "title_en": "Canadian Dollar slides with Oil prices, US CPI fails to keep US Dollar higher",
       "link": "https://www.fxstreet.com/news/canadian-dollar-slides-with-oil-prices-us-cpi-fails-to-keep-us-dollar-higher-202609111409",
       "published_at_utc": "2026-09-11T14:09:51+00:00",
-      "title": "カナダドルは原油価格とともに下落、米国CPIは米ドル高を維持できず"
+      "title": "Canadian Dollar slides with Oil prices, US CPI fails to keep US Dollar higher"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
