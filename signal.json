@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-14T20:22:24.132953+00:00",
+  "generated_at_utc": "2026-09-14T23:16:21.659522+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 101.86,
+  "latest_price": 101.97,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,24 +27,24 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -0.09,
+      "position_sigma": -0.02,
       "momentum": "FLAT",
-      "mid": 101.99,
-      "upper": 104.94,
+      "mid": 102.0,
+      "upper": 104.95,
       "lower": 99.05
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.65,
+      "position_sigma": 1.67,
       "momentum": "UP",
-      "mid": 90.65,
-      "upper": 104.2,
-      "lower": 77.1
+      "mid": 90.66,
+      "upper": 104.24,
+      "lower": 77.08
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$101.86付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$101.97付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
@@ -66,13 +66,6 @@
       "link": "https://www.fxstreet.com/news/crude-oil-elevated-upside-risk-with-ctas-max-long-td-securities-202609141507",
       "published_at_utc": "2026-09-14T15:07:09+00:00",
       "title": "原油：CTAの最長期間による上昇リスク – TD Securities"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Brent: Covert tanker flows may ease supply pressure - Commerzbank",
-      "link": "https://www.fxstreet.com/news/brent-covert-tanker-flows-may-ease-supply-pressure-commerzbank-202609141347",
-      "published_at_utc": "2026-09-14T13:47:02+00:00",
-      "title": "ブレント：秘密のタンカー輸送により供給圧力が緩和される可能性がある - コメルツ銀行"
     },
     {
       "source": "FXStreet",
