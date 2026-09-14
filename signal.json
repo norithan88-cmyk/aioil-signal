@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-14T00:00:11.726591+00:00",
+  "generated_at_utc": "2026-09-14T04:46:03.951865+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 102.44,
+  "latest_price": 102.86,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,24 +27,39 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.96,
+      "position_sigma": 0.87,
       "momentum": "FLAT",
-      "mid": 99.98,
-      "upper": 105.1,
-      "lower": 94.86
+      "mid": 100.78,
+      "upper": 105.55,
+      "lower": 96.02
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.72,
+      "position_sigma": 1.76,
       "momentum": "UP",
-      "mid": 90.69,
-      "upper": 104.37,
-      "lower": 77.01
+      "mid": 90.72,
+      "upper": 104.5,
+      "lower": 76.94
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$102.44付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
-  "news": [],
+  "market_context": "WTI原油（CL=F）は現在$102.86付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Canadian Dollar gains support from higher oil prices amid Saudi pipeline disruptions",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-support-from-higher-oil-prices-amid-saudi-pipeline-disruptions-202609140210",
+      "published_at_utc": "2026-09-14T02:10:30+00:00",
+      "title": "Canadian Dollar gains support from higher oil prices amid Saudi pipeline disruptions"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "WTI rebounds toward nearly four-month highs after Saudi pipeline shutdown",
+      "link": "https://www.fxstreet.com/news/wti-rebounds-toward-nearly-four-month-highs-after-saudi-pipeline-shutdown-202609140124",
+      "published_at_utc": "2026-09-14T01:24:00+00:00",
+      "title": "WTI rebounds toward nearly four-month highs after Saudi pipeline shutdown"
+    }
+  ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
 }
