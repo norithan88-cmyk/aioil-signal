@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-14T23:16:21.659522+00:00",
+  "generated_at_utc": "2026-09-15T01:33:58.012575+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 101.97,
+  "latest_price": 102.39,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,25 +27,39 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -0.02,
+      "position_sigma": 0.27,
       "momentum": "FLAT",
-      "mid": 102.0,
-      "upper": 104.95,
-      "lower": 99.05
+      "mid": 101.99,
+      "upper": 104.92,
+      "lower": 99.06
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.67,
+      "position_sigma": 1.71,
       "momentum": "UP",
-      "mid": 90.66,
-      "upper": 104.24,
-      "lower": 77.08
+      "mid": 90.69,
+      "upper": 104.36,
+      "lower": 77.01
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$101.97付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$102.39付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Canadian Dollar consolidates near 1.3900 as oil gains offset bullish USD ahead of Fed",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-consolidates-near-13900-as-oil-gains-offset-bullish-usd-ahead-of-fed-202609150112",
+      "published_at_utc": "2026-09-15T01:12:51+00:00",
+      "title": "FRBに先んじて原油価格の上昇がUSDの強気を相殺し、カナダドルは1.3900付近で堅調"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "WTI rises above $98.50 amid Middle East supply fears",
+      "link": "https://www.fxstreet.com/news/wti-rises-above-9850-amid-middle-east-supply-fears-202609150105",
+      "published_at_utc": "2026-09-15T01:05:19+00:00",
+      "title": "中東の供給不安の中、WTIは98.50ドルを超えて上昇"
+    },
     {
       "source": "FXStreet",
       "title_en": "Crude Oil spikes on a shut Saudi pipeline and unwinds on Trump's posts",
@@ -59,13 +73,6 @@
       "link": "https://www.fxstreet.com/news/euro-falls-as-higher-oil-prices-support-canadian-dollar-amid-mixed-inflation-data-202609141637",
       "published_at_utc": "2026-09-14T16:37:20+00:00",
       "title": "インフレ指標がまちまちのなか、原油価格の上昇がカナダドルを支援し、ユーロが下落"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Crude Oil: Elevated upside risk with CTAs max long – TD Securities",
-      "link": "https://www.fxstreet.com/news/crude-oil-elevated-upside-risk-with-ctas-max-long-td-securities-202609141507",
-      "published_at_utc": "2026-09-14T15:07:09+00:00",
-      "title": "原油：CTAの最長期間による上昇リスク – TD Securities"
     },
     {
       "source": "FXStreet",
