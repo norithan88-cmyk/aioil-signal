@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-15T06:39:40.942949+00:00",
+  "generated_at_utc": "2026-09-15T12:09:45.327975+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 103.31,
+  "latest_price": 102.29,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,66 +27,45 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.95,
+      "position_sigma": 0.28,
       "momentum": "FLAT",
-      "mid": 101.97,
-      "upper": 104.78,
+      "mid": 101.91,
+      "upper": 104.66,
       "lower": 99.16
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.58,
+      "position_sigma": 1.48,
       "momentum": "UP",
-      "mid": 91.84,
-      "upper": 106.32,
-      "lower": 77.36
+      "mid": 91.77,
+      "upper": 106.04,
+      "lower": 77.5
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$103.31付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$102.29付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "Oil: Saudi pipeline outage supports prices – ING",
-      "link": "https://www.fxstreet.com/news/oil-saudi-pipeline-outage-supports-prices-ing-202609150612",
-      "published_at_utc": "2026-09-15T06:12:46+00:00",
-      "title": "石油：サウジアラビアのパイプライン停止が価格を支える – ING"
+      "title_en": "Brent: Higher risk premium and retest of highs – Rabobank",
+      "link": "https://www.fxstreet.com/news/brent-higher-risk-premium-and-retest-of-highs-rabobank-202609150927",
+      "published_at_utc": "2026-09-15T09:27:40+00:00",
+      "title": "Brent: Higher risk premium and retest of highs – Rabobank"
     },
     {
       "source": "FXStreet",
-      "title_en": "WTI Price Forecast: Retakes $99.00 as bulls eye further gains amid Middle East jitters",
-      "link": "https://www.fxstreet.com/news/wti-price-forecast-retakes-9900-as-bulls-eye-further-gains-amid-middle-east-jitters-202609150522",
-      "published_at_utc": "2026-09-15T05:22:49+00:00",
-      "title": "WTI価格予測：中東不安の中で強気派はさらなる上昇に注目し、99.00ドルを奪還"
+      "title_en": "WTI clings to gains near mid-$99.00s, eyes multi-month top amid supply concerns",
+      "link": "https://www.fxstreet.com/news/wti-clings-to-gains-near-mid-9900s-eyes-multi-month-top-amid-supply-concerns-202609150907",
+      "published_at_utc": "2026-09-15T09:07:58+00:00",
+      "title": "WTI clings to gains near mid-$99.00s, eyes multi-month top amid supply concerns"
     },
     {
       "source": "FXStreet",
-      "title_en": "Indonesian Rupiah weakens amid stronger US Dollar, higher oil prices",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-weakens-amid-stronger-us-dollar-higher-oil-prices-202609150453",
-      "published_at_utc": "2026-09-15T04:53:21+00:00",
-      "title": "米ドル高と原油価格の上昇を受けてインドネシアルピアが下落"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Asian stocks trade mixed, AI stocks and oil prices in focus",
-      "link": "https://www.fxstreet.com/news/asian-stocks-trade-mixed-ai-stocks-and-oil-prices-in-focus-202609150433",
-      "published_at_utc": "2026-09-15T04:33:53+00:00",
-      "title": "アジア株の取引はまちまち、AI株と原油価格が焦点"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Canadian Dollar consolidates near 1.3900 as oil gains offset bullish USD ahead of Fed",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-consolidates-near-13900-as-oil-gains-offset-bullish-usd-ahead-of-fed-202609150112",
-      "published_at_utc": "2026-09-15T01:12:51+00:00",
-      "title": "FRBに先んじて原油価格の上昇がUSDの強気を相殺し、カナダドルは1.3900付近で堅調"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "WTI rises above $98.50 amid Middle East supply fears",
-      "link": "https://www.fxstreet.com/news/wti-rises-above-9850-amid-middle-east-supply-fears-202609150105",
-      "published_at_utc": "2026-09-15T01:05:19+00:00",
-      "title": "中東の供給不安の中、WTIは98.50ドルを超えて上昇"
+      "title_en": "Australian Dollar holds gains as higher oil prices weigh on Japanese Yen",
+      "link": "https://www.fxstreet.com/news/australian-dollar-holds-gains-as-higher-oil-prices-weigh-on-japanese-yen-202609150855",
+      "published_at_utc": "2026-09-15T08:55:39+00:00",
+      "title": "Australian Dollar holds gains as higher oil prices weigh on Japanese Yen"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
