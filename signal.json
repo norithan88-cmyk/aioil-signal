@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-15T01:33:58.012575+00:00",
+  "generated_at_utc": "2026-09-15T06:39:40.942949+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 102.39,
+  "latest_price": 103.31,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,25 +27,53 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.27,
+      "position_sigma": 0.95,
       "momentum": "FLAT",
-      "mid": 101.99,
-      "upper": 104.92,
-      "lower": 99.06
+      "mid": 101.97,
+      "upper": 104.78,
+      "lower": 99.16
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.71,
+      "position_sigma": 1.58,
       "momentum": "UP",
-      "mid": 90.69,
-      "upper": 104.36,
-      "lower": 77.01
+      "mid": 91.84,
+      "upper": 106.32,
+      "lower": 77.36
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$102.39付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$103.31付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Oil: Saudi pipeline outage supports prices – ING",
+      "link": "https://www.fxstreet.com/news/oil-saudi-pipeline-outage-supports-prices-ing-202609150612",
+      "published_at_utc": "2026-09-15T06:12:46+00:00",
+      "title": "石油：サウジアラビアのパイプライン停止が価格を支える – ING"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "WTI Price Forecast: Retakes $99.00 as bulls eye further gains amid Middle East jitters",
+      "link": "https://www.fxstreet.com/news/wti-price-forecast-retakes-9900-as-bulls-eye-further-gains-amid-middle-east-jitters-202609150522",
+      "published_at_utc": "2026-09-15T05:22:49+00:00",
+      "title": "WTI価格予測：中東不安の中で強気派はさらなる上昇に注目し、99.00ドルを奪還"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Indonesian Rupiah weakens amid stronger US Dollar, higher oil prices",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-weakens-amid-stronger-us-dollar-higher-oil-prices-202609150453",
+      "published_at_utc": "2026-09-15T04:53:21+00:00",
+      "title": "米ドル高と原油価格の上昇を受けてインドネシアルピアが下落"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Asian stocks trade mixed, AI stocks and oil prices in focus",
+      "link": "https://www.fxstreet.com/news/asian-stocks-trade-mixed-ai-stocks-and-oil-prices-in-focus-202609150433",
+      "published_at_utc": "2026-09-15T04:33:53+00:00",
+      "title": "アジア株の取引はまちまち、AI株と原油価格が焦点"
+    },
     {
       "source": "FXStreet",
       "title_en": "Canadian Dollar consolidates near 1.3900 as oil gains offset bullish USD ahead of Fed",
@@ -59,27 +87,6 @@
       "link": "https://www.fxstreet.com/news/wti-rises-above-9850-amid-middle-east-supply-fears-202609150105",
       "published_at_utc": "2026-09-15T01:05:19+00:00",
       "title": "中東の供給不安の中、WTIは98.50ドルを超えて上昇"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Crude Oil spikes on a shut Saudi pipeline and unwinds on Trump's posts",
-      "link": "https://www.fxstreet.com/news/crude-oil-spikes-on-a-shut-saudi-pipeline-and-unwinds-on-trumps-posts-202609142014",
-      "published_at_utc": "2026-09-14T20:14:09+00:00",
-      "title": "サウジアラビアのパイプライン閉鎖で原油急増、トランプ大統領のポストで緩和"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Euro falls as higher Oil prices support Canadian Dollar amid mixed inflation data",
-      "link": "https://www.fxstreet.com/news/euro-falls-as-higher-oil-prices-support-canadian-dollar-amid-mixed-inflation-data-202609141637",
-      "published_at_utc": "2026-09-14T16:37:20+00:00",
-      "title": "インフレ指標がまちまちのなか、原油価格の上昇がカナダドルを支援し、ユーロが下落"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Gold falls as Fed rate hike bets, rising Oil push Treasury yields to 5%",
-      "link": "https://www.fxstreet.com/news/gold-starts-the-week-lower-as-traders-await-fed-verdict-202609141130",
-      "published_at_utc": "2026-09-14T11:30:18+00:00",
-      "title": "FRB利上げ予想で金下落、原油上昇で国債利回りは5%に上昇"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
