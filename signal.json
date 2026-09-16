@@ -1,81 +1,71 @@
 {
-  "generated_at_utc": "2026-09-16T01:07:48.118642+00:00",
+  "generated_at_utc": "2026-09-16T06:00:06.059773+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 105.27,
+  "latest_price": 104.75,
   "day_change_pct": 0.0,
   "signal": {
-    "bias": "BUY",
-    "bias_label": "押し目買い優勢",
-    "stars": 4,
-    "confidence": 88,
+    "bias": "WAIT",
+    "bias_label": "方向感なし",
+    "stars": 2,
+    "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "4時間足:上方向 / 日足:上方向 → 2時間足とも一致、5分足の反発シグナルも確認済み",
-      "calc_note": "基本50% + 2時間足一致30% + バンド際からの乖離度ボーナス = 88%（上限95%）"
+      "timeframes_note": "4時間足:中央 / 日足:上方向 → 2時間足の方向が一致していません",
+      "calc_note": "2時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
   "volatility_risk": "LOW",
-  "market_mode": "TREND",
-  "market_mode_note": "4時間・日足の方向が揃っており、方向感のある地合い。",
+  "market_mode": "RANGE",
+  "market_mode_note": "時間足ごとに方向が割れており、方向感に乏しいレンジ地合い。",
   "priority_trade": {
-    "lead": "押し目買い ― 上位足の上昇方向一致＋5分足の押し目からの反発",
-    "entry": 105.27,
-    "take_profit": 105.71,
-    "stop_loss": 104.77
+    "lead": "様子見 ― 4時間・日足の方向が一致していない",
+    "entry": null,
+    "take_profit": null,
+    "stop_loss": null
   },
-  "reversal_setup": {
-    "extreme": 104.83,
-    "reverted_usd": 0.44
-  },
+  "reversal_setup": null,
   "regression_channels": [
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 1.32,
-      "momentum": "UP",
-      "mid": 103.3,
-      "upper": 106.28,
-      "lower": 100.32
+      "position_sigma": 1.01,
+      "momentum": "FLAT",
+      "mid": 103.55,
+      "upper": 105.92,
+      "lower": 101.18
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.78,
+      "position_sigma": 1.46,
       "momentum": "UP",
-      "mid": 91.97,
-      "upper": 106.89,
-      "lower": 77.06
+      "mid": 93.5,
+      "upper": 108.87,
+      "lower": 78.14
     }
   ],
-  "commentary": "押し目は焦らず拾う。飛び乗りより、待つ勇気を。",
-  "market_context": "WTI原油（CL=F）は現在$105.27付近で推移（直近1時間比+0.00%）。4時間・日足が揃って下値の堅さを示す中、5分足が短期的な押し目から反発したタイミング。目先は下値の堅い展開が想定され、押し目を焦らず拾うスタンスが機能しやすい局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
+  "market_context": "WTI原油（CL=F）は現在$104.75付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "WTI tumbles to near $100.00 on surprise US inventory build despite supply disruption worries",
+      "link": "https://www.fxstreet.com/news/wti-tumbles-to-near-10000-on-surprise-us-inventory-build-despite-supply-disruption-worries-202609160521",
+      "published_at_utc": "2026-09-16T05:21:44+00:00",
+      "title": "供給混乱の懸念にもかかわらず、米国の予想外の在庫増加により、WTIは100.00ドル近くまで下落"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Canadian Dollar languishes near two-week low as bullish USD offsets oil gains ahead of Fed",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-languishes-near-two-week-low-as-bullish-usd-offsets-oil-gains-ahead-of-fed-202609160108",
+      "published_at_utc": "2026-09-16T01:08:18+00:00",
+      "title": "FRBに先んじて強気の米ドルが原油上昇を相殺する中、カナダドルは2週間ぶりの安値付近で低迷"
+    },
     {
       "source": "FXStreet",
       "title_en": "WTI slips to near $100.50 despite escalating Middle East supply disruptions",
       "link": "https://www.fxstreet.com/news/wti-slips-to-near-10050-despite-escalating-middle-east-supply-disruptions-202609160054",
       "published_at_utc": "2026-09-16T00:54:00+00:00",
       "title": "中東の供給混乱が激化しているにもかかわらず、WTIは100.50ドル近くまで下落"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Crude Oil rallies again as Saudi Arabia's route around Hormuz shuts",
-      "link": "https://www.fxstreet.com/news/crude-oil-rallies-again-as-saudi-arabias-route-around-hormuz-shuts-202609151958",
-      "published_at_utc": "2026-09-15T19:58:13+00:00",
-      "title": "サウジアラビアのホルムズ航路閉鎖で原油が再び上昇"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Japanese Yen slips as Oil lifts yields ahead of the Fed",
-      "link": "https://www.fxstreet.com/news/japanese-yen-slips-as-oil-lifts-yields-ahead-of-the-fed-202609151849",
-      "published_at_utc": "2026-09-15T18:49:55+00:00",
-      "title": "FRBに先んじて原油利回り上昇で日本円が下落"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "British Pound wilts as Oil shock sends US yields past 5%",
-      "link": "https://www.fxstreet.com/news/british-pound-wilts-as-oil-shock-sends-us-yields-past-5-202609151604",
-      "published_at_utc": "2026-09-15T16:04:53+00:00",
-      "title": "オイルショックで米国の利回りが5％を超え、英ポンドが下落"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
