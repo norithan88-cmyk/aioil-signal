@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-16T11:23:45.718491+00:00",
+  "generated_at_utc": "2026-09-16T15:28:57.321040+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 103.45,
+  "latest_price": 101.45,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -9,7 +9,7 @@
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "4時間足:中央 / 日足:上方向 → 2時間足の方向が一致していません",
+      "timeframes_note": "4時間足:下方向 / 日足:中央 → 2時間足の方向が一致していません",
       "calc_note": "2時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
@@ -27,53 +27,24 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -0.14,
-      "momentum": "FLAT",
-      "mid": 103.61,
-      "upper": 105.92,
-      "lower": 101.29
+      "position_sigma": -1.58,
+      "momentum": "DOWN",
+      "mid": 103.47,
+      "upper": 106.02,
+      "lower": 100.91
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.33,
-      "momentum": "UP",
-      "mid": 93.41,
-      "upper": 108.54,
-      "lower": 78.29
+      "position_sigma": 1.1,
+      "momentum": "FLAT",
+      "mid": 93.28,
+      "upper": 108.08,
+      "lower": 78.48
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$103.45付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
-  "news": [
-    {
-      "source": "FXStreet",
-      "title_en": "US Dollar: Higher yields and oil support – MUFG",
-      "link": "https://www.fxstreet.com/news/us-dollar-higher-yields-and-oil-support-mufg-202609160923",
-      "published_at_utc": "2026-09-16T09:23:30+00:00",
-      "title": "米ドル: 利回りの向上と石油支援 – MUFG"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "WTI falls near $100 as Saudi adds Oman route, US stocks surge",
-      "link": "https://www.fxstreet.com/news/wti-falls-near-100-as-saudi-adds-oman-route-us-stocks-surge-202609160900",
-      "published_at_utc": "2026-09-16T09:00:11+00:00",
-      "title": "サウジのオマーン路線追加でWTIが100ドル近く下落、米国株が急騰"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Euro gains against Canadian Dollar as oil prices retreat on rising US crude inventories",
-      "link": "https://www.fxstreet.com/news/euro-gains-against-canadian-dollar-as-oil-prices-retreat-on-rising-us-crude-inventories-202609160839",
-      "published_at_utc": "2026-09-16T08:39:23+00:00",
-      "title": "米国の原油在庫増加で原油価格が下落、ユーロは対カナダドルで上昇"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Oil: Supply risks and central bank pressures – Rabobank",
-      "link": "https://www.fxstreet.com/news/oil-supply-risks-and-central-bank-pressures-rabobank-202609160837",
-      "published_at_utc": "2026-09-16T08:37:42+00:00",
-      "title": "石油：供給リスクと中央銀行の圧力 – ラボバンク"
-    }
-  ],
+  "market_context": "WTI原油（CL=F）は現在$101.45付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "news": [],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
 }
