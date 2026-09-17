@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-17T10:03:02.594074+00:00",
+  "generated_at_utc": "2026-09-17T14:55:39.652554+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 101.25,
+  "latest_price": 100.78,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -9,7 +9,7 @@
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "4時間足:下方向 / 日足:中央 → 2時間足の方向が一致していません",
+      "timeframes_note": "4時間足:中央 / 日足:中央 → 2時間足の方向が一致していません",
       "calc_note": "2時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
@@ -27,45 +27,45 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -1.35,
-      "momentum": "DOWN",
-      "mid": 103.2,
-      "upper": 106.1,
-      "lower": 100.31
+      "position_sigma": -1.29,
+      "momentum": "FLAT",
+      "mid": 102.97,
+      "upper": 106.37,
+      "lower": 99.58
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 0.94,
+      "position_sigma": 0.88,
       "momentum": "FLAT",
-      "mid": 94.61,
-      "upper": 108.78,
-      "lower": 80.44
+      "mid": 94.58,
+      "upper": 108.7,
+      "lower": 80.47
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$101.25付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$100.78付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "WTI Oil holds near weekly lows as Saudi Oil exports find an alternative route",
-      "link": "https://www.fxstreet.com/news/wti-oil-holds-near-weekly-lows-as-saudi-oil-exports-find-an-alternative-route-202609170857",
-      "published_at_utc": "2026-09-17T08:57:48+00:00",
-      "title": "サウジアラビアの石油輸出が代替ルートを見つける中、WTIオイルは週間安値付近を維持"
+      "title_en": "WTI Oil Price Forecast: Bulls lose momentum near $100",
+      "link": "https://www.fxstreet.com/news/wti-oil-price-forecast-bulls-lose-momentum-near-100-202609171321",
+      "published_at_utc": "2026-09-17T13:21:05+00:00",
+      "title": "WTI原油価格予測：強気派は100ドル付近で勢いを失う"
     },
     {
       "source": "FXStreet",
-      "title_en": "Dow Jones futures gain as oil slide offsets Fed rate hike jitters",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-gain-as-oil-slide-offsets-fed-rate-hike-jitters-202609170813",
-      "published_at_utc": "2026-09-17T08:13:40+00:00",
-      "title": "原油価格下落がFRBの利上げ不安を相殺、ダウジョーンズ先物は上昇"
+      "title_en": "Silver price rebounds on softer Oil but Fed tightening caps recovery",
+      "link": "https://www.fxstreet.com/news/silver-price-rebounds-on-softer-oil-but-fed-tightening-caps-recovery-202609171150",
+      "published_at_utc": "2026-09-17T11:50:38+00:00",
+      "title": "銀価格は原油安を受けて反発、しかしFRBが上限を引き上げたことで回復"
     },
     {
       "source": "FXStreet",
-      "title_en": "Silver Price Forecast: XAG/USD jumps to near $64.40 as rally in oil prices hit a pause",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-jumps-to-near-6440-as-rally-in-oil-prices-hit-a-pause-202609170741",
-      "published_at_utc": "2026-09-17T07:41:21+00:00",
-      "title": "銀価格予測：原油価格の上昇が一服したため、XAG/USDは64.40ドル近くに上昇"
+      "title_en": "Euro: Fair value falls on oil and Fed pressure against US Dollar - ING",
+      "link": "https://www.fxstreet.com/news/euro-fair-value-falls-on-oil-and-fed-pressure-against-us-dollar-ing-202609171120",
+      "published_at_utc": "2026-09-17T11:20:49+00:00",
+      "title": "ユーロ：原油とFRBの対米ドル圧力で公正価値が下落 - ING"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
