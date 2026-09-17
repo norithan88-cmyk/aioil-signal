@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-17T14:55:39.652554+00:00",
+  "generated_at_utc": "2026-09-17T18:53:12.591777+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 100.78,
+  "latest_price": 101.79,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,45 +27,45 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -1.29,
+      "position_sigma": -0.64,
       "momentum": "FLAT",
-      "mid": 102.97,
-      "upper": 106.37,
-      "lower": 99.58
+      "mid": 102.87,
+      "upper": 106.28,
+      "lower": 99.47
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 0.88,
+      "position_sigma": 1.0,
       "momentum": "FLAT",
-      "mid": 94.58,
-      "upper": 108.7,
-      "lower": 80.47
+      "mid": 94.65,
+      "upper": 108.89,
+      "lower": 80.41
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$100.78付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$101.79付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Crude Oil sells off and takes it all back on Saudi cargoes through Oman",
+      "link": "https://www.fxstreet.com/news/crude-oil-sells-off-and-takes-it-all-back-on-saudi-cargoes-through-oman-202609171813",
+      "published_at_utc": "2026-09-17T18:13:47+00:00",
+      "title": "原油が売却され、オマーン経由でサウジアラビアの貨物に全額回収される"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Dow Jones Industrial Average rebounds as Crude Oil and bond yields fall",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-rebounds-as-crude-oil-and-bond-yields-fall-202609171616",
+      "published_at_utc": "2026-09-17T16:16:31+00:00",
+      "title": "原油と債券利回りの低下を受けてダウ工業株30種平均は反発"
+    },
     {
       "source": "FXStreet",
       "title_en": "WTI Oil Price Forecast: Bulls lose momentum near $100",
       "link": "https://www.fxstreet.com/news/wti-oil-price-forecast-bulls-lose-momentum-near-100-202609171321",
       "published_at_utc": "2026-09-17T13:21:05+00:00",
       "title": "WTI原油価格予測：強気派は100ドル付近で勢いを失う"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Silver price rebounds on softer Oil but Fed tightening caps recovery",
-      "link": "https://www.fxstreet.com/news/silver-price-rebounds-on-softer-oil-but-fed-tightening-caps-recovery-202609171150",
-      "published_at_utc": "2026-09-17T11:50:38+00:00",
-      "title": "銀価格は原油安を受けて反発、しかしFRBが上限を引き上げたことで回復"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Euro: Fair value falls on oil and Fed pressure against US Dollar - ING",
-      "link": "https://www.fxstreet.com/news/euro-fair-value-falls-on-oil-and-fed-pressure-against-us-dollar-ing-202609171120",
-      "published_at_utc": "2026-09-17T11:20:49+00:00",
-      "title": "ユーロ：原油とFRBの対米ドル圧力で公正価値が下落 - ING"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
