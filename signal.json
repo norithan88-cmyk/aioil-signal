@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-17T21:54:59.485228+00:00",
+  "generated_at_utc": "2026-09-17T23:58:54.015699+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 101.09,
+  "latest_price": 101.14,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,25 +27,46 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -0.93,
+      "position_sigma": -0.91,
       "momentum": "FLAT",
-      "mid": 102.75,
+      "mid": 102.76,
       "upper": 106.32,
-      "lower": 99.19
+      "lower": 99.2
     },
     {
       "key": "d1",
       "label": "日足",
       "position_sigma": 0.92,
       "momentum": "FLAT",
-      "mid": 94.6,
-      "upper": 108.75,
+      "mid": 94.61,
+      "upper": 108.76,
       "lower": 80.45
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$101.09付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$101.14付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Iran’s IRGC claims attack on Togolese oil tanker for 'illegal transit' in Strait of Hormuz",
+      "link": "https://www.fxstreet.com/news/irans-irgc-claims-attack-on-togolese-oil-tanker-for-illegal-transit-in-strait-of-hormuz-202609172354",
+      "published_at_utc": "2026-09-17T23:54:18+00:00",
+      "title": "イラン革命防衛隊、ホルムズ海峡で「違法な輸送」のためトーゴの石油タンカーを攻撃と主張"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Gold rebounds to near $4,350 on weaker US Dollar, falling oil prices",
+      "link": "https://www.fxstreet.com/news/gold-rebounds-to-near-4-350-on-weaker-us-dollar-falling-oil-prices-202609172320",
+      "published_at_utc": "2026-09-17T23:20:22+00:00",
+      "title": "米ドル安と原油価格の下落を受けて、金は4,350ドル近くまで反発"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Australian Dollar finds a floor as Oil retreat loosens USD’s grip",
+      "link": "https://www.fxstreet.com/news/australian-dollar-finds-a-floor-as-oil-retreat-loosens-usds-grip-202609172315",
+      "published_at_utc": "2026-09-17T23:15:56+00:00",
+      "title": "石油後退で米ドルの支配力が緩む中、豪ドルは底値を見つける"
+    },
     {
       "source": "FXStreet",
       "title_en": "Crude Oil sells off and takes it all back on Saudi cargoes through Oman",
