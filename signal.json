@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-17T18:53:12.591777+00:00",
+  "generated_at_utc": "2026-09-17T21:54:59.485228+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 101.79,
+  "latest_price": 101.09,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,24 +27,24 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -0.64,
+      "position_sigma": -0.93,
       "momentum": "FLAT",
-      "mid": 102.87,
-      "upper": 106.28,
-      "lower": 99.47
+      "mid": 102.75,
+      "upper": 106.32,
+      "lower": 99.19
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.0,
+      "position_sigma": 0.92,
       "momentum": "FLAT",
-      "mid": 94.65,
-      "upper": 108.89,
-      "lower": 80.41
+      "mid": 94.6,
+      "upper": 108.75,
+      "lower": 80.45
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$101.79付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$101.09付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
@@ -59,13 +59,6 @@
       "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-rebounds-as-crude-oil-and-bond-yields-fall-202609171616",
       "published_at_utc": "2026-09-17T16:16:31+00:00",
       "title": "原油と債券利回りの低下を受けてダウ工業株30種平均は反発"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "WTI Oil Price Forecast: Bulls lose momentum near $100",
-      "link": "https://www.fxstreet.com/news/wti-oil-price-forecast-bulls-lose-momentum-near-100-202609171321",
-      "published_at_utc": "2026-09-17T13:21:05+00:00",
-      "title": "WTI原油価格予測：強気派は100ドル付近で勢いを失う"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
