@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-17T00:26:47.409541+00:00",
+  "generated_at_utc": "2026-09-17T05:12:31.234685+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 101.57,
+  "latest_price": 102.2,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,38 +27,38 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -1.18,
+      "position_sigma": -0.82,
       "momentum": "FLAT",
-      "mid": 103.24,
-      "upper": 106.05,
-      "lower": 100.42
+      "mid": 103.31,
+      "upper": 105.99,
+      "lower": 100.62
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.12,
+      "position_sigma": 1.05,
       "momentum": "FLAT",
-      "mid": 93.29,
-      "upper": 108.1,
-      "lower": 78.47
+      "mid": 94.68,
+      "upper": 108.97,
+      "lower": 80.38
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$101.57付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$102.20付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "WTI holds near daily low as Fed decision draws muted reaction",
-      "link": "https://www.fxstreet.com/news/wti-holds-near-daily-low-as-fed-decision-draws-muted-reaction-202609161837",
-      "published_at_utc": "2026-09-16T18:37:24+00:00",
-      "title": "FRBの決定が反応を鈍らせる中、WTIは連日安値付近を維持"
+      "title_en": "Silver Price Forecast: XAG/USD rises to near $64.00 as oil prices decline",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rises-to-near-6400-as-oil-prices-decline-202609170159",
+      "published_at_utc": "2026-09-17T01:59:02+00:00",
+      "title": "銀価格予測: 原油価格の下落により、XAG/USD は 64.00 ドル近くまで上昇"
     },
     {
       "source": "FXStreet",
-      "title_en": "WTI pulls back below $100 as Saudi Arabia steps up efforts to restore Oil flows",
-      "link": "https://www.fxstreet.com/news/wti-pulls-back-below-100-as-saudi-arabia-steps-up-efforts-to-restore-oil-flows-202609161652",
-      "published_at_utc": "2026-09-16T16:52:46+00:00",
-      "title": "サウジアラビアが石油の流れを回復する取り組みを強化する中、WTIは100ドルを割り込む"
+      "title_en": "WTI remains below $97.50 as Saudi routes recover, US stocks shrink less than expected",
+      "link": "https://www.fxstreet.com/news/wti-remains-below-9750-as-saudi-routes-recover-us-stocks-shrink-less-than-expected-202609170118",
+      "published_at_utc": "2026-09-17T01:18:19+00:00",
+      "title": "サウジ航路が回復する中、WTIは97.50ドルを下回ったままだが、米国株の縮小は予想よりも小さかった"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
