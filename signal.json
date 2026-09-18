@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-18T04:30:25.357323+00:00",
+  "generated_at_utc": "2026-09-18T09:09:44.369196+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 101.23,
+  "latest_price": 95.55,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -9,7 +9,7 @@
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "4時間足:中央 / 日足:中央 → 2時間足の方向が一致していません",
+      "timeframes_note": "4時間足:下方向 / 日足:中央 → 2時間足の方向が一致していません",
       "calc_note": "2時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
@@ -27,59 +27,52 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -0.65,
-      "momentum": "FLAT",
-      "mid": 102.19,
-      "upper": 105.17,
-      "lower": 99.22
+      "position_sigma": -2.2,
+      "momentum": "DOWN",
+      "mid": 101.15,
+      "upper": 106.23,
+      "lower": 96.06
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 0.81,
+      "position_sigma": 0.01,
       "momentum": "FLAT",
-      "mid": 95.84,
-      "upper": 109.11,
-      "lower": 82.57
+      "mid": 95.46,
+      "upper": 108.41,
+      "lower": 82.5
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$101.23付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$95.55付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "WTI drops as Middle East supply fears ease",
-      "link": "https://www.fxstreet.com/news/wti-drops-as-middle-east-supply-fears-ease-202609180127",
-      "published_at_utc": "2026-09-18T01:27:50+00:00",
-      "title": "中東の供給懸念が和らぎ、WTIが下落"
+      "title_en": "WTI Oil eases to levels near $95 on hopes of higher supply of Saudi Crude",
+      "link": "https://www.fxstreet.com/news/wti-oil-eases-to-levels-near-95-on-hopes-of-higher-supply-of-saudi-crude-202609180843",
+      "published_at_utc": "2026-09-18T08:43:19+00:00",
+      "title": "サウジ原油の供給増加への期待から、WTI原油は95ドル近くの水準まで下落"
     },
     {
       "source": "FXStreet",
-      "title_en": "Euro nudges higher above 1.1450 as US yields, oil retreat",
-      "link": "https://www.fxstreet.com/news/euro-nudges-higher-above-11450-as-us-yields-oil-retreat-202609180058",
-      "published_at_utc": "2026-09-18T00:58:02+00:00",
-      "title": "米国の利回りと原油の後退により、ユーロは1.1450を超えて上昇"
+      "title_en": "Silver Price Forecast: XAG/USD rallies to near $66.80 amid correction in oil prices, US yields",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rallies-to-near-6680-amid-correction-in-oil-prices-us-yields-202609180657",
+      "published_at_utc": "2026-09-18T06:57:56+00:00",
+      "title": "銀価格予測：原油価格と米国利回りの調整を受けて、XAG/USDは66.80ドル近くまで上昇"
     },
     {
       "source": "FXStreet",
-      "title_en": "Iran’s IRGC claims attack on Togolese oil tanker for 'illegal transit' in Strait of Hormuz",
-      "link": "https://www.fxstreet.com/news/irans-irgc-claims-attack-on-togolese-oil-tanker-for-illegal-transit-in-strait-of-hormuz-202609172354",
-      "published_at_utc": "2026-09-17T23:54:18+00:00",
-      "title": "イラン革命防衛隊、ホルムズ海峡で「違法な輸送」のためトーゴの石油タンカーを攻撃と主張"
+      "title_en": "Oil: Prices fall as supply risks reassessed – MUFG",
+      "link": "https://www.fxstreet.com/news/oil-prices-fall-as-supply-risks-reassessed-mufg-202609180628",
+      "published_at_utc": "2026-09-18T06:28:10+00:00",
+      "title": "石油：供給リスクの再評価で価格下落 – MUFG"
     },
     {
       "source": "FXStreet",
-      "title_en": "Gold rebounds to near $4,350 on weaker US Dollar, falling oil prices",
-      "link": "https://www.fxstreet.com/news/gold-rebounds-to-near-4-350-on-weaker-us-dollar-falling-oil-prices-202609172320",
-      "published_at_utc": "2026-09-17T23:20:22+00:00",
-      "title": "米ドル安と原油価格の下落を受けて、金は4,350ドル近くまで反発"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Australian Dollar finds a floor as Oil retreat loosens USD’s grip",
-      "link": "https://www.fxstreet.com/news/australian-dollar-finds-a-floor-as-oil-retreat-loosens-usds-grip-202609172315",
-      "published_at_utc": "2026-09-17T23:15:56+00:00",
-      "title": "原油後退で米ドルの支配力が緩む中、豪ドルは底値を見つける"
+      "title_en": "Indian Rupee gets slight relief as rally in US yields and oil price hits pause",
+      "link": "https://www.fxstreet.com/news/indian-rupee-rebounds-as-rally-in-us-yields-and-oil-prices-hits-a-pause-202609180535",
+      "published_at_utc": "2026-09-18T05:35:20+00:00",
+      "title": "米国利回りの上昇と原油価格の上昇が一服したため、インドルピーはわずかに安くなっています"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
