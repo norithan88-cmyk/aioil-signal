@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-18T09:09:44.369196+00:00",
+  "generated_at_utc": "2026-09-18T13:36:31.898711+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 95.55,
+  "latest_price": 97.5,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,45 +27,38 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -2.2,
+      "position_sigma": -1.33,
       "momentum": "DOWN",
-      "mid": 101.15,
-      "upper": 106.23,
-      "lower": 96.06
+      "mid": 100.7,
+      "upper": 105.53,
+      "lower": 95.88
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 0.01,
+      "position_sigma": 0.3,
       "momentum": "FLAT",
-      "mid": 95.46,
-      "upper": 108.41,
-      "lower": 82.5
+      "mid": 95.59,
+      "upper": 108.59,
+      "lower": 82.59
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$95.55付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$97.50付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "US Dollar: Oil drives Dollar upside risks – ING",
+      "link": "https://www.fxstreet.com/news/us-dollar-oil-drives-dollar-upside-risks-ing-202609181142",
+      "published_at_utc": "2026-09-18T11:42:22+00:00",
+      "title": "米ドル：原油がドル上昇リスクを引き起こす – ING"
+    },
     {
       "source": "FXStreet",
       "title_en": "WTI Oil eases to levels near $95 on hopes of higher supply of Saudi Crude",
       "link": "https://www.fxstreet.com/news/wti-oil-eases-to-levels-near-95-on-hopes-of-higher-supply-of-saudi-crude-202609180843",
       "published_at_utc": "2026-09-18T08:43:19+00:00",
       "title": "サウジ原油の供給増加への期待から、WTI原油は95ドル近くの水準まで下落"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Silver Price Forecast: XAG/USD rallies to near $66.80 amid correction in oil prices, US yields",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rallies-to-near-6680-amid-correction-in-oil-prices-us-yields-202609180657",
-      "published_at_utc": "2026-09-18T06:57:56+00:00",
-      "title": "銀価格予測：原油価格と米国利回りの調整を受けて、XAG/USDは66.80ドル近くまで上昇"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Oil: Prices fall as supply risks reassessed – MUFG",
-      "link": "https://www.fxstreet.com/news/oil-prices-fall-as-supply-risks-reassessed-mufg-202609180628",
-      "published_at_utc": "2026-09-18T06:28:10+00:00",
-      "title": "石油：供給リスクの再評価で価格下落 – MUFG"
     },
     {
       "source": "FXStreet",
