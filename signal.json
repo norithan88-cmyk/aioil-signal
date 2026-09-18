@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-18T17:12:20.557990+00:00",
+  "generated_at_utc": "2026-09-18T19:40:36.312524+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 96.12,
+  "latest_price": 95.61,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,25 +27,32 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -1.59,
+      "position_sigma": -1.74,
       "momentum": "DOWN",
-      "mid": 100.12,
-      "upper": 105.15,
-      "lower": 95.08
+      "mid": 100.08,
+      "upper": 105.23,
+      "lower": 94.93
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 0.1,
+      "position_sigma": 0.02,
       "momentum": "FLAT",
-      "mid": 95.5,
-      "upper": 108.46,
-      "lower": 82.54
+      "mid": 95.46,
+      "upper": 108.42,
+      "lower": 82.51
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$96.12付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$95.61付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Gold reclaims its footing as Oil retreat blunts Fed shock",
+      "link": "https://www.fxstreet.com/news/gold-reclaims-its-footing-as-oil-retreat-blunts-fed-shock-202609181744",
+      "published_at_utc": "2026-09-18T17:44:21+00:00",
+      "title": "原油の後退がFRBのショックを鈍らせる中、金は足場を取り戻す"
+    },
     {
       "source": "FXStreet",
       "title_en": "British Pound gives back UK sales pop as Oil shock returns",
@@ -55,24 +62,10 @@
     },
     {
       "source": "FXStreet",
-      "title_en": "US Dollar: Oil drives Dollar upside risks – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-oil-drives-dollar-upside-risks-ing-202609181142",
-      "published_at_utc": "2026-09-18T11:42:22+00:00",
-      "title": "米ドル：原油がドル上昇リスクを引き起こす – ING"
-    },
-    {
-      "source": "FXStreet",
       "title_en": "Gold outlook hinges on Oil prices and shifting Fed expectations",
       "link": "https://www.fxstreet.com/news/gold-eyes-weekly-gain-but-hawkish-fed-outlook-limits-upside-202609181132",
       "published_at_utc": "2026-09-18T11:32:13+00:00",
       "title": "金の見通しは原油価格とFRBの期待の変化次第"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Indian Rupee gets slight relief as rally in US yields and oil price hits pause",
-      "link": "https://www.fxstreet.com/news/indian-rupee-rebounds-as-rally-in-us-yields-and-oil-prices-hits-a-pause-202609180535",
-      "published_at_utc": "2026-09-18T05:35:20+00:00",
-      "title": "米国利回りの上昇と原油価格の上昇が一服したため、インドルピーはわずかに安くなっています"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
