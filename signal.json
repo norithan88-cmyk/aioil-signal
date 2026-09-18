@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-18T13:36:31.898711+00:00",
+  "generated_at_utc": "2026-09-18T17:12:20.557990+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 97.5,
+  "latest_price": 96.12,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,25 +27,32 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -1.33,
+      "position_sigma": -1.59,
       "momentum": "DOWN",
-      "mid": 100.7,
-      "upper": 105.53,
-      "lower": 95.88
+      "mid": 100.12,
+      "upper": 105.15,
+      "lower": 95.08
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 0.3,
+      "position_sigma": 0.1,
       "momentum": "FLAT",
-      "mid": 95.59,
-      "upper": 108.59,
-      "lower": 82.59
+      "mid": 95.5,
+      "upper": 108.46,
+      "lower": 82.54
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$97.50付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$96.12付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "British Pound gives back UK sales pop as Oil shock returns",
+      "link": "https://www.fxstreet.com/news/british-pound-gives-back-uk-sales-pop-as-oil-shock-returns-202609181527",
+      "published_at_utc": "2026-09-18T15:27:35+00:00",
+      "title": "オイルショックの再来で英国ポンドが英国の売上高を回復"
+    },
     {
       "source": "FXStreet",
       "title_en": "US Dollar: Oil drives Dollar upside risks – ING",
@@ -55,10 +62,10 @@
     },
     {
       "source": "FXStreet",
-      "title_en": "WTI Oil eases to levels near $95 on hopes of higher supply of Saudi Crude",
-      "link": "https://www.fxstreet.com/news/wti-oil-eases-to-levels-near-95-on-hopes-of-higher-supply-of-saudi-crude-202609180843",
-      "published_at_utc": "2026-09-18T08:43:19+00:00",
-      "title": "サウジ原油の供給増加への期待から、WTI原油は95ドル近くの水準まで下落"
+      "title_en": "Gold outlook hinges on Oil prices and shifting Fed expectations",
+      "link": "https://www.fxstreet.com/news/gold-eyes-weekly-gain-but-hawkish-fed-outlook-limits-upside-202609181132",
+      "published_at_utc": "2026-09-18T11:32:13+00:00",
+      "title": "金の見通しは原油価格とFRBの期待の変化次第"
     },
     {
       "source": "FXStreet",
