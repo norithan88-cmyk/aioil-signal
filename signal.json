@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-09-19T07:57:59.850699+00:00",
+  "generated_at_utc": "2026-09-19T12:26:48.109534+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 95.47,
-  "day_change_pct": -0.22,
+  "latest_price": 96.08,
+  "day_change_pct": 0.42,
   "signal": {
     "bias": "WAIT",
     "bias_label": "方向感なし",
@@ -27,11 +27,11 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -1.54,
+      "position_sigma": -1.36,
       "momentum": "DOWN",
-      "mid": 99.57,
-      "upper": 104.91,
-      "lower": 94.24
+      "mid": 99.61,
+      "upper": 104.83,
+      "lower": 94.4
     },
     {
       "key": "d1",
@@ -44,7 +44,7 @@
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$95.47付近で推移（直近1時間比-0.22%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$96.08付近で推移（直近1時間比+0.42%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
@@ -59,13 +59,6 @@
       "link": "https://www.fxstreet.com/news/british-pound-gives-back-uk-sales-pop-as-oil-shock-returns-202609181527",
       "published_at_utc": "2026-09-18T15:27:35+00:00",
       "title": "オイルショックの再来で英国ポンドが英国の売上高を回復"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Gold outlook hinges on Oil prices and shifting Fed expectations",
-      "link": "https://www.fxstreet.com/news/gold-eyes-weekly-gain-but-hawkish-fed-outlook-limits-upside-202609181132",
-      "published_at_utc": "2026-09-18T11:32:13+00:00",
-      "title": "金の見通しは原油価格とFRBの期待の変化次第"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
