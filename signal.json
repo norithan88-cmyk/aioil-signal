@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-09-19T02:58:01.360047+00:00",
+  "generated_at_utc": "2026-09-19T07:57:59.850699+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
   "latest_price": 95.47,
-  "day_change_pct": 0.0,
+  "day_change_pct": -0.22,
   "signal": {
     "bias": "WAIT",
     "bias_label": "方向感なし",
@@ -36,36 +36,36 @@
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 0.0,
+      "position_sigma": 0.69,
       "momentum": "FLAT",
-      "mid": 95.45,
-      "upper": 108.41,
-      "lower": 82.5
+      "mid": 95.78,
+      "upper": 108.96,
+      "lower": 82.6
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$95.47付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$95.47付近で推移（直近1時間比-0.22%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
       "title_en": "Gold reclaims its footing as Oil retreat blunts Fed shock",
       "link": "https://www.fxstreet.com/news/gold-reclaims-its-footing-as-oil-retreat-blunts-fed-shock-202609181744",
       "published_at_utc": "2026-09-18T17:44:21+00:00",
-      "title": "Gold reclaims its footing as Oil retreat blunts Fed shock"
+      "title": "原油の後退がFRBのショックを鈍らせる中、金は足場を取り戻す"
     },
     {
       "source": "FXStreet",
       "title_en": "British Pound gives back UK sales pop as Oil shock returns",
       "link": "https://www.fxstreet.com/news/british-pound-gives-back-uk-sales-pop-as-oil-shock-returns-202609181527",
       "published_at_utc": "2026-09-18T15:27:35+00:00",
-      "title": "British Pound gives back UK sales pop as Oil shock returns"
+      "title": "オイルショックの再来で英国ポンドが英国の売上高を回復"
     },
     {
       "source": "FXStreet",
       "title_en": "Gold outlook hinges on Oil prices and shifting Fed expectations",
       "link": "https://www.fxstreet.com/news/gold-eyes-weekly-gain-but-hawkish-fed-outlook-limits-upside-202609181132",
       "published_at_utc": "2026-09-18T11:32:13+00:00",
-      "title": "Gold outlook hinges on Oil prices and shifting Fed expectations"
+      "title": "金の見通しは原油価格とFRBの期待の変化次第"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
