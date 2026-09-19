@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-19T12:26:48.109534+00:00",
+  "generated_at_utc": "2026-09-19T16:01:04.093108+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
   "latest_price": 96.08,
   "day_change_pct": 0.42,
@@ -52,13 +52,6 @@
       "link": "https://www.fxstreet.com/news/gold-reclaims-its-footing-as-oil-retreat-blunts-fed-shock-202609181744",
       "published_at_utc": "2026-09-18T17:44:21+00:00",
       "title": "原油の後退がFRBのショックを鈍らせる中、金は足場を取り戻す"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "British Pound gives back UK sales pop as Oil shock returns",
-      "link": "https://www.fxstreet.com/news/british-pound-gives-back-uk-sales-pop-as-oil-shock-returns-202609181527",
-      "published_at_utc": "2026-09-18T15:27:35+00:00",
-      "title": "オイルショックの再来で英国ポンドが英国の売上高を回復"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
