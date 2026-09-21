@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-21T07:20:34.582382+00:00",
+  "generated_at_utc": "2026-09-21T14:19:05.120697+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 93.85,
+  "latest_price": 92.56,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,59 +27,66 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -1.43,
+      "position_sigma": -1.48,
       "momentum": "DOWN",
-      "mid": 98.13,
-      "upper": 104.09,
-      "lower": 92.17
+      "mid": 96.96,
+      "upper": 102.92,
+      "lower": 91.0
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -0.46,
+      "position_sigma": -0.66,
       "momentum": "FLAT",
-      "mid": 96.47,
-      "upper": 107.96,
-      "lower": 84.99
+      "mid": 96.39,
+      "upper": 107.97,
+      "lower": 84.81
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$93.85付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$92.56付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "WTI Price Forecast: Drops to over one-week low, below $94.00 but bullish bias stays intact",
-      "link": "https://www.fxstreet.com/news/wti-price-forecast-drops-to-over-one-week-low-below-9400-but-bullish-bias-stays-intact-202609210556",
-      "published_at_utc": "2026-09-21T05:56:59+00:00",
-      "title": "WTI価格予測：1週間以上ぶりの安値、94.00ドルを下回るも強気バイアスは維持"
+      "title_en": "US Dollar: Oil-driven support as Fed seen hiking – ING",
+      "link": "https://www.fxstreet.com/news/us-dollar-oil-driven-support-as-fed-seen-hiking-ing-202609211248",
+      "published_at_utc": "2026-09-21T12:48:30+00:00",
+      "title": "米ドル：FRBが利上げを見込む中、石油主導の支援 – ING"
     },
     {
       "source": "FXStreet",
-      "title_en": "Indian Rupee draws relief from continuously correcting oil prices",
-      "link": "https://www.fxstreet.com/news/indian-rupee-starts-positive-as-oil-prices-fall-further-202609210526",
-      "published_at_utc": "2026-09-21T05:26:10+00:00",
-      "title": "インドルピーは原油価格の継続的な修正から安堵感を得る"
+      "title_en": "Silver price edges up as lower Oil, guarded Fed stance temper upside",
+      "link": "https://www.fxstreet.com/news/silver-price-edges-up-as-lower-oil-guarded-fed-stance-temper-upside-202609211158",
+      "published_at_utc": "2026-09-21T11:58:34+00:00",
+      "title": "原油安を受けて銀価格は小幅上昇、FRBのスタンスは上値を警戒"
     },
     {
       "source": "FXStreet",
-      "title_en": "Canadian Dollar seems vulnerable near August 7 low amid sliding oil prices, trade tensions",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-seems-vulnerable-near-august-7-low-amid-sliding-oil-prices-trade-tensions-202609210231",
-      "published_at_utc": "2026-09-21T02:31:12+00:00",
-      "title": "原油価格の下落と貿易摩擦により、カナダドルは8月7日の安値付近で脆弱になりそうだ"
+      "title_en": "Brent: Diesel signals higher prices – Societe Generale",
+      "link": "https://www.fxstreet.com/news/brent-diesel-signals-higher-prices-societe-generale-202609211130",
+      "published_at_utc": "2026-09-21T11:30:14+00:00",
+      "title": "ブレント氏：ディーゼルは価格上昇の兆候 – ソシエテ・ジェネラル"
     },
     {
       "source": "FXStreet",
-      "title_en": "Ukraine attacks on Moscow oil refinery in massive drone and missile attack",
-      "link": "https://www.fxstreet.com/news/ukraine-attacks-on-moscow-oil-refinery-in-massive-drone-and-missile-attack-202609210227",
-      "published_at_utc": "2026-09-21T02:27:48+00:00",
-      "title": "ウクライナ、モスクワ製油所を無人機とミサイルで大規模攻撃"
+      "title_en": "Gold struggles for direction as traders weigh Fed outlook and falling Oil prices",
+      "link": "https://www.fxstreet.com/news/gold-starts-week-on-the-back-foot-as-us-dollar-holds-firm-oil-decline-limits-losses-202609211110",
+      "published_at_utc": "2026-09-21T11:10:59+00:00",
+      "title": "トレーダーらがFRBの見通しと原油価格の下落を検討する中、金は方向性を模索するのに苦労している"
     },
     {
       "source": "FXStreet",
-      "title_en": "WTI falls to near $93.50 as Middle East diplomacy hopes ease supply fears",
-      "link": "https://www.fxstreet.com/news/wti-falls-to-near-9350-as-middle-east-diplomacy-hopes-ease-supply-fears-202609210205",
-      "published_at_utc": "2026-09-21T02:05:21+00:00",
-      "title": "中東外交が供給不安の緩和を期待し、WTIは93.50ドル近くまで下落"
+      "title_en": "WTI Oil dips below $94.00 amid reports of higher Saudi crude supplies",
+      "link": "https://www.fxstreet.com/news/wti-oil-dips-below-9400-amid-reports-of-higher-saudi-crude-supplies-202609210940",
+      "published_at_utc": "2026-09-21T09:40:29+00:00",
+      "title": "サウジアラビアの原油供給量増加の報道を受け、WTI原油は94.00ドルを下回る"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Euro holds gains against Canadian Dollar amid lower oil prices",
+      "link": "https://www.fxstreet.com/news/euro-holds-gains-against-canadian-dollar-amid-lower-oil-prices-202609210853",
+      "published_at_utc": "2026-09-21T08:53:45+00:00",
+      "title": "原油価格下落を受けてユーロは対カナダドルで上昇を維持"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
