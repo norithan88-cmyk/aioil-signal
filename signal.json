@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-21T19:35:53.094584+00:00",
+  "generated_at_utc": "2026-09-21T22:48:37.193612+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 92.35,
+  "latest_price": 92.04,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -9,7 +9,7 @@
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "4時間足:下方向 / 日足:中央 → 2時間足の方向が一致していません",
+      "timeframes_note": "4時間足:中央 / 日足:中央 → 2時間足の方向が一致していません",
       "calc_note": "2時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
@@ -27,24 +27,24 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -1.32,
-      "momentum": "DOWN",
-      "mid": 96.44,
-      "upper": 102.63,
-      "lower": 90.24
+      "position_sigma": -1.24,
+      "momentum": "FLAT",
+      "mid": 95.83,
+      "upper": 101.92,
+      "lower": 89.74
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -0.69,
+      "position_sigma": -0.74,
       "momentum": "FLAT",
-      "mid": 96.37,
-      "upper": 107.97,
-      "lower": 84.77
+      "mid": 96.35,
+      "upper": 107.98,
+      "lower": 84.72
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$92.35付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$92.04付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
@@ -72,7 +72,7 @@
       "title_en": "Oil: Tightness turning critical – Societe Generale",
       "link": "https://www.fxstreet.com/news/oil-tightness-turning-critical-societe-generale-202609211435",
       "published_at_utc": "2026-09-21T14:35:41+00:00",
-      "title": "オイル：気密性が危機的状況に – Societe Generale"
+      "title": "オイル：気密性が危機に瀕 – ソシエテ・ジェネラル"
     },
     {
       "source": "FXStreet",
@@ -80,13 +80,6 @@
       "link": "https://www.fxstreet.com/news/us-dollar-oil-driven-support-as-fed-seen-hiking-ing-202609211248",
       "published_at_utc": "2026-09-21T12:48:30+00:00",
       "title": "米ドル：FRBが利上げを見込む中、石油主導の支援 – ING"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Silver price edges up as lower Oil, guarded Fed stance temper upside",
-      "link": "https://www.fxstreet.com/news/silver-price-edges-up-as-lower-oil-guarded-fed-stance-temper-upside-202609211158",
-      "published_at_utc": "2026-09-21T11:58:34+00:00",
-      "title": "原油安を受けて銀価格はじりじりと上昇、FRBのスタンスは上値を警戒"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
