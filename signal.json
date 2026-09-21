@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-21T01:45:04.555820+00:00",
+  "generated_at_utc": "2026-09-21T07:20:34.582382+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 93.83,
+  "latest_price": 93.85,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,11 +27,11 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -1.67,
+      "position_sigma": -1.43,
       "momentum": "DOWN",
-      "mid": 98.64,
-      "upper": 104.43,
-      "lower": 92.86
+      "mid": 98.13,
+      "upper": 104.09,
+      "lower": 92.17
     },
     {
       "key": "d1",
@@ -44,7 +44,43 @@
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$93.83付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
-  "news": [],
+  "market_context": "WTI原油（CL=F）は現在$93.85付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "WTI Price Forecast: Drops to over one-week low, below $94.00 but bullish bias stays intact",
+      "link": "https://www.fxstreet.com/news/wti-price-forecast-drops-to-over-one-week-low-below-9400-but-bullish-bias-stays-intact-202609210556",
+      "published_at_utc": "2026-09-21T05:56:59+00:00",
+      "title": "WTI価格予測：1週間以上ぶりの安値、94.00ドルを下回るも強気バイアスは維持"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Indian Rupee draws relief from continuously correcting oil prices",
+      "link": "https://www.fxstreet.com/news/indian-rupee-starts-positive-as-oil-prices-fall-further-202609210526",
+      "published_at_utc": "2026-09-21T05:26:10+00:00",
+      "title": "インドルピーは原油価格の継続的な修正から安堵感を得る"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Canadian Dollar seems vulnerable near August 7 low amid sliding oil prices, trade tensions",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-seems-vulnerable-near-august-7-low-amid-sliding-oil-prices-trade-tensions-202609210231",
+      "published_at_utc": "2026-09-21T02:31:12+00:00",
+      "title": "原油価格の下落と貿易摩擦により、カナダドルは8月7日の安値付近で脆弱になりそうだ"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Ukraine attacks on Moscow oil refinery in massive drone and missile attack",
+      "link": "https://www.fxstreet.com/news/ukraine-attacks-on-moscow-oil-refinery-in-massive-drone-and-missile-attack-202609210227",
+      "published_at_utc": "2026-09-21T02:27:48+00:00",
+      "title": "ウクライナ、モスクワ製油所を無人機とミサイルで大規模攻撃"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "WTI falls to near $93.50 as Middle East diplomacy hopes ease supply fears",
+      "link": "https://www.fxstreet.com/news/wti-falls-to-near-9350-as-middle-east-diplomacy-hopes-ease-supply-fears-202609210205",
+      "published_at_utc": "2026-09-21T02:05:21+00:00",
+      "title": "中東外交が供給不安の緩和を期待し、WTIは93.50ドル近くまで下落"
+    }
+  ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
 }
