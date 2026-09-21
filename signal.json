@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-21T14:19:05.120697+00:00",
+  "generated_at_utc": "2026-09-21T19:35:53.094584+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 92.56,
+  "latest_price": 92.35,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,25 +27,53 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -1.48,
+      "position_sigma": -1.32,
       "momentum": "DOWN",
-      "mid": 96.96,
-      "upper": 102.92,
-      "lower": 91.0
+      "mid": 96.44,
+      "upper": 102.63,
+      "lower": 90.24
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -0.66,
+      "position_sigma": -0.69,
       "momentum": "FLAT",
-      "mid": 96.39,
+      "mid": 96.37,
       "upper": 107.97,
-      "lower": 84.81
+      "lower": 84.77
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$92.56付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$92.35付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Brent: Supply risks contrast softer prices – ING",
+      "link": "https://www.fxstreet.com/news/brent-supply-risks-contrast-softer-prices-ing-202609211912",
+      "published_at_utc": "2026-09-21T19:12:00+00:00",
+      "title": "ブレント：供給リスクは価格軟調とは対照的 – ING"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "BoC’s Macklem: Rate decisions must look beyond initial Oil shock",
+      "link": "https://www.fxstreet.com/news/bocs-macklem-rate-decisions-must-look-beyond-initial-oil-shock-202609211609",
+      "published_at_utc": "2026-09-21T16:09:53+00:00",
+      "title": "中央銀行のマックレム氏：金利決定は初期のオイルショック以降を見据える必要がある"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "WTI Oil extends losing streak as resilient Saudi exports outweigh Middle East risk premium",
+      "link": "https://www.fxstreet.com/news/wti-oil-extends-losing-streak-as-resilient-saudi-exports-outweigh-middle-east-risk-premium-202609211606",
+      "published_at_utc": "2026-09-21T16:06:14+00:00",
+      "title": "回復力のあるサウジアラビアの輸出が中東のリスクプレミアムを上回るため、WTIオイルは連敗を延長"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Oil: Tightness turning critical – Societe Generale",
+      "link": "https://www.fxstreet.com/news/oil-tightness-turning-critical-societe-generale-202609211435",
+      "published_at_utc": "2026-09-21T14:35:41+00:00",
+      "title": "オイル：気密性が危機的状況に – Societe Generale"
+    },
     {
       "source": "FXStreet",
       "title_en": "US Dollar: Oil-driven support as Fed seen hiking – ING",
@@ -58,35 +86,7 @@
       "title_en": "Silver price edges up as lower Oil, guarded Fed stance temper upside",
       "link": "https://www.fxstreet.com/news/silver-price-edges-up-as-lower-oil-guarded-fed-stance-temper-upside-202609211158",
       "published_at_utc": "2026-09-21T11:58:34+00:00",
-      "title": "原油安を受けて銀価格は小幅上昇、FRBのスタンスは上値を警戒"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Brent: Diesel signals higher prices – Societe Generale",
-      "link": "https://www.fxstreet.com/news/brent-diesel-signals-higher-prices-societe-generale-202609211130",
-      "published_at_utc": "2026-09-21T11:30:14+00:00",
-      "title": "ブレント氏：ディーゼルは価格上昇の兆候 – ソシエテ・ジェネラル"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Gold struggles for direction as traders weigh Fed outlook and falling Oil prices",
-      "link": "https://www.fxstreet.com/news/gold-starts-week-on-the-back-foot-as-us-dollar-holds-firm-oil-decline-limits-losses-202609211110",
-      "published_at_utc": "2026-09-21T11:10:59+00:00",
-      "title": "トレーダーらがFRBの見通しと原油価格の下落を検討する中、金は方向性を模索するのに苦労している"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "WTI Oil dips below $94.00 amid reports of higher Saudi crude supplies",
-      "link": "https://www.fxstreet.com/news/wti-oil-dips-below-9400-amid-reports-of-higher-saudi-crude-supplies-202609210940",
-      "published_at_utc": "2026-09-21T09:40:29+00:00",
-      "title": "サウジアラビアの原油供給量増加の報道を受け、WTI原油は94.00ドルを下回る"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Euro holds gains against Canadian Dollar amid lower oil prices",
-      "link": "https://www.fxstreet.com/news/euro-holds-gains-against-canadian-dollar-amid-lower-oil-prices-202609210853",
-      "published_at_utc": "2026-09-21T08:53:45+00:00",
-      "title": "原油価格下落を受けてユーロは対カナダドルで上昇を維持"
+      "title": "原油安を受けて銀価格はじりじりと上昇、FRBのスタンスは上値を警戒"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
