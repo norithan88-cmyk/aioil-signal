@@ -103,6 +103,19 @@
       "closed_at_utc": "2026-09-16T06:00:06.059773+00:00",
       "closed_price": 104.75,
       "pnl_usd": -0.63
+    },
+    {
+      "id": "2026-09-22T11:54:52.378190+00:00",
+      "opened_at_utc": "2026-09-22T11:54:52.378190+00:00",
+      "bias": "SELL",
+      "entry": 90.07,
+      "take_profit": 89.64,
+      "stop_loss": 90.56,
+      "confidence": 89,
+      "status": "OPEN",
+      "closed_at_utc": null,
+      "closed_price": null,
+      "pnl_usd": null
     }
   ],
   "stats": {
@@ -115,5 +128,5 @@
     "profit_factor": 2.92,
     "total_usd": 4.58
   },
-  "updated_at_utc": "2026-09-22T06:21:33.200568+00:00"
+  "updated_at_utc": "2026-09-22T11:54:52.378190+00:00"
 }

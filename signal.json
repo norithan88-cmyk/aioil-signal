@@ -1,85 +1,81 @@
 {
-  "generated_at_utc": "2026-09-22T06:21:33.200568+00:00",
+  "generated_at_utc": "2026-09-22T11:54:52.378190+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 93.7,
+  "latest_price": 90.07,
   "day_change_pct": 0.0,
   "signal": {
-    "bias": "WAIT",
-    "bias_label": "方向感なし",
-    "stars": 2,
-    "confidence": 50,
+    "bias": "SELL",
+    "bias_label": "戻り売り優勢",
+    "stars": 4,
+    "confidence": 89,
     "confidence_breakdown": {
-      "timeframes_note": "4時間足:中央 / 日足:中央 → 2時間足の方向が一致していません",
-      "calc_note": "2時間足の方向が揃っていないため、基本値50%のままです。"
+      "timeframes_note": "4時間足:下方向 / 日足:下方向 → 2時間足とも一致、5分足の反発シグナルも確認済み",
+      "calc_note": "基本50% + 2時間足一致30% + バンド際からの乖離度ボーナス = 89%（上限95%）"
     }
   },
   "volatility_risk": "LOW",
-  "market_mode": "RANGE",
-  "market_mode_note": "時間足ごとに方向が割れており、方向感に乏しいレンジ地合い。",
+  "market_mode": "TREND",
+  "market_mode_note": "4時間・日足の方向が揃っており、方向感のある地合い。",
   "priority_trade": {
-    "lead": "様子見 ― 4時間・日足の方向が一致していない",
-    "entry": null,
-    "take_profit": null,
-    "stop_loss": null
+    "lead": "戻り売り ― 上位足の下降方向一致＋5分足の戻りからの反落",
+    "entry": 90.07,
+    "take_profit": 89.64,
+    "stop_loss": 90.56
   },
-  "reversal_setup": null,
+  "reversal_setup": {
+    "extreme": 90.5,
+    "reverted_usd": 0.43
+  },
   "regression_channels": [
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -0.48,
-      "momentum": "FLAT",
-      "mid": 94.8,
-      "upper": 99.34,
-      "lower": 90.25
+      "position_sigma": -2.14,
+      "momentum": "DOWN",
+      "mid": 94.03,
+      "upper": 97.73,
+      "lower": 90.34
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -0.69,
-      "momentum": "FLAT",
-      "mid": 97.13,
-      "upper": 107.13,
-      "lower": 87.14
+      "position_sigma": -1.3,
+      "momentum": "DOWN",
+      "mid": 96.89,
+      "upper": 107.37,
+      "lower": 86.41
     }
   ],
-  "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$93.70付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "commentary": "強い相場ほど、飛び乗らない。戻りを丁寧に売る一日に。",
+  "market_context": "WTI原油（CL=F）は現在$90.07付近で推移（直近1時間比+0.00%）。4時間・日足が揃って上値の重さを示す中、5分足が短期的な戻りから反落したタイミング。目先は上値の重い展開が想定され、高値を追わず戻りを待つスタンスが機能しやすい局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "Canadian Dollar strengthens on rising oil prices ahead of potential US-Iran talks",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-strengthens-on-rising-oil-prices-ahead-of-potential-us-iran-talks-202609220552",
-      "published_at_utc": "2026-09-22T05:52:50+00:00",
-      "title": "米国とイランの協議の可能性を前に、原油価格の上昇でカナダドルが上昇"
+      "title_en": "Japanese Yen recovers against US Dollar as oil prices correct sharply",
+      "link": "https://www.fxstreet.com/news/japanese-yen-recovers-against-us-dollar-on-hopes-of-us-iran-diplomacy-202609221052",
+      "published_at_utc": "2026-09-22T10:52:16+00:00",
+      "title": "原油価格の急落を受け、日本円が対米ドルで回復"
     },
     {
       "source": "FXStreet",
-      "title_en": "Indian Rupee gains as oil prices remain broadly in corrective phase",
+      "title_en": "Canadian Dollar hesitates as Oil falls amid Hormuz reopening talks",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-hesitates-as-oil-falls-amid-hormuz-reopening-talks-202609221044",
+      "published_at_utc": "2026-09-22T10:44:36+00:00",
+      "title": "ホルムズ島再開交渉中、原油安でカナダドルは躊躇"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "WTI falls to near $90.00 after news of Iran proposing reopening Hormuz",
+      "link": "https://www.fxstreet.com/news/wti-remains-above-9200-due-to-market-caution-ahead-of-un-diplomatic-talks-202609220839",
+      "published_at_utc": "2026-09-22T08:39:16+00:00",
+      "title": "イランがホルムズの再開を提案したとのニュースを受け、WTIは90.00ドル近くまで下落"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Indian Rupee gains sharply as US-Iran diplomacy hopes pressure oil prices",
       "link": "https://www.fxstreet.com/news/indian-rupee-gains-as-oil-prices-remain-broadly-in-corrective-phase-202609220544",
       "published_at_utc": "2026-09-22T05:44:10+00:00",
-      "title": "原油価格がおおむね調整局面にある中、インドルピーは上昇"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "WTI Price Forecast: Looks to reclaim $93.00 after defending 38.2% Fibo. support",
-      "link": "https://www.fxstreet.com/news/wti-price-forecast-looks-to-reclaim-9300-after-defending-382-fibo-support-202609220513",
-      "published_at_utc": "2026-09-22T05:13:06+00:00",
-      "title": "WTI価格予測: 38.2%のフィボナッチを守った後、93.00ドルを取り戻す見込み。サポート"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "RBNZ’s Breman: Higher oil prices point to firmer near-term inflation",
-      "link": "https://www.fxstreet.com/news/rbnzs-breman-higher-oil-prices-point-to-firmer-near-term-inflation-202609220249",
-      "published_at_utc": "2026-09-22T02:49:25+00:00",
-      "title": "RBNZのブレーマン氏：原油価格の上昇は短期的なインフレの堅調を示唆している"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "WTI rises to near $92.50 despite Middle East diplomacy, resuming flows",
-      "link": "https://www.fxstreet.com/news/wti-rises-to-near-9250-despite-middle-east-diplomacy-resuming-flows-202609220143",
-      "published_at_utc": "2026-09-22T01:43:26+00:00",
-      "title": "中東外交にもかかわらずWTIは92.50ドル近くまで上昇、資金流入再開"
+      "title": "米国とイランの外交が原油価格に圧力をかけることを期待し、インドルピーが急騰"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
