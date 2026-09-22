@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-09-22T01:16:35.152240+00:00",
+  "generated_at_utc": "2026-09-22T06:21:33.200568+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 92.89,
-  "day_change_pct": 0.01,
+  "latest_price": 93.7,
+  "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
     "bias_label": "方向感なし",
@@ -27,45 +27,59 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -0.88,
+      "position_sigma": -0.48,
       "momentum": "FLAT",
-      "mid": 95.29,
-      "upper": 100.76,
-      "lower": 89.82
+      "mid": 94.8,
+      "upper": 99.34,
+      "lower": 90.25
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -0.61,
+      "position_sigma": -0.69,
       "momentum": "FLAT",
-      "mid": 96.41,
-      "upper": 107.96,
-      "lower": 84.86
+      "mid": 97.13,
+      "upper": 107.13,
+      "lower": 87.14
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$92.89付近で推移（直近1時間比+0.01%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$93.70付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "Brent: Supply risks contrast softer prices – ING",
-      "link": "https://www.fxstreet.com/news/brent-supply-risks-contrast-softer-prices-ing-202609211912",
-      "published_at_utc": "2026-09-21T19:12:00+00:00",
-      "title": "ブレント：供給リスクは価格軟調とは対照的 – ING"
+      "title_en": "Canadian Dollar strengthens on rising oil prices ahead of potential US-Iran talks",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-strengthens-on-rising-oil-prices-ahead-of-potential-us-iran-talks-202609220552",
+      "published_at_utc": "2026-09-22T05:52:50+00:00",
+      "title": "米国とイランの協議の可能性を前に、原油価格の上昇でカナダドルが上昇"
     },
     {
       "source": "FXStreet",
-      "title_en": "BoC’s Macklem: Rate decisions must look beyond initial Oil shock",
-      "link": "https://www.fxstreet.com/news/bocs-macklem-rate-decisions-must-look-beyond-initial-oil-shock-202609211609",
-      "published_at_utc": "2026-09-21T16:09:53+00:00",
-      "title": "中央銀行のマックレム氏：金利決定は初期のオイルショック以降を見据える必要がある"
+      "title_en": "Indian Rupee gains as oil prices remain broadly in corrective phase",
+      "link": "https://www.fxstreet.com/news/indian-rupee-gains-as-oil-prices-remain-broadly-in-corrective-phase-202609220544",
+      "published_at_utc": "2026-09-22T05:44:10+00:00",
+      "title": "原油価格がおおむね調整局面にある中、インドルピーは上昇"
     },
     {
       "source": "FXStreet",
-      "title_en": "WTI Oil extends losing streak as resilient Saudi exports outweigh Middle East risk premium",
-      "link": "https://www.fxstreet.com/news/wti-oil-extends-losing-streak-as-resilient-saudi-exports-outweigh-middle-east-risk-premium-202609211606",
-      "published_at_utc": "2026-09-21T16:06:14+00:00",
-      "title": "回復力のあるサウジアラビアの輸出が中東のリスクプレミアムを上回るため、WTIオイルは連敗を延長"
+      "title_en": "WTI Price Forecast: Looks to reclaim $93.00 after defending 38.2% Fibo. support",
+      "link": "https://www.fxstreet.com/news/wti-price-forecast-looks-to-reclaim-9300-after-defending-382-fibo-support-202609220513",
+      "published_at_utc": "2026-09-22T05:13:06+00:00",
+      "title": "WTI価格予測: 38.2%のフィボナッチを守った後、93.00ドルを取り戻す見込み。サポート"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "RBNZ’s Breman: Higher oil prices point to firmer near-term inflation",
+      "link": "https://www.fxstreet.com/news/rbnzs-breman-higher-oil-prices-point-to-firmer-near-term-inflation-202609220249",
+      "published_at_utc": "2026-09-22T02:49:25+00:00",
+      "title": "RBNZのブレーマン氏：原油価格の上昇は短期的なインフレの堅調を示唆している"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "WTI rises to near $92.50 despite Middle East diplomacy, resuming flows",
+      "link": "https://www.fxstreet.com/news/wti-rises-to-near-9250-despite-middle-east-diplomacy-resuming-flows-202609220143",
+      "published_at_utc": "2026-09-22T01:43:26+00:00",
+      "title": "中東外交にもかかわらずWTIは92.50ドル近くまで上昇、資金流入再開"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
