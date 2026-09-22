@@ -1,74 +1,85 @@
 {
-  "generated_at_utc": "2026-09-22T11:54:52.378190+00:00",
+  "generated_at_utc": "2026-09-22T16:31:23.251205+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 90.07,
+  "latest_price": 91.68,
   "day_change_pct": 0.0,
   "signal": {
-    "bias": "SELL",
-    "bias_label": "戻り売り優勢",
-    "stars": 4,
-    "confidence": 89,
+    "bias": "WAIT",
+    "bias_label": "方向感なし",
+    "stars": 2,
+    "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "4時間足:下方向 / 日足:下方向 → 2時間足とも一致、5分足の反発シグナルも確認済み",
-      "calc_note": "基本50% + 2時間足一致30% + バンド際からの乖離度ボーナス = 89%（上限95%）"
+      "timeframes_note": "4時間足:中央 / 日足:中央 → 2時間足の方向が一致していません",
+      "calc_note": "2時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
   "volatility_risk": "LOW",
-  "market_mode": "TREND",
-  "market_mode_note": "4時間・日足の方向が揃っており、方向感のある地合い。",
+  "market_mode": "RANGE",
+  "market_mode_note": "時間足ごとに方向が割れており、方向感に乏しいレンジ地合い。",
   "priority_trade": {
-    "lead": "戻り売り ― 上位足の下降方向一致＋5分足の戻りからの反落",
-    "entry": 90.07,
-    "take_profit": 89.64,
-    "stop_loss": 90.56
+    "lead": "様子見 ― 4時間・日足の方向が一致していない",
+    "entry": null,
+    "take_profit": null,
+    "stop_loss": null
   },
-  "reversal_setup": {
-    "extreme": 90.5,
-    "reverted_usd": 0.43
-  },
+  "reversal_setup": null,
   "regression_channels": [
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -2.14,
-      "momentum": "DOWN",
-      "mid": 94.03,
-      "upper": 97.73,
-      "lower": 90.34
+      "position_sigma": -0.96,
+      "momentum": "FLAT",
+      "mid": 93.48,
+      "upper": 97.2,
+      "lower": 89.75
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -1.3,
-      "momentum": "DOWN",
-      "mid": 96.89,
-      "upper": 107.37,
-      "lower": 86.41
+      "position_sigma": -1.04,
+      "momentum": "FLAT",
+      "mid": 97.0,
+      "upper": 107.22,
+      "lower": 86.77
     }
   ],
-  "commentary": "強い相場ほど、飛び乗らない。戻りを丁寧に売る一日に。",
-  "market_context": "WTI原油（CL=F）は現在$90.07付近で推移（直近1時間比+0.00%）。4時間・日足が揃って上値の重さを示す中、5分足が短期的な戻りから反落したタイミング。目先は上値の重い展開が想定され、高値を追わず戻りを待つスタンスが機能しやすい局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
+  "market_context": "WTI原油（CL=F）は現在$91.68付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "Japanese Yen recovers against US Dollar as oil prices correct sharply",
-      "link": "https://www.fxstreet.com/news/japanese-yen-recovers-against-us-dollar-on-hopes-of-us-iran-diplomacy-202609221052",
-      "published_at_utc": "2026-09-22T10:52:16+00:00",
-      "title": "原油価格の急落を受け、日本円が対米ドルで回復"
+      "title_en": "Canadian Dollar dips as Oil slump, dovish BoC outlook underpin USD strength",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-dips-as-oil-slump-dovish-boc-outlook-underpin-usd-strength-202609221557",
+      "published_at_utc": "2026-09-22T15:57:22+00:00",
+      "title": "原油低迷でカナダドルが下落、中銀のハト派見通しが米ドル高を支える"
     },
     {
       "source": "FXStreet",
-      "title_en": "Canadian Dollar hesitates as Oil falls amid Hormuz reopening talks",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-hesitates-as-oil-falls-amid-hormuz-reopening-talks-202609221044",
-      "published_at_utc": "2026-09-22T10:44:36+00:00",
-      "title": "ホルムズ島再開交渉中、原油安でカナダドルは躊躇"
+      "title_en": "Oil: Headlines drive vulnerability – TD Securities",
+      "link": "https://www.fxstreet.com/news/oil-headlines-drive-vulnerability-td-securities-202609221543",
+      "published_at_utc": "2026-09-22T15:43:00+00:00",
+      "title": "石油：脆弱性を助長する見出し – TD Securities"
     },
     {
       "source": "FXStreet",
-      "title_en": "WTI falls to near $90.00 after news of Iran proposing reopening Hormuz",
-      "link": "https://www.fxstreet.com/news/wti-remains-above-9200-due-to-market-caution-ahead-of-un-diplomatic-talks-202609220839",
-      "published_at_utc": "2026-09-22T08:39:16+00:00",
-      "title": "イランがホルムズの再開を提案したとのニュースを受け、WTIは90.00ドル近くまで下落"
+      "title_en": "Bank of Canada: Slack delays hikes despite crude shock – NBC",
+      "link": "https://www.fxstreet.com/news/bank-of-canada-slack-delays-hikes-despite-crude-shock-nbc-202609221506",
+      "published_at_utc": "2026-09-22T15:06:29+00:00",
+      "title": "カナダ銀行：原油ショックにもかかわらずスラックは利上げを延期 – NBC"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Risk sentiment improved and Oil prices fell: Why the US Dollar is still holding firm",
+      "link": "https://www.fxstreet.com/news/risk-sentiment-improved-and-oil-prices-fell-why-the-us-dollar-is-still-holding-firm-202609221420",
+      "published_at_utc": "2026-09-22T14:20:07+00:00",
+      "title": "リスクセンチメントの改善と原油価格の下落: 米ドルが依然として堅調な理由"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Oil: Supply shock keeps prices elevated – NBC",
+      "link": "https://www.fxstreet.com/news/oil-supply-shock-keeps-prices-elevated-nbc-202609221401",
+      "published_at_utc": "2026-09-22T14:01:50+00:00",
+      "title": "石油：供給ショックにより価格は上昇 – NBC"
     },
     {
       "source": "FXStreet",
