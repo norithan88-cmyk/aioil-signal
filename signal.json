@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-09-21T22:48:37.193612+00:00",
+  "generated_at_utc": "2026-09-22T01:16:35.152240+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 92.04,
-  "day_change_pct": 0.0,
+  "latest_price": 92.89,
+  "day_change_pct": 0.01,
   "signal": {
     "bias": "WAIT",
     "bias_label": "方向感なし",
@@ -27,24 +27,24 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -1.24,
+      "position_sigma": -0.88,
       "momentum": "FLAT",
-      "mid": 95.83,
-      "upper": 101.92,
-      "lower": 89.74
+      "mid": 95.29,
+      "upper": 100.76,
+      "lower": 89.82
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -0.74,
+      "position_sigma": -0.61,
       "momentum": "FLAT",
-      "mid": 96.35,
-      "upper": 107.98,
-      "lower": 84.72
+      "mid": 96.41,
+      "upper": 107.96,
+      "lower": 84.86
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$92.04付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$92.89付近で推移（直近1時間比+0.01%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
@@ -66,20 +66,6 @@
       "link": "https://www.fxstreet.com/news/wti-oil-extends-losing-streak-as-resilient-saudi-exports-outweigh-middle-east-risk-premium-202609211606",
       "published_at_utc": "2026-09-21T16:06:14+00:00",
       "title": "回復力のあるサウジアラビアの輸出が中東のリスクプレミアムを上回るため、WTIオイルは連敗を延長"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Oil: Tightness turning critical – Societe Generale",
-      "link": "https://www.fxstreet.com/news/oil-tightness-turning-critical-societe-generale-202609211435",
-      "published_at_utc": "2026-09-21T14:35:41+00:00",
-      "title": "オイル：気密性が危機に瀕 – ソシエテ・ジェネラル"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "US Dollar: Oil-driven support as Fed seen hiking – ING",
-      "link": "https://www.fxstreet.com/news/us-dollar-oil-driven-support-as-fed-seen-hiking-ing-202609211248",
-      "published_at_utc": "2026-09-21T12:48:30+00:00",
-      "title": "米ドル：FRBが利上げを見込む中、石油主導の支援 – ING"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
