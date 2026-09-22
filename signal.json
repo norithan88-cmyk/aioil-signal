@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-22T19:51:41.013303+00:00",
+  "generated_at_utc": "2026-09-22T22:36:55.031494+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 89.02,
+  "latest_price": 89.66,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,24 +27,24 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -2.01,
+      "position_sigma": -1.58,
       "momentum": "DOWN",
-      "mid": 93.3,
-      "upper": 97.57,
-      "lower": 89.03
+      "mid": 92.86,
+      "upper": 96.92,
+      "lower": 88.8
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -1.46,
+      "position_sigma": -1.36,
       "momentum": "DOWN",
-      "mid": 96.82,
-      "upper": 107.49,
-      "lower": 86.15
+      "mid": 96.86,
+      "upper": 107.41,
+      "lower": 86.31
     }
   ],
   "commentary": "上位足は下向き。焦らず、5分足の戻りからの反落を待つ。",
-  "market_context": "WTI原油（CL=F）は現在$89.02付近で推移（直近1時間比+0.00%）。4時間・日足は戻り売り方向で揃っているが、5分足の反落シグナルはまだ点灯していない。上位足の方向感は出ているため、5分足が戻り高値から反落するタイミングを待ちたい局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$89.66付近で推移（直近1時間比+0.00%）。4時間・日足は戻り売り方向で揃っているが、5分足の反落シグナルはまだ点灯していない。上位足の方向感は出ているため、5分足が戻り高値から反落するタイミングを待ちたい局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
@@ -58,7 +58,7 @@
       "title_en": "Canadian Dollar dips as Oil slump, dovish BoC outlook underpin USD",
       "link": "https://www.fxstreet.com/news/canadian-dollar-dips-as-oil-slump-dovish-boc-outlook-underpin-usd-strength-202609221557",
       "published_at_utc": "2026-09-22T15:57:22+00:00",
-      "title": "原油低迷でカナダドルが下落、中銀のハト派見通しが米ドルを下支え"
+      "title": "原油不況でカナダドルが下落、中銀のハト派見通しが米ドルを下支え"
     },
     {
       "source": "FXStreet",
@@ -73,20 +73,6 @@
       "link": "https://www.fxstreet.com/news/bank-of-canada-slack-delays-hikes-despite-crude-shock-nbc-202609221506",
       "published_at_utc": "2026-09-22T15:06:29+00:00",
       "title": "カナダ銀行：原油ショックにもかかわらずスラックは利上げを延期 – NBC"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Risk sentiment improved and Oil prices fell: Why the US Dollar is still holding firm",
-      "link": "https://www.fxstreet.com/news/risk-sentiment-improved-and-oil-prices-fell-why-the-us-dollar-is-still-holding-firm-202609221420",
-      "published_at_utc": "2026-09-22T14:20:07+00:00",
-      "title": "リスクセンチメントの改善と原油価格の下落: 米ドルが依然として堅調な理由"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Oil: Supply shock keeps prices elevated – NBC",
-      "link": "https://www.fxstreet.com/news/oil-supply-shock-keeps-prices-elevated-nbc-202609221401",
-      "published_at_utc": "2026-09-22T14:01:50+00:00",
-      "title": "石油：供給ショックにより価格は上昇 – NBC"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
