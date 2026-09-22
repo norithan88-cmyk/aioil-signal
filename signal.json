@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-22T16:31:23.251205+00:00",
+  "generated_at_utc": "2026-09-22T19:51:41.013303+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 91.68,
+  "latest_price": 89.02,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -9,15 +9,15 @@
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "4時間足:中央 / 日足:中央 → 2時間足の方向が一致していません",
-      "calc_note": "2時間足の方向が揃っていないため、基本値50%のままです。"
+      "timeframes_note": "4時間足:下方向 / 日足:下方向 → 2時間足は一致していますが、5分足の反発シグナルはまだ点灯していません",
+      "calc_note": "2時間足の方向一致のみでは確信度は上がらず、5分足の反発確認まで基本値50%のままです。"
     }
   },
   "volatility_risk": "LOW",
-  "market_mode": "RANGE",
-  "market_mode_note": "時間足ごとに方向が割れており、方向感に乏しいレンジ地合い。",
+  "market_mode": "TREND",
+  "market_mode_note": "4時間・日足の方向が揃っており、方向感のある地合い。",
   "priority_trade": {
-    "lead": "様子見 ― 4時間・日足の方向が一致していない",
+    "lead": "様子見 ― 上位足は戻り売り方向で一致、5分足の反落シグナル待ち",
     "entry": null,
     "take_profit": null,
     "stop_loss": null
@@ -27,31 +27,38 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -0.96,
-      "momentum": "FLAT",
-      "mid": 93.48,
-      "upper": 97.2,
-      "lower": 89.75
+      "position_sigma": -2.01,
+      "momentum": "DOWN",
+      "mid": 93.3,
+      "upper": 97.57,
+      "lower": 89.03
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -1.04,
-      "momentum": "FLAT",
-      "mid": 97.0,
-      "upper": 107.22,
-      "lower": 86.77
+      "position_sigma": -1.46,
+      "momentum": "DOWN",
+      "mid": 96.82,
+      "upper": 107.49,
+      "lower": 86.15
     }
   ],
-  "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$91.68付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "commentary": "上位足は下向き。焦らず、5分足の戻りからの反落を待つ。",
+  "market_context": "WTI原油（CL=F）は現在$89.02付近で推移（直近1時間比+0.00%）。4時間・日足は戻り売り方向で揃っているが、5分足の反落シグナルはまだ点灯していない。上位足の方向感は出ているため、5分足が戻り高値から反落するタイミングを待ちたい局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "Canadian Dollar dips as Oil slump, dovish BoC outlook underpin USD strength",
+      "title_en": "WTI extends decline as Trump signals progress in talks with Iran",
+      "link": "https://www.fxstreet.com/news/wti-extends-decline-as-trump-signals-progress-in-talks-with-iran-202609221825",
+      "published_at_utc": "2026-09-22T18:25:01+00:00",
+      "title": "トランプ大統領がイランとの交渉進展を示唆、WTIは下落幅拡大"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Canadian Dollar dips as Oil slump, dovish BoC outlook underpin USD",
       "link": "https://www.fxstreet.com/news/canadian-dollar-dips-as-oil-slump-dovish-boc-outlook-underpin-usd-strength-202609221557",
       "published_at_utc": "2026-09-22T15:57:22+00:00",
-      "title": "原油低迷でカナダドルが下落、中銀のハト派見通しが米ドル高を支える"
+      "title": "原油低迷でカナダドルが下落、中銀のハト派見通しが米ドルを下支え"
     },
     {
       "source": "FXStreet",
@@ -80,13 +87,6 @@
       "link": "https://www.fxstreet.com/news/oil-supply-shock-keeps-prices-elevated-nbc-202609221401",
       "published_at_utc": "2026-09-22T14:01:50+00:00",
       "title": "石油：供給ショックにより価格は上昇 – NBC"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Indian Rupee gains sharply as US-Iran diplomacy hopes pressure oil prices",
-      "link": "https://www.fxstreet.com/news/indian-rupee-gains-as-oil-prices-remain-broadly-in-corrective-phase-202609220544",
-      "published_at_utc": "2026-09-22T05:44:10+00:00",
-      "title": "米国とイランの外交が原油価格に圧力をかけることを期待し、インドルピーが急騰"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
