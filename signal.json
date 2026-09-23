@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-22T22:36:55.031494+00:00",
+  "generated_at_utc": "2026-09-23T00:55:56.050687+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 89.66,
+  "latest_price": 90.0,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -9,15 +9,15 @@
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "4時間足:下方向 / 日足:下方向 → 2時間足は一致していますが、5分足の反発シグナルはまだ点灯していません",
-      "calc_note": "2時間足の方向一致のみでは確信度は上がらず、5分足の反発確認まで基本値50%のままです。"
+      "timeframes_note": "4時間足:中央 / 日足:下方向 → 2時間足の方向が一致していません",
+      "calc_note": "2時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
   "volatility_risk": "LOW",
-  "market_mode": "TREND",
-  "market_mode_note": "4時間・日足の方向が揃っており、方向感のある地合い。",
+  "market_mode": "RANGE",
+  "market_mode_note": "時間足ごとに方向が割れており、方向感に乏しいレンジ地合い。",
   "priority_trade": {
-    "lead": "様子見 ― 上位足は戻り売り方向で一致、5分足の反落シグナル待ち",
+    "lead": "様子見 ― 4時間・日足の方向が一致していない",
     "entry": null,
     "take_profit": null,
     "stop_loss": null
@@ -27,25 +27,39 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -1.58,
-      "momentum": "DOWN",
-      "mid": 92.86,
-      "upper": 96.92,
-      "lower": 88.8
+      "position_sigma": -1.23,
+      "momentum": "FLAT",
+      "mid": 92.47,
+      "upper": 96.48,
+      "lower": 88.46
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -1.36,
+      "position_sigma": -1.31,
       "momentum": "DOWN",
-      "mid": 96.86,
-      "upper": 107.41,
-      "lower": 86.31
+      "mid": 96.88,
+      "upper": 107.38,
+      "lower": 86.39
     }
   ],
-  "commentary": "上位足は下向き。焦らず、5分足の戻りからの反落を待つ。",
-  "market_context": "WTI原油（CL=F）は現在$89.66付近で推移（直近1時間比+0.00%）。4時間・日足は戻り売り方向で揃っているが、5分足の反落シグナルはまだ点灯していない。上位足の方向感は出ているため、5分足が戻り高値から反落するタイミングを待ちたい局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
+  "market_context": "WTI原油（CL=F）は現在$90.00付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "WTI slumps to near $89.00 as markets weigh Trump’s UN speech",
+      "link": "https://www.fxstreet.com/news/wti-slumps-to-near-8900-as-markets-weigh-trumps-un-speech-202609230012",
+      "published_at_utc": "2026-09-23T00:12:45+00:00",
+      "title": "市場がトランプ大統領の国連演説を重んじる中、WTIは89.00ドル近くまで下落"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "The New Zealand Dollar dips to a new low and bounces as Crude Oil gets cheaper",
+      "link": "https://www.fxstreet.com/news/the-new-zealand-dollar-dips-to-a-new-low-and-bounces-as-crude-oil-gets-cheaper-202609222254",
+      "published_at_utc": "2026-09-22T22:54:38+00:00",
+      "title": "ニュージーランドドルは新安値を付け、原油安に伴い反発"
+    },
     {
       "source": "FXStreet",
       "title_en": "WTI extends decline as Trump signals progress in talks with Iran",
@@ -58,7 +72,7 @@
       "title_en": "Canadian Dollar dips as Oil slump, dovish BoC outlook underpin USD",
       "link": "https://www.fxstreet.com/news/canadian-dollar-dips-as-oil-slump-dovish-boc-outlook-underpin-usd-strength-202609221557",
       "published_at_utc": "2026-09-22T15:57:22+00:00",
-      "title": "原油不況でカナダドルが下落、中銀のハト派見通しが米ドルを下支え"
+      "title": "原油低迷でカナダドルが下落、中銀のハト派見通しが米ドルを下支え"
     },
     {
       "source": "FXStreet",
@@ -66,13 +80,6 @@
       "link": "https://www.fxstreet.com/news/oil-headlines-drive-vulnerability-td-securities-202609221543",
       "published_at_utc": "2026-09-22T15:43:00+00:00",
       "title": "石油：脆弱性を助長する見出し – TD Securities"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Bank of Canada: Slack delays hikes despite crude shock – NBC",
-      "link": "https://www.fxstreet.com/news/bank-of-canada-slack-delays-hikes-despite-crude-shock-nbc-202609221506",
-      "published_at_utc": "2026-09-22T15:06:29+00:00",
-      "title": "カナダ銀行：原油ショックにもかかわらずスラックは利上げを延期 – NBC"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
