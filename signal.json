@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-09-23T15:05:40.353838+00:00",
+  "generated_at_utc": "2026-09-23T19:01:53.156347+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 91.42,
-  "day_change_pct": 0.0,
+  "latest_price": 92.46,
+  "day_change_pct": 0.01,
   "signal": {
     "bias": "WAIT",
     "bias_label": "方向感なし",
@@ -27,25 +27,32 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -0.05,
+      "position_sigma": 0.68,
       "momentum": "FLAT",
-      "mid": 91.49,
-      "upper": 94.63,
-      "lower": 88.35
+      "mid": 91.45,
+      "upper": 94.36,
+      "lower": 88.55
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -1.2,
+      "position_sigma": -1.02,
       "momentum": "FLAT",
-      "mid": 97.27,
-      "upper": 106.98,
-      "lower": 87.56
+      "mid": 97.34,
+      "upper": 106.9,
+      "lower": 87.78
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$91.42付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$92.46付近で推移（直近1時間比+0.01%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "WTI snaps five-day losing streak as US-Iran talks fall short of breakthrough",
+      "link": "https://www.fxstreet.com/news/wti-snaps-five-day-losing-streak-as-us-iran-talks-fall-short-of-breakthrough-202609231551",
+      "published_at_utc": "2026-09-23T15:51:35+00:00",
+      "title": "米国とイランの協議が打開に至らず、WTIは5日間の連敗を止める"
+    },
     {
       "source": "FXStreet",
       "title_en": "WTI: Headline risk rises as positioning stays elevated - TD Securities",
@@ -58,14 +65,7 @@
       "title_en": "Oil rebounds above $90: Why is the Canadian Dollar still falling?",
       "link": "https://www.fxstreet.com/news/oil-rebounds-above-90-why-is-the-canadian-dollar-still-falling-202609231317",
       "published_at_utc": "2026-09-23T13:17:52+00:00",
-      "title": "原油は90ドルを超えて反発：なぜカナダドルはまだ下落しているのか？"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Oil: Prices retreat on Saudi exports and US data – ING",
-      "link": "https://www.fxstreet.com/news/oil-prices-retreat-on-saudi-exports-and-us-data-ing-202609231113",
-      "published_at_utc": "2026-09-23T11:13:50+00:00",
-      "title": "石油：サウジアラビアの輸出と米国のデータにより価格下落 – ING"
+      "title": "原油が90ドルを超えて反発：なぜカナダドルはまだ下落しているのか？"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
