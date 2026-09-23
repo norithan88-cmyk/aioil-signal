@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-23T10:17:43.763369+00:00",
+  "generated_at_utc": "2026-09-23T15:05:40.353838+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 89.67,
+  "latest_price": 91.42,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -9,7 +9,7 @@
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "4時間足:中央 / 日足:下方向 → 2時間足の方向が一致していません",
+      "timeframes_note": "4時間足:中央 / 日足:中央 → 2時間足の方向が一致していません",
       "calc_note": "2時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
@@ -27,52 +27,45 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -1.1,
+      "position_sigma": -0.05,
       "momentum": "FLAT",
-      "mid": 91.59,
-      "upper": 95.08,
-      "lower": 88.1
+      "mid": 91.49,
+      "upper": 94.63,
+      "lower": 88.35
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -1.49,
-      "momentum": "DOWN",
-      "mid": 97.15,
-      "upper": 107.18,
-      "lower": 87.12
+      "position_sigma": -1.2,
+      "momentum": "FLAT",
+      "mid": 97.27,
+      "upper": 106.98,
+      "lower": 87.56
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$89.67付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$91.42付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "Euro flat lines above 180.00 vs weak Yen as German political turmoil offsets upbeat PMIs",
-      "link": "https://www.fxstreet.com/news/euro-flat-lines-above-18000-vs-weak-yen-as-german-political-turmoil-offsets-upbeat-pmis-202609230857",
-      "published_at_utc": "2026-09-23T08:57:26+00:00",
-      "title": "ドイツの政治的混乱が上向きのPMIを相殺し、ユーロ対円安は180.00以上で横ばい"
+      "title_en": "WTI: Headline risk rises as positioning stays elevated - TD Securities",
+      "link": "https://www.fxstreet.com/news/wti-headline-risk-rises-as-positioning-stays-elevated-td-securities-202609231432",
+      "published_at_utc": "2026-09-23T14:32:26+00:00",
+      "title": "WTI：ポジショニングが高止まりするにつれてヘッドラインリスクが上昇 - TD Securities"
     },
     {
       "source": "FXStreet",
-      "title_en": "Oil: Geopolitics drive volatile price path – Rabobank",
-      "link": "https://www.fxstreet.com/news/oil-geopolitics-drive-volatile-price-path-rabobank-202609230824",
-      "published_at_utc": "2026-09-23T08:24:31+00:00",
-      "title": "石油：地政学が価格変動を引き起こす – ラボバンク"
+      "title_en": "Oil rebounds above $90: Why is the Canadian Dollar still falling?",
+      "link": "https://www.fxstreet.com/news/oil-rebounds-above-90-why-is-the-canadian-dollar-still-falling-202609231317",
+      "published_at_utc": "2026-09-23T13:17:52+00:00",
+      "title": "原油は90ドルを超えて反発：なぜカナダドルはまだ下落しているのか？"
     },
     {
       "source": "FXStreet",
-      "title_en": "WTI Oil hovers at two-week lows near $89.00 awaiting Middle East developments",
-      "link": "https://www.fxstreet.com/news/wti-oil-hovers-at-two-week-lows-near-8900-awaiting-middle-east-developments-202609230751",
-      "published_at_utc": "2026-09-23T07:51:06+00:00",
-      "title": "WTI原油は中東の動向を待ちながら2週間ぶりの安値89.00ドル付近で推移している"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Brent: Price slide extends on pipeline restart – Danske Bank",
-      "link": "https://www.fxstreet.com/news/brent-price-slide-extends-on-pipeline-restart-danske-bank-202609230702",
-      "published_at_utc": "2026-09-23T07:02:46+00:00",
-      "title": "ブレント：パイプライン再開で価格下落幅拡大 – ダンスケ銀行"
+      "title_en": "Oil: Prices retreat on Saudi exports and US data – ING",
+      "link": "https://www.fxstreet.com/news/oil-prices-retreat-on-saudi-exports-and-us-data-ing-202609231113",
+      "published_at_utc": "2026-09-23T11:13:50+00:00",
+      "title": "石油：サウジアラビアの輸出と米国のデータにより価格下落 – ING"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
