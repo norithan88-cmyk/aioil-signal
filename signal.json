@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-23T05:42:01.868190+00:00",
+  "generated_at_utc": "2026-09-23T10:17:43.763369+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 89.55,
+  "latest_price": 89.67,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -9,15 +9,15 @@
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "4時間足:下方向 / 日足:下方向 → 2時間足は一致していますが、5分足の反発シグナルはまだ点灯していません",
-      "calc_note": "2時間足の方向一致のみでは確信度は上がらず、5分足の反発確認まで基本値50%のままです。"
+      "timeframes_note": "4時間足:中央 / 日足:下方向 → 2時間足の方向が一致していません",
+      "calc_note": "2時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
   "volatility_risk": "LOW",
-  "market_mode": "TREND",
-  "market_mode_note": "4時間・日足の方向が揃っており、方向感のある地合い。",
+  "market_mode": "RANGE",
+  "market_mode_note": "時間足ごとに方向が割れており、方向感に乏しいレンジ地合い。",
   "priority_trade": {
-    "lead": "様子見 ― 上位足は戻り売り方向で一致、5分足の反落シグナル待ち",
+    "lead": "様子見 ― 4時間・日足の方向が一致していない",
     "entry": null,
     "take_profit": null,
     "stop_loss": null
@@ -27,52 +27,52 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -1.3,
-      "momentum": "DOWN",
-      "mid": 92.02,
-      "upper": 95.82,
-      "lower": 88.22
+      "position_sigma": -1.1,
+      "momentum": "FLAT",
+      "mid": 91.59,
+      "upper": 95.08,
+      "lower": 88.1
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -1.51,
+      "position_sigma": -1.49,
       "momentum": "DOWN",
       "mid": 97.15,
-      "upper": 107.2,
-      "lower": 87.09
+      "upper": 107.18,
+      "lower": 87.12
     }
   ],
-  "commentary": "上位足は下向き。焦らず、5分足の戻りからの反落を待つ。",
-  "market_context": "WTI原油（CL=F）は現在$89.55付近で推移（直近1時間比+0.00%）。4時間・日足は戻り売り方向で揃っているが、5分足の反落シグナルはまだ点灯していない。上位足の方向感は出ているため、5分足が戻り高値から反落するタイミングを待ちたい局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
+  "market_context": "WTI原油（CL=F）は現在$89.67付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "WTI Price Forecast: Eyes further losses near $88.50, two-week low amid easing supply risk",
-      "link": "https://www.fxstreet.com/news/wti-price-forecast-eyes-further-losses-near-8850-two-week-low-amid-easing-supply-risk-202609230419",
-      "published_at_utc": "2026-09-23T04:19:31+00:00",
-      "title": "WTI価格予測：供給リスクが緩和される中、2週間ぶりの安値となる88.50ドル付近でさらなる下落が予想される"
+      "title_en": "Euro flat lines above 180.00 vs weak Yen as German political turmoil offsets upbeat PMIs",
+      "link": "https://www.fxstreet.com/news/euro-flat-lines-above-18000-vs-weak-yen-as-german-political-turmoil-offsets-upbeat-pmis-202609230857",
+      "published_at_utc": "2026-09-23T08:57:26+00:00",
+      "title": "ドイツの政治的混乱が上向きのPMIを相殺し、ユーロ対円安は180.00以上で横ばい"
     },
     {
       "source": "FXStreet",
-      "title_en": "Canadian Dollar seems vulnerable as Iran diplomacy hopes weigh on oil prices",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-seems-vulnerable-as-iran-diplomacy-hopes-weigh-on-oil-prices-202609230143",
-      "published_at_utc": "2026-09-23T01:43:58+00:00",
-      "title": "イラン外交期待が原油価格の重しとなるため、カナダドルは脆弱なようだ"
+      "title_en": "Oil: Geopolitics drive volatile price path – Rabobank",
+      "link": "https://www.fxstreet.com/news/oil-geopolitics-drive-volatile-price-path-rabobank-202609230824",
+      "published_at_utc": "2026-09-23T08:24:31+00:00",
+      "title": "石油：地政学が価格変動を引き起こす – ラボバンク"
     },
     {
       "source": "FXStreet",
-      "title_en": "WTI slumps to near $89.00 as markets weigh Trump’s UN speech",
-      "link": "https://www.fxstreet.com/news/wti-slumps-to-near-8900-as-markets-weigh-trumps-un-speech-202609230012",
-      "published_at_utc": "2026-09-23T00:12:45+00:00",
-      "title": "市場がトランプ大統領の国連演説を重んじる中、WTIは89.00ドル近くまで下落"
+      "title_en": "WTI Oil hovers at two-week lows near $89.00 awaiting Middle East developments",
+      "link": "https://www.fxstreet.com/news/wti-oil-hovers-at-two-week-lows-near-8900-awaiting-middle-east-developments-202609230751",
+      "published_at_utc": "2026-09-23T07:51:06+00:00",
+      "title": "WTI原油は中東の動向を待ちながら2週間ぶりの安値89.00ドル付近で推移している"
     },
     {
       "source": "FXStreet",
-      "title_en": "The New Zealand Dollar dips to a new low and bounces as Crude Oil gets cheaper",
-      "link": "https://www.fxstreet.com/news/the-new-zealand-dollar-dips-to-a-new-low-and-bounces-as-crude-oil-gets-cheaper-202609222254",
-      "published_at_utc": "2026-09-22T22:54:38+00:00",
-      "title": "ニュージーランドドルは新安値を付け、原油安に伴い反発"
+      "title_en": "Brent: Price slide extends on pipeline restart – Danske Bank",
+      "link": "https://www.fxstreet.com/news/brent-price-slide-extends-on-pipeline-restart-danske-bank-202609230702",
+      "published_at_utc": "2026-09-23T07:02:46+00:00",
+      "title": "ブレント：パイプライン再開で価格下落幅拡大 – ダンスケ銀行"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
