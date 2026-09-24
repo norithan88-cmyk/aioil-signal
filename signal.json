@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-23T22:14:14.921331+00:00",
+  "generated_at_utc": "2026-09-24T00:33:35.863452+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 92.71,
+  "latest_price": 91.69,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,24 +27,24 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.93,
+      "position_sigma": 0.26,
       "momentum": "FLAT",
-      "mid": 91.41,
-      "upper": 94.22,
-      "lower": 88.61
+      "mid": 91.33,
+      "upper": 94.04,
+      "lower": 88.63
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -0.98,
+      "position_sigma": -1.16,
       "momentum": "FLAT",
-      "mid": 97.36,
-      "upper": 106.88,
-      "lower": 87.83
+      "mid": 97.29,
+      "upper": 106.96,
+      "lower": 87.62
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$92.71付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$91.69付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
@@ -59,13 +59,6 @@
       "link": "https://www.fxstreet.com/news/wti-headline-risk-rises-as-positioning-stays-elevated-td-securities-202609231432",
       "published_at_utc": "2026-09-23T14:32:26+00:00",
       "title": "WTI：ポジショニングが高止まりするにつれてヘッドラインリスクが上昇 - TD Securities"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Oil rebounds above $90: Why is the Canadian Dollar still falling?",
-      "link": "https://www.fxstreet.com/news/oil-rebounds-above-90-why-is-the-canadian-dollar-still-falling-202609231317",
-      "published_at_utc": "2026-09-23T13:17:52+00:00",
-      "title": "原油が90ドルを超えて反発：なぜカナダドルはまだ下落しているのか？"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
