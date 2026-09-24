@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-24T10:16:02.219003+00:00",
+  "generated_at_utc": "2026-09-24T15:15:21.001064+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 93.89,
+  "latest_price": 95.68,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,25 +27,32 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 1.6,
+      "position_sigma": 2.28,
       "momentum": "UP",
-      "mid": 91.46,
-      "upper": 94.49,
-      "lower": 88.43
+      "mid": 91.62,
+      "upper": 95.19,
+      "lower": 88.05
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -0.79,
+      "position_sigma": -0.43,
       "momentum": "FLAT",
-      "mid": 97.51,
-      "upper": 106.71,
-      "lower": 88.32
+      "mid": 97.63,
+      "upper": 106.68,
+      "lower": 88.58
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$93.89付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$95.68付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "US yields jump to multi-year highs on Fed tightening bets, bond market turmoil",
+      "link": "https://www.fxstreet.com/news/us-yields-jump-to-multi-year-highs-on-fed-tightening-bets-bond-market-turmoil-202609241037",
+      "published_at_utc": "2026-09-24T10:37:49+00:00",
+      "title": "FRBの引き締め観測と債券市場の混乱で米利回りが数年ぶりの高水準に上昇"
+    },
     {
       "source": "FXStreet",
       "title_en": "Indian Rupee declines significantly due to oil price recovery, surging US yields",
