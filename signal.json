@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-24T00:33:35.863452+00:00",
+  "generated_at_utc": "2026-09-24T05:20:29.378359+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 91.69,
+  "latest_price": 91.4,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,38 +27,38 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.26,
+      "position_sigma": 0.11,
       "momentum": "FLAT",
-      "mid": 91.33,
-      "upper": 94.04,
-      "lower": 88.63
+      "mid": 91.26,
+      "upper": 93.92,
+      "lower": 88.59
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -1.16,
+      "position_sigma": -1.25,
       "momentum": "FLAT",
-      "mid": 97.29,
-      "upper": 106.96,
-      "lower": 87.62
+      "mid": 97.35,
+      "upper": 106.88,
+      "lower": 87.81
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$91.69付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$91.40付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "WTI snaps five-day losing streak as US-Iran talks fall short of breakthrough",
-      "link": "https://www.fxstreet.com/news/wti-snaps-five-day-losing-streak-as-us-iran-talks-fall-short-of-breakthrough-202609231551",
-      "published_at_utc": "2026-09-23T15:51:35+00:00",
-      "title": "米国とイランの協議が打開に至らず、WTIは5日間の連敗を止める"
+      "title_en": "Canadian Dollar holds steady amid oil uncertainties, hawkish Fed sentiment",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-holds-steady-amid-oil-uncertainties-hawkish-fed-sentiment-202609240324",
+      "published_at_utc": "2026-09-24T03:24:50+00:00",
+      "title": "カナダドルは石油不確実性とFRBのタカ派感情の中で堅調を維持"
     },
     {
       "source": "FXStreet",
-      "title_en": "WTI: Headline risk rises as positioning stays elevated - TD Securities",
-      "link": "https://www.fxstreet.com/news/wti-headline-risk-rises-as-positioning-stays-elevated-td-securities-202609231432",
-      "published_at_utc": "2026-09-23T14:32:26+00:00",
-      "title": "WTI：ポジショニングが高止まりするにつれてヘッドラインリスクが上昇 - TD Securities"
+      "title_en": "WTI slips below $91.00 despite rising US-Iran friction",
+      "link": "https://www.fxstreet.com/news/wti-slips-below-9100-despite-rising-us-iran-friction-202609240129",
+      "published_at_utc": "2026-09-24T01:29:20+00:00",
+      "title": "米国とイランの摩擦激化にもかかわらず、WTIは91.00ドルを下回る"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
