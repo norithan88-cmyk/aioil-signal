@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-24T05:20:29.378359+00:00",
+  "generated_at_utc": "2026-09-24T10:16:02.219003+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 91.4,
+  "latest_price": 93.89,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -9,7 +9,7 @@
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "4時間足:中央 / 日足:中央 → 2時間足の方向が一致していません",
+      "timeframes_note": "4時間足:上方向 / 日足:中央 → 2時間足の方向が一致していません",
       "calc_note": "2時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
@@ -27,38 +27,31 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.11,
-      "momentum": "FLAT",
-      "mid": 91.26,
-      "upper": 93.92,
-      "lower": 88.59
+      "position_sigma": 1.6,
+      "momentum": "UP",
+      "mid": 91.46,
+      "upper": 94.49,
+      "lower": 88.43
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -1.25,
+      "position_sigma": -0.79,
       "momentum": "FLAT",
-      "mid": 97.35,
-      "upper": 106.88,
-      "lower": 87.81
+      "mid": 97.51,
+      "upper": 106.71,
+      "lower": 88.32
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$91.40付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$93.89付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "Canadian Dollar holds steady amid oil uncertainties, hawkish Fed sentiment",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-holds-steady-amid-oil-uncertainties-hawkish-fed-sentiment-202609240324",
-      "published_at_utc": "2026-09-24T03:24:50+00:00",
-      "title": "カナダドルは石油不確実性とFRBのタカ派感情の中で堅調を維持"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "WTI slips below $91.00 despite rising US-Iran friction",
-      "link": "https://www.fxstreet.com/news/wti-slips-below-9100-despite-rising-us-iran-friction-202609240129",
-      "published_at_utc": "2026-09-24T01:29:20+00:00",
-      "title": "米国とイランの摩擦激化にもかかわらず、WTIは91.00ドルを下回る"
+      "title_en": "Indian Rupee declines significantly due to oil price recovery, surging US yields",
+      "link": "https://www.fxstreet.com/news/indian-rupee-falls-further-as-oil-prices-regain-ground-202609240538",
+      "published_at_utc": "2026-09-24T05:38:45+00:00",
+      "title": "原油価格回復でインドルピー大幅下落、米国利回り急上昇"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
