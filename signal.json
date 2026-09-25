@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-25T05:29:13.544041+00:00",
+  "generated_at_utc": "2026-09-25T10:29:56.495410+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 93.11,
+  "latest_price": 92.83,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,59 +27,45 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.36,
+      "position_sigma": 0.1,
       "momentum": "FLAT",
-      "mid": 92.4,
-      "upper": 96.37,
-      "lower": 88.43
+      "mid": 92.65,
+      "upper": 96.35,
+      "lower": 88.95
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -1.03,
+      "position_sigma": -1.09,
       "momentum": "FLAT",
-      "mid": 97.68,
-      "upper": 106.52,
-      "lower": 88.84
+      "mid": 97.66,
+      "upper": 106.54,
+      "lower": 88.79
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$93.11付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$92.83付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "WTI Price Forecast: Slips below $92.00 amid Iran diplomacy hopes; bullish potential intact",
-      "link": "https://www.fxstreet.com/news/wti-price-forecast-slips-below-9200-amid-iran-diplomacy-hopes-bullish-potential-intact-202609250442",
-      "published_at_utc": "2026-09-25T04:42:41+00:00",
-      "title": "WTI価格予測：イラン外交への期待を背景に92.00ドルを下回る。強気の可能性はそのまま"
+      "title_en": "Brent: conflict-driven gains face deal hopes – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/brent-conflict-driven-gains-face-deal-hopes-deutsche-bank-202609250942",
+      "published_at_utc": "2026-09-25T09:42:25+00:00",
+      "title": "ブレント：紛争による利益は合意の望みに直面 – ドイツ銀行"
     },
     {
       "source": "FXStreet",
-      "title_en": "Silver Price Forecast: XAG/USD remains steady near $94.00 as oil prices ease",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-steady-near-9400-as-oil-prices-ease-202609250300",
-      "published_at_utc": "2026-09-25T03:00:44+00:00",
-      "title": "銀価格予測: 原油価格が緩和する中、XAG/USD は 94.00 ドル付近で安定"
+      "title_en": "Euro consolidates near three-month lows amid high Oil prices, Fed hiking bets",
+      "link": "https://www.fxstreet.com/news/euro-consolidates-near-three-month-lows-amid-high-oil-prices-fed-hiking-bets-202609250802",
+      "published_at_utc": "2026-09-25T08:02:46+00:00",
+      "title": "原油価格高とFRB利上げ観測のなか、ユーロは3カ月ぶり安値付近で堅調"
     },
     {
       "source": "FXStreet",
-      "title_en": "Canadian Dollar weakens amid falling oil prices, stronger US Dollar",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-weakens-amid-falling-oil-prices-stronger-us-dollar-202609250200",
-      "published_at_utc": "2026-09-25T02:00:45+00:00",
-      "title": "原油価格下落でカナダドル安、米ドル高"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "WTI drops to near $92.50 on potential US-Iran deal",
-      "link": "https://www.fxstreet.com/news/wti-drops-to-near-9250-on-potential-us-iran-deal-202609250106",
-      "published_at_utc": "2026-09-25T01:06:30+00:00",
-      "title": "米国とイランの合意の可能性でWTIは92.50ドル近くまで下落"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Gold declines below $4,300 as rising oil prices and hawkish Fed stance dampen appeal",
-      "link": "https://www.fxstreet.com/news/gold-declines-below-4-300-as-rising-oil-prices-and-hawkish-fed-stance-dampen-appeal-202609242323",
-      "published_at_utc": "2026-09-24T23:23:27+00:00",
-      "title": "原油価格の上昇とFRBのタカ派姿勢が魅力を弱める中、金は4,300ドルを下回る水準に下落"
+      "title_en": "Dow Jones futures rise as treasury yields, oil prices ease",
+      "link": "https://www.fxstreet.com/news/dow-jones-futures-rise-as-treasury-yields-oil-prices-ease-202609250732",
+      "published_at_utc": "2026-09-25T07:32:16+00:00",
+      "title": "国債利回りと原油価格の下落を受けてダウジョーンズ先物は上昇"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
