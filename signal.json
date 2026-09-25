@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-25T15:30:10.510984+00:00",
+  "generated_at_utc": "2026-09-25T19:29:48.821604+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 94.14,
+  "latest_price": 92.63,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,31 +27,38 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.72,
+      "position_sigma": -0.32,
       "momentum": "FLAT",
-      "mid": 92.95,
-      "upper": 96.26,
-      "lower": 89.63
+      "mid": 93.07,
+      "upper": 95.8,
+      "lower": 90.34
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -0.83,
+      "position_sigma": -1.13,
       "momentum": "FLAT",
-      "mid": 97.75,
-      "upper": 106.46,
-      "lower": 89.04
+      "mid": 97.65,
+      "upper": 106.55,
+      "lower": 88.74
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$94.14付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$92.63付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "WTI Oil reversal stalls above $91.00 as Middle East tensions outweigh supply increases",
-      "link": "https://www.fxstreet.com/news/wti-oil-reversal-stalls-above-9100-as-middle-east-tensions-outweigh-supply-increases-202609251049",
-      "published_at_utc": "2026-09-25T10:49:49+00:00",
-      "title": "中東の緊張が供給増加を上回るため、WTI原油反転は91.00ドルを超えて失速"
+      "title_en": "Asian FX: Higher yields and Oil weigh – OCBC",
+      "link": "https://www.fxstreet.com/news/asian-fx-higher-yields-and-oil-weigh-ocbc-202609251822",
+      "published_at_utc": "2026-09-25T18:22:51+00:00",
+      "title": "アジア為替: 利回りの向上と原油重量 – OCBC"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Gold finds a pulse as WTI slump takes the edge off US Dollar",
+      "link": "https://www.fxstreet.com/news/gold-finds-a-pulse-as-wti-slump-takes-the-edge-off-us-dollar-202609251758",
+      "published_at_utc": "2026-09-25T17:58:33+00:00",
+      "title": "WTIの低迷で米ドルの優位性が失われる中、金に脈動が見られる"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
