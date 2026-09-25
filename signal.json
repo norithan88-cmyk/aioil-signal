@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-24T22:32:12.506876+00:00",
+  "generated_at_utc": "2026-09-25T00:45:53.739642+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 94.32,
+  "latest_price": 93.7,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,25 +27,32 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 1.06,
+      "position_sigma": 0.71,
       "momentum": "FLAT",
-      "mid": 92.09,
-      "upper": 96.3,
-      "lower": 87.88
+      "mid": 92.2,
+      "upper": 96.44,
+      "lower": 87.97
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -0.7,
+      "position_sigma": -0.82,
       "momentum": "FLAT",
-      "mid": 97.54,
-      "upper": 106.69,
-      "lower": 88.39
+      "mid": 97.5,
+      "upper": 106.72,
+      "lower": 88.28
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$94.32付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$93.70付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Gold declines below $4,300 as rising oil prices and hawkish Fed stance dampen appeal",
+      "link": "https://www.fxstreet.com/news/gold-declines-below-4-300-as-rising-oil-prices-and-hawkish-fed-stance-dampen-appeal-202609242323",
+      "published_at_utc": "2026-09-24T23:23:27+00:00",
+      "title": "原油価格の上昇とFRBのタカ派姿勢が魅力を弱める中、金は4,300ドルを下回る水準に下落"
+    },
     {
       "source": "FXStreet",
       "title_en": "Canadian Dollar falls to two-month low as higher US yields outweigh Oil support",
