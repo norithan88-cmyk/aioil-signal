@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-28T17:34:28.766644+00:00",
+  "generated_at_utc": "2026-09-28T22:37:44.857770+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 92.38,
+  "latest_price": 93.25,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,31 +27,38 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -1.11,
+      "position_sigma": -0.4,
       "momentum": "FLAT",
-      "mid": 93.83,
-      "upper": 96.42,
-      "lower": 91.23
+      "mid": 93.67,
+      "upper": 95.76,
+      "lower": 91.57
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -1.21,
+      "position_sigma": -1.04,
       "momentum": "FLAT",
-      "mid": 97.69,
-      "upper": 106.48,
-      "lower": 88.91
+      "mid": 97.75,
+      "upper": 106.4,
+      "lower": 89.1
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$92.38付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$93.25付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Crude Oil round-trips between a rejected Iran plan and a sanctions offer",
+      "link": "https://www.fxstreet.com/news/crude-oil-round-trips-between-a-rejected-iran-plan-and-a-sanctions-offer-202609281737",
+      "published_at_utc": "2026-09-28T17:37:50+00:00",
+      "title": "拒否されたイラン計画と制裁提案の間で原油が往復"
+    },
     {
       "source": "FXStreet",
       "title_en": "GBP: Shorts at highs as Pound tracks Oil-led USD rally – Rabobank",
       "link": "https://www.fxstreet.com/news/gbp-shorts-at-highs-as-pound-tracks-oil-led-usd-rally-rabobank-202609281530",
       "published_at_utc": "2026-09-28T15:30:33+00:00",
-      "title": "ポンド：石油主導の米ドル上昇をポンドが追随する中、高値でショート – ラボバンク"
+      "title": "ポンド：原​​油主導の米ドル上昇をポンドが追随する中、高値でショート – ラボバンク"
     },
     {
       "source": "FXStreet",
@@ -66,13 +73,6 @@
       "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-euro-tests-support-at-08570-hurt-by-rallying-oil-prices-202609281113",
       "published_at_utc": "2026-09-28T11:13:14+00:00",
       "title": "ユーロ/ポンド価格予測: 原油価格の上昇に伴い、ユーロは0.8570のサポートを試す"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "WTI Oil extends gains nearing $95.00 as Trump rejects Hormuz reopening plan",
-      "link": "https://www.fxstreet.com/news/wti-oil-extends-gains-above-9450-as-trump-rejects-hormuz-reopening-plan-202609281032",
-      "published_at_utc": "2026-09-28T10:32:12+00:00",
-      "title": "トランプ大統領がホルムズ島再開計画を拒否したため、WTIオイルは95.00ドル近くまで上昇"
     },
     {
       "source": "FXStreet",
