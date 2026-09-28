@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-28T02:35:08.218906+00:00",
+  "generated_at_utc": "2026-09-28T08:56:42.754736+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 93.84,
+  "latest_price": 95.1,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,31 +27,59 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.45,
+      "position_sigma": 1.22,
       "momentum": "FLAT",
-      "mid": 93.29,
-      "upper": 95.76,
-      "lower": 90.82
+      "mid": 93.7,
+      "upper": 95.99,
+      "lower": 91.41
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -0.92,
+      "position_sigma": -0.66,
       "momentum": "FLAT",
-      "mid": 97.79,
-      "upper": 106.37,
-      "lower": 89.21
+      "mid": 97.87,
+      "upper": 106.32,
+      "lower": 89.43
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$93.84付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$95.10付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "WTI sticks to modest gains above $92.00 amid Middle East jitters",
-      "link": "https://www.fxstreet.com/news/wti-sticks-to-modest-gains-above-9200-amid-middle-east-jitters-202609280156",
-      "published_at_utc": "2026-09-28T01:56:32+00:00",
-      "title": "中東の不安の中、WTIは92.00ドルを超える小幅な上昇に固執"
+      "title_en": "Dow Jones futures drop as rising oil, US Treasury yields fuel Fed rate hike fears",
+      "link": "https://www.fxstreet.com/news/dow-jones-futures-drop-as-rising-oil-us-treasury-yields-fuel-fed-rate-hike-fears-202609280807",
+      "published_at_utc": "2026-09-28T08:07:41+00:00",
+      "title": "原油上昇でダウジョーンズ先物が下落、米国債利回りがFRBの利上げ懸念を煽る"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "EUR/GBP Price Forecast: Fails at 0.8610 amid higher Oil prices, BoE hawkishness",
+      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-fails-at-08610-amid-higher-oil-prices-boe-hawkishness-202609280728",
+      "published_at_utc": "2026-09-28T07:28:00+00:00",
+      "title": "ユーロ/ポンド価格予測：原油価格上昇と英中銀のタカ派姿勢を受けて0.8610で失敗"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "WTI rises above $93.00 after Trump rejects Iran peace deal",
+      "link": "https://www.fxstreet.com/news/wti-rises-above-9300-after-trump-rejects-iran-peace-deal-202609280611",
+      "published_at_utc": "2026-09-28T06:11:30+00:00",
+      "title": "トランプ大統領がイラン和平合意を拒否した後、WTIは93.00ドルを超えて上昇"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Indian Rupee declines as oil prices rise over weekend",
+      "link": "https://www.fxstreet.com/news/indian-rupee-starts-the-week-negatively-amid-higher-oil-prices-202609280540",
+      "published_at_utc": "2026-09-28T05:40:03+00:00",
+      "title": "週末の原油価格上昇でインドルピー下落"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Gold slumps below $4,150, fresh low since August 5 amid oil-fueled Fed hike bets",
+      "link": "https://www.fxstreet.com/news/breaking-gold-weakens-below-4-200-lowest-since-august-5-202609280310",
+      "published_at_utc": "2026-09-28T03:10:33+00:00",
+      "title": "石油を燃料とするFRBの利上げ観測のなか、金は4,150ドルを下回り、8月5日以来の安値を更新"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
