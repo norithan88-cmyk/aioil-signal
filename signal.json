@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-09-29T15:07:37.975080+00:00",
+  "generated_at_utc": "2026-09-29T19:58:31.025810+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 91.3,
-  "day_change_pct": -0.01,
+  "latest_price": 89.27,
+  "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
     "bias_label": "方向感なし",
@@ -27,31 +27,31 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -1.57,
+      "position_sigma": -2.21,
       "momentum": "DOWN",
-      "mid": 93.27,
-      "upper": 95.77,
-      "lower": 90.77
+      "mid": 92.99,
+      "upper": 96.36,
+      "lower": 89.62
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -1.39,
+      "position_sigma": -1.73,
       "momentum": "DOWN",
-      "mid": 97.59,
-      "upper": 106.63,
-      "lower": 88.56
+      "mid": 97.46,
+      "upper": 106.92,
+      "lower": 88.0
     }
   ],
   "commentary": "上位足は下向き。焦らず、5分足の戻りからの反落を待つ。",
-  "market_context": "WTI原油（CL=F）は現在$91.30付近で推移（直近1時間比-0.01%）。4時間・日足は戻り売り方向で揃っているが、5分足の反落シグナルはまだ点灯していない。上位足の方向感は出ているため、5分足が戻り高値から反落するタイミングを待ちたい局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$89.27付近で推移（直近1時間比+0.00%）。4時間・日足は戻り売り方向で揃っているが、5分足の反落シグナルはまだ点灯していない。上位足の方向感は出ているため、5分足が戻り高値から反落するタイミングを待ちたい局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "Oil: Higher prices keep pressure on central banks – Scotiabank",
-      "link": "https://www.fxstreet.com/news/oil-higher-prices-keep-pressure-on-central-banks-scotiabank-202609290928",
-      "published_at_utc": "2026-09-29T09:28:06+00:00",
-      "title": "石油：価格高騰で中央銀行への圧力が続く – スコシアバンク"
+      "title_en": "Gold springs from $4,110 as Oil rout eases inflation heat",
+      "link": "https://www.fxstreet.com/news/gold-springs-from-4-110-as-oil-rout-eases-inflation-heat-202609291957",
+      "published_at_utc": "2026-09-29T19:57:41+00:00",
+      "title": "原油価格の下落によりインフレ熱が緩和され、金は4,110ドルから上昇"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
