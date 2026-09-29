@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-28T22:37:44.857770+00:00",
+  "generated_at_utc": "2026-09-29T02:18:36.445807+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 93.25,
+  "latest_price": 93.53,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,59 +27,59 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -0.4,
+      "position_sigma": -0.02,
       "momentum": "FLAT",
-      "mid": 93.67,
-      "upper": 95.76,
-      "lower": 91.57
+      "mid": 93.55,
+      "upper": 95.48,
+      "lower": 91.62
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -1.04,
+      "position_sigma": -0.97,
       "momentum": "FLAT",
-      "mid": 97.75,
-      "upper": 106.4,
-      "lower": 89.1
+      "mid": 97.74,
+      "upper": 106.42,
+      "lower": 89.06
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$93.25付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$93.53付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "United States Dollar Index strengthens as oil surge bolster Fed rate hike bets",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-strengthens-as-oil-surge-bolster-fed-rate-hike-bets-202609290212",
+      "published_at_utc": "2026-09-29T02:12:25+00:00",
+      "title": "原油高騰がFRBの利上げ観測を後押しし、米ドル指数が上昇"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Silver Price Forecast: XAG/USD drops to near $60.50 amid surging oil, Treasury yields",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-drops-to-near-6050-amid-surging-oil-treasury-yields-202609290123",
+      "published_at_utc": "2026-09-29T01:23:15+00:00",
+      "title": "銀価格予測：原油急騰と米国債利回りの影響でXAG/USDは60.50ドル近くまで下落"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "WTI inches up above $92.00 on Qatari-mediated US-Iran talks, Saudi pipeline restart",
+      "link": "https://www.fxstreet.com/news/wti-inches-up-above-9200-on-qatari-mediated-us-iran-talks-saudi-pipeline-restart-202609290037",
+      "published_at_utc": "2026-09-29T00:37:50+00:00",
+      "title": "カタール仲介の米国・イラン協議、サウジアラビアのパイプライン再開でWTIが92.00ドルを超えてじりじり上昇"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Gold tumbles below $4.150 as US bond yields, oil prices rise",
+      "link": "https://www.fxstreet.com/news/gold-tumbles-below-4150-as-us-bond-yields-oil-prices-rise-202609282322",
+      "published_at_utc": "2026-09-28T23:22:44+00:00",
+      "title": "米国債利回りと原油価格の上昇により、金は4.150ドルを下回る"
+    },
     {
       "source": "FXStreet",
       "title_en": "Crude Oil round-trips between a rejected Iran plan and a sanctions offer",
       "link": "https://www.fxstreet.com/news/crude-oil-round-trips-between-a-rejected-iran-plan-and-a-sanctions-offer-202609281737",
       "published_at_utc": "2026-09-28T17:37:50+00:00",
       "title": "拒否されたイラン計画と制裁提案の間で原油が往復"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "GBP: Shorts at highs as Pound tracks Oil-led USD rally – Rabobank",
-      "link": "https://www.fxstreet.com/news/gbp-shorts-at-highs-as-pound-tracks-oil-led-usd-rally-rabobank-202609281530",
-      "published_at_utc": "2026-09-28T15:30:33+00:00",
-      "title": "ポンド：原​​油主導の米ドル上昇をポンドが追随する中、高値でショート – ラボバンク"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Oil: Higher prices drive yields and Dollar – MUFG",
-      "link": "https://www.fxstreet.com/news/oil-higher-prices-drive-yields-and-dollar-mufg-202609281117",
-      "published_at_utc": "2026-09-28T11:17:24+00:00",
-      "title": "石油：価格上昇により利回りとドルが上昇 – MUFG"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "EUR/GBP Price Forecast: Euro tests support at 0.8570 as Oil prices rally",
-      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-euro-tests-support-at-08570-hurt-by-rallying-oil-prices-202609281113",
-      "published_at_utc": "2026-09-28T11:13:14+00:00",
-      "title": "ユーロ/ポンド価格予測: 原油価格の上昇に伴い、ユーロは0.8570のサポートを試す"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Indian Rupee falls sharply as oil prices rally",
-      "link": "https://www.fxstreet.com/news/indian-rupee-starts-the-week-negatively-amid-higher-oil-prices-202609280540",
-      "published_at_utc": "2026-09-28T05:40:03+00:00",
-      "title": "原油価格の上昇でインドルピーが急落"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
