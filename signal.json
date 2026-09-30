@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-30T15:33:24.213948+00:00",
+  "generated_at_utc": "2026-09-30T20:17:07.142027+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 91.91,
+  "latest_price": 90.62,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,31 +27,31 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -0.07,
+      "position_sigma": -0.42,
       "momentum": "FLAT",
-      "mid": 92.06,
-      "upper": 96.45,
-      "lower": 87.67
+      "mid": 91.4,
+      "upper": 95.08,
+      "lower": 87.72
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -1.08,
+      "position_sigma": -1.29,
       "momentum": "FLAT",
-      "mid": 97.19,
-      "upper": 107.01,
-      "lower": 87.37
+      "mid": 97.1,
+      "upper": 107.12,
+      "lower": 87.08
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$91.91付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$90.62付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "Brent Oil: Prices reverse on supply headlines – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/brent-oil-prices-reverse-on-supply-headlines-deutsche-bank-202609300952",
-      "published_at_utc": "2026-09-30T09:52:09+00:00",
-      "title": "Brent Oil: Prices reverse on supply headlines – Deutsche Bank"
+      "title_en": "WTI set for monthly gain amid US-Iran stalemate",
+      "link": "https://www.fxstreet.com/news/wti-set-for-monthly-gain-amid-us-iran-stalemate-202609301730",
+      "published_at_utc": "2026-09-30T17:30:36+00:00",
+      "title": "米国とイランの膠着状態の中、WTIは月次上昇を目指す"
     },
     {
       "source": "FXStreet",
