@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-30T08:52:28.092092+00:00",
+  "generated_at_utc": "2026-09-30T15:33:24.213948+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 89.66,
+  "latest_price": 91.91,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -9,7 +9,7 @@
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "4時間足:中央 / 日足:下方向 → 2時間足の方向が一致していません",
+      "timeframes_note": "4時間足:中央 / 日足:中央 → 2時間足の方向が一致していません",
       "calc_note": "2時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
@@ -27,38 +27,38 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -1.07,
+      "position_sigma": -0.07,
       "momentum": "FLAT",
-      "mid": 92.13,
-      "upper": 96.74,
-      "lower": 87.53
+      "mid": 92.06,
+      "upper": 96.45,
+      "lower": 87.67
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -1.45,
-      "momentum": "DOWN",
-      "mid": 97.04,
-      "upper": 107.23,
-      "lower": 86.84
+      "position_sigma": -1.08,
+      "momentum": "FLAT",
+      "mid": 97.19,
+      "upper": 107.01,
+      "lower": 87.37
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$89.66付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$91.91付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "Brent: Geopolitics and cracks drive Q3 surge – Rabobank",
-      "link": "https://www.fxstreet.com/news/brent-geopolitics-and-cracks-drive-q3-surge-rabobank-202609300813",
-      "published_at_utc": "2026-09-30T08:13:35+00:00",
-      "title": "ブレント氏：地政学と亀裂が第3四半期の急騰を引き起こす – ラボバンク"
+      "title_en": "Brent Oil: Prices reverse on supply headlines – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/brent-oil-prices-reverse-on-supply-headlines-deutsche-bank-202609300952",
+      "published_at_utc": "2026-09-30T09:52:09+00:00",
+      "title": "Brent Oil: Prices reverse on supply headlines – Deutsche Bank"
     },
     {
       "source": "FXStreet",
-      "title_en": "WTI drifts higher above $88.00 as Trump denies Iran sanctions relief",
-      "link": "https://www.fxstreet.com/news/wti-drifts-higher-above-8800-as-trump-denies-iran-sanctions-relief-202609300630",
-      "published_at_utc": "2026-09-30T06:30:10+00:00",
-      "title": "トランプ大統領がイラン制裁解除を否定し、WTIは88.00ドルを超えて上昇"
+      "title_en": "Indian Rupee recovers as traders trim hawkish Fed bets, oil prices fall",
+      "link": "https://www.fxstreet.com/news/indian-rupee-draws-support-from-consistent-rbi-intervention-lower-oil-prices-202609300543",
+      "published_at_utc": "2026-09-30T05:43:44+00:00",
+      "title": "Indian Rupee recovers as traders trim hawkish Fed bets, oil prices fall"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
