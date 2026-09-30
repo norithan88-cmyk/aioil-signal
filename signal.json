@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-30T20:17:07.142027+00:00",
+  "generated_at_utc": "2026-09-30T23:58:36.502188+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 90.62,
+  "latest_price": 89.92,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -9,7 +9,7 @@
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "4時間足:中央 / 日足:中央 → 2時間足の方向が一致していません",
+      "timeframes_note": "4時間足:中央 / 日足:下方向 → 2時間足の方向が一致していません",
       "calc_note": "2時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
@@ -27,38 +27,38 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -0.42,
+      "position_sigma": -0.77,
       "momentum": "FLAT",
-      "mid": 91.4,
-      "upper": 95.08,
-      "lower": 87.72
+      "mid": 91.35,
+      "upper": 95.09,
+      "lower": 87.62
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -1.29,
-      "momentum": "FLAT",
-      "mid": 97.1,
-      "upper": 107.12,
-      "lower": 87.08
+      "position_sigma": -1.41,
+      "momentum": "DOWN",
+      "mid": 97.06,
+      "upper": 107.2,
+      "lower": 86.91
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$90.62付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$89.92付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Gold falls to near $4,150 as higher Treasury yields, oil prices outweigh softer PCE inflation",
+      "link": "https://www.fxstreet.com/news/gold-falls-to-near-4-150-as-higher-treasury-yields-oil-prices-outweigh-softer-pce-inflation-202609302330",
+      "published_at_utc": "2026-09-30T23:30:58+00:00",
+      "title": "財務省利回りの上昇と原油価格の上昇がPCEインフレの鈍化を上回り、金は4,150ドル近くまで下落"
+    },
     {
       "source": "FXStreet",
       "title_en": "WTI set for monthly gain amid US-Iran stalemate",
       "link": "https://www.fxstreet.com/news/wti-set-for-monthly-gain-amid-us-iran-stalemate-202609301730",
       "published_at_utc": "2026-09-30T17:30:36+00:00",
       "title": "米国とイランの膠着状態の中、WTIは月次上昇を目指す"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Indian Rupee recovers as traders trim hawkish Fed bets, oil prices fall",
-      "link": "https://www.fxstreet.com/news/indian-rupee-draws-support-from-consistent-rbi-intervention-lower-oil-prices-202609300543",
-      "published_at_utc": "2026-09-30T05:43:44+00:00",
-      "title": "Indian Rupee recovers as traders trim hawkish Fed bets, oil prices fall"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
