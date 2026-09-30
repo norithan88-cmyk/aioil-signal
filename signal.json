@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-29T23:37:55.080625+00:00",
+  "generated_at_utc": "2026-09-30T02:23:56.883718+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 89.3,
+  "latest_price": 89.4,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,25 +27,32 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -1.78,
+      "position_sigma": -1.47,
       "momentum": "DOWN",
-      "mid": 92.74,
-      "upper": 96.62,
-      "lower": 88.87
+      "mid": 92.54,
+      "upper": 96.8,
+      "lower": 88.28
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -1.73,
+      "position_sigma": -1.49,
       "momentum": "DOWN",
-      "mid": 97.46,
-      "upper": 106.91,
-      "lower": 88.01
+      "mid": 97.02,
+      "upper": 107.27,
+      "lower": 86.77
     }
   ],
   "commentary": "上位足は下向き。焦らず、5分足の戻りからの反落を待つ。",
-  "market_context": "WTI原油（CL=F）は現在$89.30付近で推移（直近1時間比+0.00%）。4時間・日足は戻り売り方向で揃っているが、5分足の反落シグナルはまだ点灯していない。上位足の方向感は出ているため、5分足が戻り高値から反落するタイミングを待ちたい局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$89.40付近で推移（直近1時間比+0.00%）。4時間・日足は戻り売り方向で揃っているが、5分足の反落シグナルはまだ点灯していない。上位足の方向感は出ているため、5分足が戻り高値から反落するタイミングを待ちたい局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "WTI remains below $90.00 due to Middle East export recovery",
+      "link": "https://www.fxstreet.com/news/wti-remains-below-9000-due-to-middle-east-export-recovery-202609300112",
+      "published_at_utc": "2026-09-30T01:12:49+00:00",
+      "title": "中東の輸出回復により、WTIは引き続き90.00ドルを下回る"
+    },
     {
       "source": "FXStreet",
       "title_en": "Gold springs from $4,110 as Oil rout eases inflation heat",
