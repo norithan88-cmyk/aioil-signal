@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-10-01T05:37:42.472515+00:00",
+  "generated_at_utc": "2026-10-01T11:48:26.816968+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 88.85,
+  "latest_price": 92.2,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -9,7 +9,7 @@
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "4時間足:中央 / 日足:下方向 → 2時間足の方向が一致していません",
+      "timeframes_note": "4時間足:中央 / 日足:中央 → 2時間足の方向が一致していません",
       "calc_note": "2時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
@@ -27,45 +27,45 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -1.13,
+      "position_sigma": 0.89,
       "momentum": "FLAT",
-      "mid": 90.67,
-      "upper": 93.91,
-      "lower": 87.44
+      "mid": 90.85,
+      "upper": 93.88,
+      "lower": 87.81
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -1.41,
-      "momentum": "DOWN",
-      "mid": 96.18,
-      "upper": 106.58,
-      "lower": 85.78
+      "position_sigma": -0.85,
+      "momentum": "FLAT",
+      "mid": 96.4,
+      "upper": 106.3,
+      "lower": 86.51
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$88.85付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$92.20付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "WTI Price Forecast: Bears await acceptance below $88.00, 50% Fibo. support breakdown",
-      "link": "https://www.fxstreet.com/news/wti-price-forecast-bears-await-acceptance-below-8800-50-fibo-support-breakdown-202610010515",
-      "published_at_utc": "2026-10-01T05:15:59+00:00",
-      "title": "WTI価格予測:弱気派は88.00ドル、50%フィボなしでの受け入れを待っています。サポートの内訳"
+      "title_en": "Oil: Prices hold near multi‑year highs – UOB",
+      "link": "https://www.fxstreet.com/news/oil-prices-hold-near-multi-year-highs-uob-202610011032",
+      "published_at_utc": "2026-10-01T10:32:42+00:00",
+      "title": "石油：価格は数年ぶりの高値付近を維持 – UOB"
     },
     {
       "source": "FXStreet",
-      "title_en": "WTI falls to near $89.00 as Middle East oil shipments recover",
-      "link": "https://www.fxstreet.com/news/wti-falls-to-near-8900-as-middle-east-oil-shipments-recover-202610010120",
-      "published_at_utc": "2026-10-01T01:20:32+00:00",
-      "title": "中東の原油出荷が回復する中、WTIは89.00ドル近くまで下落"
+      "title_en": "1.1265: Euro hits yearly lows amid high Oil prices, rising US yields and debt woes",
+      "link": "https://www.fxstreet.com/news/11265-euro-hits-yearly-lows-amid-high-oil-prices-rising-us-yields-and-debt-woes-202610011019",
+      "published_at_utc": "2026-10-01T10:19:49+00:00",
+      "title": "1.1265: 原油高、米国利回りの上昇、債務問題の中でユーロが年初来安値を記録"
     },
     {
       "source": "FXStreet",
-      "title_en": "Gold falls to near $4,150 as higher Treasury yields, oil prices outweigh softer PCE inflation",
-      "link": "https://www.fxstreet.com/news/gold-falls-to-near-4-150-as-higher-treasury-yields-oil-prices-outweigh-softer-pce-inflation-202609302330",
-      "published_at_utc": "2026-09-30T23:30:58+00:00",
-      "title": "財務省利回りの上昇と原油価格の上昇がPCEインフレの鈍化を上回り、金は4,150ドル近くまで下落"
+      "title_en": "Brent Oil: Conflict-driven surge shapes bond stress – Deutsche Bank",
+      "link": "https://www.fxstreet.com/news/brent-oil-conflict-driven-surge-shapes-bond-stress-deutsche-bank-202610010831",
+      "published_at_utc": "2026-10-01T08:31:27+00:00",
+      "title": "ブレント原油：紛争によるサージが債券ストレスを形成 – ドイツ銀行"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
