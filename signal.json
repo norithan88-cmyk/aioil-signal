@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-10-01T17:31:04.643164+00:00",
+  "generated_at_utc": "2026-10-01T21:58:41.201458+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 91.87,
+  "latest_price": 92.91,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -9,7 +9,7 @@
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "4時間足:中央 / 日足:中央 → 2時間足の方向が一致していません",
+      "timeframes_note": "4時間足:上方向 / 日足:中央 → 2時間足の方向が一致していません",
       "calc_note": "2時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
@@ -27,31 +27,38 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 1.11,
-      "momentum": "FLAT",
-      "mid": 90.61,
-      "upper": 92.88,
-      "lower": 88.33
+      "position_sigma": 1.49,
+      "momentum": "UP",
+      "mid": 90.82,
+      "upper": 93.62,
+      "lower": 88.02
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -0.91,
+      "position_sigma": -0.72,
       "momentum": "FLAT",
-      "mid": 96.38,
-      "upper": 106.31,
-      "lower": 86.45
+      "mid": 96.45,
+      "upper": 106.27,
+      "lower": 86.63
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$91.87付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$92.91付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "Crude Oil turns a loss into a rally as Chinese refiners stop exporting fuel",
+      "title_en": "Dollar Index breaks its June peak as the Euro sinks on dearer Crude Oil",
+      "link": "https://www.fxstreet.com/news/dollar-index-breaks-its-june-peak-as-the-euro-sinks-on-dearer-crude-oil-202610011859",
+      "published_at_utc": "2026-10-01T18:59:14+00:00",
+      "title": "原油高によりユーロが下落、ドル指数は6月の最高値を更新"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Crude Oil extends its rally as the Pentagon adds another carrier group",
       "link": "https://www.fxstreet.com/news/crude-oil-turns-a-loss-into-a-rally-as-chinese-refiners-stop-exporting-fuel-202610011550",
       "published_at_utc": "2026-10-01T15:50:58+00:00",
-      "title": "中国の精製業者が燃料輸出を停止したため、原油は損失から上昇に転じた"
+      "title": "国防総省が新たな運送業者グループを追加し、原油価格の上昇幅が拡大"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
