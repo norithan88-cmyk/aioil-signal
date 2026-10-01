@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-10-01T11:48:26.816968+00:00",
+  "generated_at_utc": "2026-10-01T17:31:04.643164+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 92.2,
+  "latest_price": 91.87,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,45 +27,31 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.89,
+      "position_sigma": 1.11,
       "momentum": "FLAT",
-      "mid": 90.85,
-      "upper": 93.88,
-      "lower": 87.81
+      "mid": 90.61,
+      "upper": 92.88,
+      "lower": 88.33
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -0.85,
+      "position_sigma": -0.91,
       "momentum": "FLAT",
-      "mid": 96.4,
-      "upper": 106.3,
-      "lower": 86.51
+      "mid": 96.38,
+      "upper": 106.31,
+      "lower": 86.45
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$92.20付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$91.87付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "Oil: Prices hold near multi‑year highs – UOB",
-      "link": "https://www.fxstreet.com/news/oil-prices-hold-near-multi-year-highs-uob-202610011032",
-      "published_at_utc": "2026-10-01T10:32:42+00:00",
-      "title": "石油：価格は数年ぶりの高値付近を維持 – UOB"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "1.1265: Euro hits yearly lows amid high Oil prices, rising US yields and debt woes",
-      "link": "https://www.fxstreet.com/news/11265-euro-hits-yearly-lows-amid-high-oil-prices-rising-us-yields-and-debt-woes-202610011019",
-      "published_at_utc": "2026-10-01T10:19:49+00:00",
-      "title": "1.1265: 原油高、米国利回りの上昇、債務問題の中でユーロが年初来安値を記録"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Brent Oil: Conflict-driven surge shapes bond stress – Deutsche Bank",
-      "link": "https://www.fxstreet.com/news/brent-oil-conflict-driven-surge-shapes-bond-stress-deutsche-bank-202610010831",
-      "published_at_utc": "2026-10-01T08:31:27+00:00",
-      "title": "ブレント原油：紛争によるサージが債券ストレスを形成 – ドイツ銀行"
+      "title_en": "Crude Oil turns a loss into a rally as Chinese refiners stop exporting fuel",
+      "link": "https://www.fxstreet.com/news/crude-oil-turns-a-loss-into-a-rally-as-chinese-refiners-stop-exporting-fuel-202610011550",
+      "published_at_utc": "2026-10-01T15:50:58+00:00",
+      "title": "中国の精製業者が燃料輸出を停止したため、原油は損失から上昇に転じた"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
