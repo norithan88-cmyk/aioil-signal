@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-10-02T14:04:54.771098+00:00",
+  "generated_at_utc": "2026-10-02T19:15:04.236616+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 90.16,
+  "latest_price": 91.08,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,32 +27,24 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -0.7,
+      "position_sigma": -0.14,
       "momentum": "FLAT",
-      "mid": 91.1,
-      "upper": 93.79,
-      "lower": 88.42
+      "mid": 91.26,
+      "upper": 93.76,
+      "lower": 88.75
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -1.12,
+      "position_sigma": -0.96,
       "momentum": "FLAT",
-      "mid": 95.79,
-      "upper": 105.88,
-      "lower": 85.7
+      "mid": 95.85,
+      "upper": 105.81,
+      "lower": 85.89
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$90.16付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
-  "news": [
-    {
-      "source": "FXStreet",
-      "title_en": "WTI Oil edges down below $91.00 amid reports of higher flows from the Gulf",
-      "link": "https://www.fxstreet.com/news/wti-oil-edges-down-below-9100-amid-reports-of-higher-flows-from-the-gulf-202610020721",
-      "published_at_utc": "2026-10-02T07:21:54+00:00",
-      "title": "湾岸からの原油流出量増加の報告を受けて、WTI原油は91.00ドルを下回る水準に下落"
-    }
-  ],
+  "market_context": "WTI原油（CL=F）は現在$91.08付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "news": [],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
 }
