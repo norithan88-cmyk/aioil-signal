@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-10-02T01:34:14.962849+00:00",
+  "generated_at_utc": "2026-10-02T07:29:39.443202+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 92.95,
+  "latest_price": 91.28,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -9,7 +9,7 @@
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "4時間足:上方向 / 日足:中央 → 2時間足の方向が一致していません",
+      "timeframes_note": "4時間足:中央 / 日足:中央 → 2時間足の方向が一致していません",
       "calc_note": "2時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
@@ -27,25 +27,46 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 1.31,
-      "momentum": "UP",
-      "mid": 91.0,
-      "upper": 93.99,
-      "lower": 88.01
+      "position_sigma": 0.12,
+      "momentum": "FLAT",
+      "mid": 91.12,
+      "upper": 93.89,
+      "lower": 88.35
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -0.62,
+      "position_sigma": -0.92,
       "momentum": "FLAT",
-      "mid": 95.98,
-      "upper": 105.74,
-      "lower": 86.21
+      "mid": 95.86,
+      "upper": 105.8,
+      "lower": 85.92
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$92.95付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$91.28付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "WTI Oil edges down below $91.00 amid reports of higher flows from the Gulf",
+      "link": "https://www.fxstreet.com/news/wti-oil-edges-down-below-9100-amid-reports-of-higher-flows-from-the-gulf-202610020721",
+      "published_at_utc": "2026-10-02T07:21:54+00:00",
+      "title": "湾岸からの原油流出量増加の報告を受けて、WTI原油は91.00ドルを下回る水準に下落"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Euro holds losses against British Pound amid French debt woes, high Oil Prices",
+      "link": "https://www.fxstreet.com/news/euro-holds-losses-against-british-pound-amid-french-debt-woes-high-oil-prices-202610020634",
+      "published_at_utc": "2026-10-02T06:34:57+00:00",
+      "title": "フランス債務問題と原油価格高騰で、ユーロは対英ポンドで損失を抱えている"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "WTI Price Forecast: Dips to $91.50 as Middle East jitters limit losses",
+      "link": "https://www.fxstreet.com/news/wti-price-forecast-dips-to-9150-as-middle-east-jitters-limit-losses-202610020506",
+      "published_at_utc": "2026-10-02T05:06:01+00:00",
+      "title": "WTI価格予測：中東の不安で損失が限定され、91.50ドルに下落"
+    },
     {
       "source": "FXStreet",
       "title_en": "Canadian Dollar falls as oil prices dip, US Dollar gains strength",
@@ -59,20 +80,6 @@
       "link": "https://www.fxstreet.com/news/wti-holds-steady-near-9200-as-us-weighs-sending-more-troops-to-middle-east-202610020121",
       "published_at_utc": "2026-10-02T01:21:42+00:00",
       "title": "米国が中東への派兵拡大を検討中、WTIは92.00ドル付近で安定している"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Dollar Index breaks its June peak as the Euro sinks on dearer Crude Oil",
-      "link": "https://www.fxstreet.com/news/dollar-index-breaks-its-june-peak-as-the-euro-sinks-on-dearer-crude-oil-202610011859",
-      "published_at_utc": "2026-10-01T18:59:14+00:00",
-      "title": "原油高によりユーロが下落、ドル指数は6月の最高値を更新"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Crude Oil extends its rally as the Pentagon adds another carrier group",
-      "link": "https://www.fxstreet.com/news/crude-oil-turns-a-loss-into-a-rally-as-chinese-refiners-stop-exporting-fuel-202610011550",
-      "published_at_utc": "2026-10-01T15:50:58+00:00",
-      "title": "国防総省が新たな運送業者グループを追加し、原油価格の上昇幅が拡大"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
