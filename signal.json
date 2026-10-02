@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-10-01T21:58:41.201458+00:00",
+  "generated_at_utc": "2026-10-02T01:34:14.962849+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 92.91,
+  "latest_price": 92.95,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,25 +27,39 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 1.49,
+      "position_sigma": 1.31,
       "momentum": "UP",
-      "mid": 90.82,
-      "upper": 93.62,
-      "lower": 88.02
+      "mid": 91.0,
+      "upper": 93.99,
+      "lower": 88.01
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -0.72,
+      "position_sigma": -0.62,
       "momentum": "FLAT",
-      "mid": 96.45,
-      "upper": 106.27,
-      "lower": 86.63
+      "mid": 95.98,
+      "upper": 105.74,
+      "lower": 86.21
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$92.91付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$92.95付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Canadian Dollar falls as oil prices dip, US Dollar gains strength",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-falls-as-oil-prices-dip-us-dollar-gains-strength-202610020123",
+      "published_at_utc": "2026-10-02T01:23:58+00:00",
+      "title": "原油価格の下落でカナダドルが下落、米ドルが上昇"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "WTI holds steady near $92.00 as US weighs sending more troops to Middle East",
+      "link": "https://www.fxstreet.com/news/wti-holds-steady-near-9200-as-us-weighs-sending-more-troops-to-middle-east-202610020121",
+      "published_at_utc": "2026-10-02T01:21:42+00:00",
+      "title": "米国が中東への派兵拡大を検討中、WTIは92.00ドル付近で安定している"
+    },
     {
       "source": "FXStreet",
       "title_en": "Dollar Index breaks its June peak as the Euro sinks on dearer Crude Oil",
