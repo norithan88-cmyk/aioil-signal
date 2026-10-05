@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-10-05T02:21:04.645860+00:00",
+  "generated_at_utc": "2026-10-05T09:20:22.554020+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 89.97,
+  "latest_price": 90.83,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,46 +27,24 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -1.01,
+      "position_sigma": -0.43,
       "momentum": "FLAT",
-      "mid": 91.26,
-      "upper": 93.82,
-      "lower": 88.71
+      "mid": 91.34,
+      "upper": 93.74,
+      "lower": 88.94
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -1.04,
+      "position_sigma": -0.88,
       "momentum": "FLAT",
-      "mid": 95.09,
-      "upper": 104.99,
-      "lower": 85.2
+      "mid": 95.15,
+      "upper": 104.93,
+      "lower": 85.36
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$89.97付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
-  "news": [
-    {
-      "source": "FXStreet",
-      "title_en": "WTI drops to near $89.00 as OPEC+ holds November targets",
-      "link": "https://www.fxstreet.com/news/wti-drops-to-near-8900-as-opec-holds-november-targets-202610050208",
-      "published_at_utc": "2026-10-05T02:08:56+00:00",
-      "title": "OPEC+が11月の目標を維持する中、WTIは89.00ドル近くまで下落"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Middle East crude oil exports rise above pre-war levels but tanker attacks increase",
-      "link": "https://www.fxstreet.com/news/middle-east-crude-oil-exports-rise-above-pre-war-levels-but-tanker-attacks-increase-202610050159",
-      "published_at_utc": "2026-10-05T01:59:37+00:00",
-      "title": "中東の原油輸出は戦前の水準を上回るもタンカー攻撃は増加"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "OPEC+ agrees to keep oil output policy unchanged for November",
-      "link": "https://www.fxstreet.com/news/opec-agrees-to-keep-oil-output-policy-unchanged-for-november-202610050002",
-      "published_at_utc": "2026-10-05T00:02:57+00:00",
-      "title": "OPEC+、11月の産油量政策を据え置くことで合意"
-    }
-  ],
+  "market_context": "WTI原油（CL=F）は現在$90.83付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "news": [],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
 }
