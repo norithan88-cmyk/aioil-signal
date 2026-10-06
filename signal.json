@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-10-06T13:37:12.531246+00:00",
+  "generated_at_utc": "2026-10-06T19:04:27.682900+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 88.05,
+  "latest_price": 89.58,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -9,15 +9,15 @@
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "4時間足:下方向 / 日足:下方向 → 2時間足は一致していますが、5分足の反発シグナルはまだ点灯していません",
-      "calc_note": "2時間足の方向一致のみでは確信度は上がらず、5分足の反発確認まで基本値50%のままです。"
+      "timeframes_note": "4時間足:中央 / 日足:中央 → 2時間足の方向が一致していません",
+      "calc_note": "2時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
   "volatility_risk": "LOW",
-  "market_mode": "TREND",
-  "market_mode_note": "4時間・日足の方向が揃っており、方向感のある地合い。",
+  "market_mode": "RANGE",
+  "market_mode_note": "時間足ごとに方向が割れており、方向感に乏しいレンジ地合い。",
   "priority_trade": {
-    "lead": "様子見 ― 上位足は戻り売り方向で一致、5分足の反落シグナル待ち",
+    "lead": "様子見 ― 4時間・日足の方向が一致していない",
     "entry": null,
     "take_profit": null,
     "stop_loss": null
@@ -27,38 +27,38 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -1.46,
-      "momentum": "DOWN",
-      "mid": 89.72,
-      "upper": 92.0,
-      "lower": 87.43
+      "position_sigma": -0.18,
+      "momentum": "FLAT",
+      "mid": 89.77,
+      "upper": 91.93,
+      "lower": 87.61
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -1.34,
-      "momentum": "DOWN",
-      "mid": 93.87,
-      "upper": 102.59,
-      "lower": 85.15
+      "position_sigma": -1.04,
+      "momentum": "FLAT",
+      "mid": 93.97,
+      "upper": 102.45,
+      "lower": 85.5
     }
   ],
-  "commentary": "上位足は下向き。焦らず、5分足の戻りからの反落を待つ。",
-  "market_context": "WTI原油（CL=F）は現在$88.05付近で推移（直近1時間比+0.00%）。4時間・日足は戻り売り方向で揃っているが、5分足の反落シグナルはまだ点灯していない。上位足の方向感は出ているため、5分足が戻り高値から反落するタイミングを待ちたい局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
+  "market_context": "WTI原油（CL=F）は現在$89.58付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "Canadian Dollar falls to near 18-month lows as oil prices decline",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-falls-to-near-18-month-lows-as-oil-prices-decline-202610060914",
-      "published_at_utc": "2026-10-06T09:14:53+00:00",
-      "title": "原油価格下落でカナダドルが18カ月ぶり安値付近に下落"
+      "title_en": "WTI rebounds as Hormuz risks temper relief from rising Gulf exports",
+      "link": "https://www.fxstreet.com/news/wti-rebounds-as-hormuz-risks-temper-relief-from-rising-gulf-exports-202610061726",
+      "published_at_utc": "2026-10-06T17:26:36+00:00",
+      "title": "ホルムズは湾岸輸出の増加による気を緩めるリスクがあるため、WTIは反発"
     },
     {
       "source": "FXStreet",
-      "title_en": "Euro trims some losses as the decline in Oil prices offsets weak Eurozone releases",
-      "link": "https://www.fxstreet.com/news/euro-dips-further-as-grim-german-data-adds-to-political-uncertainty-and-debt-issues-202610060645",
-      "published_at_utc": "2026-10-06T06:45:11+00:00",
-      "title": "原油価格の下落がユーロ圏の原油安を相殺し、ユーロは若干の損失を縮小"
+      "title_en": "Canadian Dollar gains against US Dollar despite weaker Oil prices",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-against-us-dollar-despite-weaker-oil-prices-202610061425",
+      "published_at_utc": "2026-10-06T14:25:51+00:00",
+      "title": "原油価格下落にもかかわらず、カナダドルは対米ドルで上昇"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
