@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-10-06T00:20:20.953456+00:00",
+  "generated_at_utc": "2026-10-06T06:36:36.573536+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 89.33,
+  "latest_price": 88.73,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -9,7 +9,7 @@
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "4時間足:中央 / 日足:中央 → 2時間足の方向が一致していません",
+      "timeframes_note": "4時間足:下方向 / 日足:中央 → 2時間足の方向が一致していません",
       "calc_note": "2時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
@@ -27,24 +27,53 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -1.02,
-      "momentum": "FLAT",
-      "mid": 90.49,
-      "upper": 92.77,
-      "lower": 88.21
+      "position_sigma": -1.51,
+      "momentum": "DOWN",
+      "mid": 90.23,
+      "upper": 92.22,
+      "lower": 88.24
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -1.15,
+      "position_sigma": -1.21,
       "momentum": "FLAT",
-      "mid": 95.05,
-      "upper": 105.04,
-      "lower": 85.06
+      "mid": 93.92,
+      "upper": 102.52,
+      "lower": 85.31
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$89.33付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
-  "news": [],
+  "market_context": "WTI原油（CL=F）は現在$88.73付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Canadian Dollar softens as oil prices fall",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-softens-as-oil-prices-fall-202610060622",
+      "published_at_utc": "2026-10-06T06:22:26+00:00",
+      "title": "原油価格の下落を受けてカナダドルは軟化"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "WTI Price Forecast: Bulls seem hesitant near $89.00 amid easing supply risks",
+      "link": "https://www.fxstreet.com/news/wti-price-forecast-bulls-seem-hesitant-near-8900-amid-easing-supply-risks-202610060527",
+      "published_at_utc": "2026-10-06T05:27:12+00:00",
+      "title": "WTI価格予測：供給リスクが緩和される中、強気派は89.00ドル付近に躊躇しているようだ"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Canadian Dollar seems vulnerable near April 2025 lows amid weak oil prices, bullish USD",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-seems-vulnerable-near-april-2025-lows-amid-weak-oil-prices-bullish-usd-202610060111",
+      "published_at_utc": "2026-10-06T01:11:14+00:00",
+      "title": "カナダドルは、原油価格の低迷と米ドルの強気を背景に、2025年4月の安値付近で脆弱なようだ"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "WTI falls to near $88.50 on G7 reserve release",
+      "link": "https://www.fxstreet.com/news/wti-falls-to-near-8850-on-g7-reserve-release-202610060058",
+      "published_at_utc": "2026-10-06T00:58:45+00:00",
+      "title": "WTIはG7準備金放出で88.50ドル近くまで下落"
+    }
+  ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
 }
