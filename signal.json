@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-10-06T19:04:27.682900+00:00",
+  "generated_at_utc": "2026-10-06T22:59:52.585070+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 89.58,
+  "latest_price": 89.79,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,38 +27,38 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -0.18,
+      "position_sigma": 0.08,
       "momentum": "FLAT",
-      "mid": 89.77,
-      "upper": 91.93,
-      "lower": 87.61
+      "mid": 89.7,
+      "upper": 91.77,
+      "lower": 87.64
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -1.04,
+      "position_sigma": -0.99,
       "momentum": "FLAT",
-      "mid": 93.97,
-      "upper": 102.45,
-      "lower": 85.5
+      "mid": 93.99,
+      "upper": 102.43,
+      "lower": 85.54
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$89.58付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$89.79付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
       "title_en": "WTI rebounds as Hormuz risks temper relief from rising Gulf exports",
       "link": "https://www.fxstreet.com/news/wti-rebounds-as-hormuz-risks-temper-relief-from-rising-gulf-exports-202610061726",
       "published_at_utc": "2026-10-06T17:26:36+00:00",
-      "title": "ホルムズは湾岸輸出の増加による気を緩めるリスクがあるため、WTIは反発"
+      "title": "WTI rebounds as Hormuz risks temper relief from rising Gulf exports"
     },
     {
       "source": "FXStreet",
       "title_en": "Canadian Dollar gains against US Dollar despite weaker Oil prices",
       "link": "https://www.fxstreet.com/news/canadian-dollar-gains-against-us-dollar-despite-weaker-oil-prices-202610061425",
       "published_at_utc": "2026-10-06T14:25:51+00:00",
-      "title": "原油価格下落にもかかわらず、カナダドルは対米ドルで上昇"
+      "title": "Canadian Dollar gains against US Dollar despite weaker Oil prices"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
