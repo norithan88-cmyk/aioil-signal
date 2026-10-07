@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-10-06T22:59:52.585070+00:00",
+  "generated_at_utc": "2026-10-07T02:16:07.983268+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 89.79,
+  "latest_price": 90.26,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,38 +27,45 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.08,
+      "position_sigma": 0.68,
       "momentum": "FLAT",
-      "mid": 89.7,
-      "upper": 91.77,
-      "lower": 87.64
+      "mid": 89.63,
+      "upper": 91.49,
+      "lower": 87.77
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -0.99,
+      "position_sigma": -0.79,
       "momentum": "FLAT",
-      "mid": 93.99,
-      "upper": 102.43,
-      "lower": 85.54
+      "mid": 93.15,
+      "upper": 100.5,
+      "lower": 85.8
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$89.79付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$90.26付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Canadian Dollar edges lower on reviving USD demand; recovering oil prices limit losses",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-edges-lower-on-reviving-usd-demand-recovering-oil-prices-limit-losses-202610070155",
+      "published_at_utc": "2026-10-07T01:55:02+00:00",
+      "title": "カナダドルは米ドル需要の回復を受けて下落。原油価格の回復により損失が限定される"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "WTI rises to near $89.50 amid Middle East concerns, US storm threats",
+      "link": "https://www.fxstreet.com/news/wti-rises-to-near-8950-as-middle-east-supply-threats-offset-persian-gulf-recovery-202610070109",
+      "published_at_utc": "2026-10-07T01:09:09+00:00",
+      "title": "中東への懸念と米国の暴風雨の脅威を受けて、WTIは89.50ドル近くまで上昇"
+    },
     {
       "source": "FXStreet",
       "title_en": "WTI rebounds as Hormuz risks temper relief from rising Gulf exports",
       "link": "https://www.fxstreet.com/news/wti-rebounds-as-hormuz-risks-temper-relief-from-rising-gulf-exports-202610061726",
       "published_at_utc": "2026-10-06T17:26:36+00:00",
-      "title": "WTI rebounds as Hormuz risks temper relief from rising Gulf exports"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Canadian Dollar gains against US Dollar despite weaker Oil prices",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-against-us-dollar-despite-weaker-oil-prices-202610061425",
-      "published_at_utc": "2026-10-06T14:25:51+00:00",
-      "title": "Canadian Dollar gains against US Dollar despite weaker Oil prices"
+      "title": "ホルムズは湾岸輸出の増加による気を緩めるリスクがあるため、WTIは反発"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
