@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-10-07T08:50:55.334988+00:00",
+  "generated_at_utc": "2026-10-07T15:55:40.997164+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 89.43,
+  "latest_price": 89.14,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,46 +27,24 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -0.01,
+      "position_sigma": -0.35,
       "momentum": "FLAT",
-      "mid": 89.44,
-      "upper": 90.96,
-      "lower": 87.92
+      "mid": 89.41,
+      "upper": 90.93,
+      "lower": 87.89
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -0.98,
+      "position_sigma": -1.05,
       "momentum": "FLAT",
-      "mid": 93.1,
-      "upper": 100.55,
-      "lower": 85.65
+      "mid": 93.08,
+      "upper": 100.57,
+      "lower": 85.59
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$89.43付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
-  "news": [
-    {
-      "source": "FXStreet",
-      "title_en": "Euro falls against Canadian Dollar as surging oil prices overpower strong German data",
-      "link": "https://www.fxstreet.com/news/euro-falls-against-canadian-dollar-as-surging-oil-prices-overpower-strong-german-data-202610070820",
-      "published_at_utc": "2026-10-07T08:20:06+00:00",
-      "title": "原油価格の高騰がドイツの好調な経済指標を圧倒し、ユーロがカナダドルに対して下落"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Euro extends its reversal as rising Oil prices offset upbeat German data",
-      "link": "https://www.fxstreet.com/news/euro-extends-its-reversal-as-rising-oil-prices-offset-upbeat-german-data-202610070633",
-      "published_at_utc": "2026-10-07T06:33:06+00:00",
-      "title": "原油価格の上昇がドイツの好調な経済指標を相殺し、ユーロは反転を拡大"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Oil: Supply risks offset stronger flows – ING",
-      "link": "https://www.fxstreet.com/news/oil-supply-risks-offset-stronger-flows-ing-202610070624",
-      "published_at_utc": "2026-10-07T06:24:03+00:00",
-      "title": "石油：供給リスクが強い流れを相殺 – ING"
-    }
-  ],
+  "market_context": "WTI原油（CL=F）は現在$89.14付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "news": [],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
 }
