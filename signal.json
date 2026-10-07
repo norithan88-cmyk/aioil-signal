@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-10-07T15:55:40.997164+00:00",
+  "generated_at_utc": "2026-10-07T21:06:18.571558+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 89.14,
+  "latest_price": 88.9,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,24 +27,39 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -0.35,
+      "position_sigma": -0.51,
       "momentum": "FLAT",
-      "mid": 89.41,
-      "upper": 90.93,
-      "lower": 87.89
+      "mid": 89.29,
+      "upper": 90.79,
+      "lower": 87.78
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -1.05,
+      "position_sigma": -1.11,
       "momentum": "FLAT",
-      "mid": 93.08,
-      "upper": 100.57,
-      "lower": 85.59
+      "mid": 93.06,
+      "upper": 100.58,
+      "lower": 85.54
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$89.14付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
-  "news": [],
+  "market_context": "WTI原油（CL=F）は現在$88.90付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "WTI reverses earlier gains as recovering Middle East exports weigh",
+      "link": "https://www.fxstreet.com/news/wti-turns-lower-as-recovering-middle-east-exports-weigh-202610071822",
+      "published_at_utc": "2026-10-07T18:22:13+00:00",
+      "title": "中東輸出の回復が重しとなり、WTIは以前の上昇を反転"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "IEA members back faster release of 100 million barrels of Oil stocks",
+      "link": "https://www.fxstreet.com/news/iea-members-back-faster-release-of-100-million-barrels-of-oil-stocks-202610071519",
+      "published_at_utc": "2026-10-07T15:19:24+00:00",
+      "title": "IEA加盟国、石油在庫1億バレルの早期放出を支持"
+    }
+  ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
 }
