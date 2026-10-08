@@ -1,15 +1,15 @@
 {
-  "generated_at_utc": "2026-10-08T14:39:19.355718+00:00",
+  "generated_at_utc": "2026-10-08T20:10:05.863498+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 91.91,
-  "day_change_pct": 0.0,
+  "latest_price": 90.98,
+  "day_change_pct": -0.12,
   "signal": {
     "bias": "WAIT",
     "bias_label": "方向感なし",
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "4時間足:上方向 / 日足:中央 → 2時間足の方向が一致していません",
+      "timeframes_note": "4時間足:中央 / 日足:中央 → 2時間足の方向が一致していません",
       "calc_note": "2時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
@@ -27,38 +27,31 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 1.62,
-      "momentum": "UP",
-      "mid": 89.78,
-      "upper": 92.41,
-      "lower": 87.16
+      "position_sigma": 0.61,
+      "momentum": "FLAT",
+      "mid": 90.26,
+      "upper": 92.64,
+      "lower": 87.88
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -0.15,
+      "position_sigma": -0.4,
       "momentum": "FLAT",
-      "mid": 92.35,
-      "upper": 98.31,
-      "lower": 86.39
+      "mid": 92.3,
+      "upper": 98.29,
+      "lower": 86.31
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$91.91付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$90.98付近で推移（直近1時間比-0.12%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "Gold Price Forecast: XAU/USD recovery falters as Oil and yields rise",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-recovery-falters-as-oil-and-yields-rise-202610080946",
-      "published_at_utc": "2026-10-08T09:46:29+00:00",
-      "title": "金価格予測：原油と利回りの上昇によりXAU/USDの回復が鈍化"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "US Dollar: Rising oil prices and Fed outlook boost USD – BBH",
-      "link": "https://www.fxstreet.com/news/us-dollar-rising-oil-prices-and-fed-outlook-boost-usd-bbh-202610080944",
-      "published_at_utc": "2026-10-08T09:44:18+00:00",
-      "title": "米ドル：原油価格の上昇とFRBの見通しが米ドルを押し上げる – BBH"
+      "title_en": "Crude Oil grinds higher on record tanker attacks and Houthi missiles",
+      "link": "https://www.fxstreet.com/news/crude-oil-grinds-higher-on-record-tanker-attacks-and-houthi-missiles-202610081614",
+      "published_at_utc": "2026-10-08T16:14:54+00:00",
+      "title": "記録的なタンカー攻撃とフーシ派のミサイルで原油価格が上昇"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
