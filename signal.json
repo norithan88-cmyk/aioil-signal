@@ -1,15 +1,15 @@
 {
-  "generated_at_utc": "2026-10-08T00:57:43.326270+00:00",
+  "generated_at_utc": "2026-10-08T07:14:44.043964+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 89.2,
-  "day_change_pct": 0.0,
+  "latest_price": 91.29,
+  "day_change_pct": 0.02,
   "signal": {
     "bias": "WAIT",
     "bias_label": "方向感なし",
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "4時間足:中央 / 日足:中央 → 2時間足の方向が一致していません",
+      "timeframes_note": "4時間足:上方向 / 日足:中央 → 2時間足の方向が一致していません",
       "calc_note": "2時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
@@ -27,45 +27,59 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -0.04,
-      "momentum": "FLAT",
-      "mid": 89.23,
-      "upper": 90.65,
-      "lower": 87.81
+      "position_sigma": 2.12,
+      "momentum": "UP",
+      "mid": 89.4,
+      "upper": 91.17,
+      "lower": 87.64
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -1.04,
+      "position_sigma": -0.34,
       "momentum": "FLAT",
-      "mid": 93.08,
-      "upper": 100.56,
-      "lower": 85.6
+      "mid": 92.31,
+      "upper": 98.29,
+      "lower": 86.33
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$89.20付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$91.29付近で推移（直近1時間比+0.02%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Canadian Dollar weakens despite higher oil prices",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-weakens-despite-higher-oil-prices-202610080603",
+      "published_at_utc": "2026-10-08T06:03:47+00:00",
+      "title": "原油価格上昇にもかかわらずカナダドル安"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "WTI Price Forecast: Bulls seem hesitant below $89.50 amid Middle East risks",
+      "link": "https://www.fxstreet.com/news/wti-price-forecast-bulls-seem-hesitant-below-8950-amid-middle-east-risks-202610080455",
+      "published_at_utc": "2026-10-08T04:55:54+00:00",
+      "title": "WTI価格予測：中東リスクの中、強気派は89.50ドル以下を躊躇しているようだ"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "British Pound slips due to stable US Dollar, rising oil prices",
+      "link": "https://www.fxstreet.com/news/british-pound-slips-due-to-stable-us-dollar-rising-oil-prices-202610080141",
+      "published_at_utc": "2026-10-08T01:41:00+00:00",
+      "title": "米ドル安定と原油価格上昇で英ポンド下落"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "WTI posts modest gains above $88.50 on unexpected EIA draw, Middle East conflicts in focus",
+      "link": "https://www.fxstreet.com/news/wti-posts-modest-gains-above-8850-on-unexpected-eia-draw-middle-east-conflicts-in-focus-202610080056",
+      "published_at_utc": "2026-10-08T00:56:51+00:00",
+      "title": "WTI、予想外のEIA引き分けで88.50ドルを超える小幅上昇、中東紛争が焦点"
+    },
     {
       "source": "FXStreet",
       "title_en": "Australian Dollar slips as Fed hike bets meet Middle East Oil risk",
       "link": "https://www.fxstreet.com/news/australian-dollar-slips-as-fed-hike-bets-meet-middle-east-oil-risk-202610072307",
       "published_at_utc": "2026-10-07T23:07:37+00:00",
       "title": "FRBの利上げ賭けが中東の石油リスクに対応し、豪ドルが下落"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "WTI reverses earlier gains as recovering Middle East exports weigh",
-      "link": "https://www.fxstreet.com/news/wti-turns-lower-as-recovering-middle-east-exports-weigh-202610071822",
-      "published_at_utc": "2026-10-07T18:22:13+00:00",
-      "title": "中東輸出の回復が重しとなり、WTIは以前の上昇を反転"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "IEA members back faster release of 100 million barrels of Oil stocks",
-      "link": "https://www.fxstreet.com/news/iea-members-back-faster-release-of-100-million-barrels-of-oil-stocks-202610071519",
-      "published_at_utc": "2026-10-07T15:19:24+00:00",
-      "title": "IEA加盟国、石油在庫1億バレルの早期放出を支持"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
