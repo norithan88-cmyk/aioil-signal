@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-10-09T00:23:36.838523+00:00",
+  "generated_at_utc": "2026-10-09T06:28:55.533089+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 91.09,
-  "day_change_pct": 0.0,
+  "latest_price": 90.58,
+  "day_change_pct": -0.03,
   "signal": {
     "bias": "WAIT",
     "bias_label": "方向感なし",
@@ -27,31 +27,31 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.58,
+      "position_sigma": 0.16,
       "momentum": "FLAT",
-      "mid": 90.42,
-      "upper": 92.72,
-      "lower": 88.13
+      "mid": 90.43,
+      "upper": 92.68,
+      "lower": 88.19
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -0.4,
+      "position_sigma": -0.52,
       "momentum": "FLAT",
-      "mid": 92.3,
-      "upper": 98.29,
-      "lower": 86.31
+      "mid": 91.68,
+      "upper": 95.9,
+      "lower": 87.45
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$91.09付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$90.58付近で推移（直近1時間比-0.03%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "Crude Oil grinds higher on record tanker attacks and Houthi missiles",
-      "link": "https://www.fxstreet.com/news/crude-oil-grinds-higher-on-record-tanker-attacks-and-houthi-missiles-202610081614",
-      "published_at_utc": "2026-10-08T16:14:54+00:00",
-      "title": "記録的なタンカー攻撃とフーシ派のミサイルで原油価格が上昇"
+      "title_en": "WTI slips below $90.50 as Trump signals no pre-election strike on Iran",
+      "link": "https://www.fxstreet.com/news/wti-slips-below-9050-as-trump-signals-no-pre-election-strike-on-iran-202610090116",
+      "published_at_utc": "2026-10-09T01:16:07+00:00",
+      "title": "トランプ大統領がイランに対する選挙前攻撃を行わないと示唆、WTIは90.50ドルを下回る"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
