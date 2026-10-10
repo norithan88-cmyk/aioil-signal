@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-10T18:57:14.910290+00:00",
+  "generated_at_utc": "2026-10-10T22:22:45.415847+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
   "latest_price": 91.85,
   "day_change_pct": 0.29,
@@ -30,7 +30,7 @@
       "position_sigma": 0.85,
       "momentum": "FLAT",
       "mid": 90.85,
-      "upper": 93.22,
+      "upper": 93.21,
       "lower": 88.48
     },
     {
@@ -45,14 +45,6 @@
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
   "market_context": "WTI原油（CL=F）は現在$91.85付近で推移（直近1時間比+0.29%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
-  "news": [
-    {
-      "source": "FXStreet",
-      "title_en": "Crude Oil drops on Trump's Russian diesel plan",
-      "link": "https://www.fxstreet.com/news/crude-oil-drops-on-trumps-russian-diesel-plan-202610091923",
-      "published_at_utc": "2026-10-09T19:23:58+00:00",
-      "title": "トランプ大統領のロシアディーゼル計画で原油下落"
-    }
-  ],
+  "news": [],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
 }
