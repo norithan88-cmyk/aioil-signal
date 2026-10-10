@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-10T08:44:11.305669+00:00",
+  "generated_at_utc": "2026-10-10T14:47:49.228977+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
   "latest_price": 91.85,
   "day_change_pct": 0.29,
@@ -30,7 +30,7 @@
       "position_sigma": 0.85,
       "momentum": "FLAT",
       "mid": 90.85,
-      "upper": 93.22,
+      "upper": 93.21,
       "lower": 88.48
     },
     {
@@ -52,13 +52,6 @@
       "link": "https://www.fxstreet.com/news/crude-oil-drops-on-trumps-russian-diesel-plan-202610091923",
       "published_at_utc": "2026-10-09T19:23:58+00:00",
       "title": "トランプ大統領のロシアディーゼル計画で原油下落"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "WTI holds steady as traders weigh US-Iran tensions and supply risks",
-      "link": "https://www.fxstreet.com/news/wti-holds-steady-as-traders-weigh-us-iran-tensions-and-supply-risks-202610091425",
-      "published_at_utc": "2026-10-09T14:25:05+00:00",
-      "title": "トレーダーらが米国とイランの緊張と供給リスクを検討する中、WTIは堅調を維持"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
