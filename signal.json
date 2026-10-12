@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-10-12T01:43:46.889663+00:00",
+  "generated_at_utc": "2026-10-12T08:04:51.466908+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 90.31,
-  "day_change_pct": 0.0,
+  "latest_price": 91.18,
+  "day_change_pct": 0.02,
   "signal": {
     "bias": "WAIT",
     "bias_label": "方向感なし",
@@ -27,38 +27,52 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -0.77,
+      "position_sigma": -0.05,
       "momentum": "FLAT",
-      "mid": 91.05,
-      "upper": 92.97,
-      "lower": 89.13
+      "mid": 91.2,
+      "upper": 92.77,
+      "lower": 89.63
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -0.6,
+      "position_sigma": -0.16,
       "momentum": "FLAT",
-      "mid": 91.4,
-      "upper": 95.04,
-      "lower": 87.76
+      "mid": 91.45,
+      "upper": 95.05,
+      "lower": 87.86
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$90.31付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$91.18付近で推移（直近1時間比+0.02%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "Euro holds gains above 1.1200 despite France’s bond turmoil",
-      "link": "https://www.fxstreet.com/news/euro-holds-gains-above-11200-despite-frances-bond-turmoil-202610120100",
-      "published_at_utc": "2026-10-12T01:00:29+00:00",
-      "title": "フランス国債の混乱にもかかわらず、ユーロは1.1200以上の上昇を維持"
+      "title_en": "Equities: Stable oil and yields support stock gains - Danske Bank",
+      "link": "https://www.fxstreet.com/news/equities-stable-oil-and-yields-support-stock-gains-danske-bank-202610120633",
+      "published_at_utc": "2026-10-12T06:33:45+00:00",
+      "title": "Equities: Stable oil and yields support stock gains - Danske Bank"
     },
     {
       "source": "FXStreet",
-      "title_en": "WTI declines to near $90.00 despite escalating Middle East conflict, supply risks",
-      "link": "https://www.fxstreet.com/news/wti-declines-to-near-9000-despite-escalating-middle-east-conflict-supply-risks-202610120047",
-      "published_at_utc": "2026-10-12T00:47:20+00:00",
-      "title": "中東紛争の激化、供給リスクにもかかわらず、WTIは90.00ドル近くまで下落"
+      "title_en": "Brent: Houthi escalation keeps risk premium elevated – Commerzbank",
+      "link": "https://www.fxstreet.com/news/brent-houthi-escalation-keeps-risk-premium-elevated-commerzbank-202610120621",
+      "published_at_utc": "2026-10-12T06:21:19+00:00",
+      "title": "Brent: Houthi escalation keeps risk premium elevated – Commerzbank"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "WTI falls to near $90.00 as Russia-Ukraine energy ceasefire fuels supply hopes",
+      "link": "https://www.fxstreet.com/news/wti-falls-to-near-9000-as-russia-ukraine-energy-ceasefire-fuels-supply-hopes-202610120603",
+      "published_at_utc": "2026-10-12T06:03:51+00:00",
+      "title": "WTI falls to near $90.00 as Russia-Ukraine energy ceasefire fuels supply hopes"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Canadian Dollar flat lines around 1.4250 as sliding oil prices counter USD softness",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-flat-lines-around-14250-as-sliding-oil-prices-counter-usd-softness-202610120200",
+      "published_at_utc": "2026-10-12T02:00:41+00:00",
+      "title": "Canadian Dollar flat lines around 1.4250 as sliding oil prices counter USD softness"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
