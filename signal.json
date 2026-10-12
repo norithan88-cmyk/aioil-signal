@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-10-12T17:49:41.677659+00:00",
+  "generated_at_utc": "2026-10-12T23:53:24.244978+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 93.74,
+  "latest_price": 93.19,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,25 +27,46 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 1.78,
+      "position_sigma": 1.3,
       "momentum": "UP",
-      "mid": 91.66,
+      "mid": 91.67,
       "upper": 94.0,
-      "lower": 89.33
+      "lower": 89.34
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.12,
+      "position_sigma": 0.87,
       "momentum": "FLAT",
-      "mid": 91.63,
-      "upper": 95.39,
-      "lower": 87.86
+      "mid": 91.59,
+      "upper": 95.28,
+      "lower": 87.9
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$93.74付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$93.19付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "The British Pound drifts back to its floor as Crude Oil lifts the Dollar",
+      "link": "https://www.fxstreet.com/news/the-british-pound-drifts-back-to-its-floor-as-crude-oil-lifts-the-dollar-202610122218",
+      "published_at_utc": "2026-10-12T22:18:23+00:00",
+      "title": "原油価格がドルを押し上げる中、英ポンドは底値に戻る"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Gold tumbles as Oil shock fuels US Dollar rally and Fed hike bets",
+      "link": "https://www.fxstreet.com/news/gold-tumbles-as-oil-shock-fuels-us-dollar-rally-and-fed-hike-bets-202610121908",
+      "published_at_utc": "2026-10-12T19:08:04+00:00",
+      "title": "オイルショックで米ドル上昇とFRB利上げ観測が加速し、金が下落"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "WTI hits two-week high Middle East tensions overshadow Russian diesel supplies",
+      "link": "https://www.fxstreet.com/news/wti-reverses-losses-as-middle-east-tensions-overshadow-russian-diesel-supplies-202610121822",
+      "published_at_utc": "2026-10-12T18:22:53+00:00",
+      "title": "WTIが2週間ぶりの高水準に達、中東の緊張がロシアのディーゼル供給に影を落とす"
+    },
     {
       "source": "FXStreet",
       "title_en": "Japanese Yen struggles amid Oil rally, fiscal concerns",
@@ -66,20 +87,6 @@
       "link": "https://www.fxstreet.com/news/new-zealand-dollar-retreats-toward-17-month-low-on-oil-driven-risk-aversion-202610121244",
       "published_at_utc": "2026-10-12T12:44:29+00:00",
       "title": "ニュージーランドドルは石油主導のリスク回避で17カ月ぶり安値に向けて後退"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "WTI rebounds as Middle East tensions clash with Russia-Ukraine peace hopes",
-      "link": "https://www.fxstreet.com/news/wti-rebounds-as-middle-east-tensions-clash-with-russia-ukraine-peace-hopes-202610121056",
-      "published_at_utc": "2026-10-12T10:56:26+00:00",
-      "title": "中東の緊張とロシアとウクライナの和平希望が衝突する中、WTIは反発"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Swiss Franc dips as geopolitical tensions and Oil prices boost the US Dollar",
-      "link": "https://www.fxstreet.com/news/swiss-franc-dips-as-geopolitical-tensions-and-oil-prices-boost-the-us-dollar-202610120939",
-      "published_at_utc": "2026-10-12T09:39:20+00:00",
-      "title": "地政学的緊張と原油価格の上昇でスイスフランが下落"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
