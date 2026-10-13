@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-10-13T05:32:17.195766+00:00",
+  "generated_at_utc": "2026-10-13T12:55:18.609832+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 92.39,
+  "latest_price": 92.53,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,66 +27,59 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.45,
+      "position_sigma": 0.4,
       "momentum": "FLAT",
-      "mid": 91.86,
-      "upper": 94.22,
-      "lower": 89.5
+      "mid": 92.11,
+      "upper": 94.23,
+      "lower": 89.98
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 0.53,
+      "position_sigma": 0.6,
       "momentum": "FLAT",
-      "mid": 91.48,
-      "upper": 94.93,
+      "mid": 91.49,
+      "upper": 94.95,
       "lower": 88.03
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$92.39付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$92.53付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "Silver Price Forecast: XAG/USD falls to near $60.00 amid higher oil prices, US Dollar",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-to-near-6000-amid-higher-oil-prices-us-dollar-202610130206",
-      "published_at_utc": "2026-10-13T02:06:48+00:00",
-      "title": "銀価格予測: 原油価格と米ドルの上昇を受けて、XAG/USD は 60.00 ドル近くまで下落"
+      "title_en": "WTI Oil extends its pullback to $91.00 amid US imports of Russian Diesel",
+      "link": "https://www.fxstreet.com/news/wti-oil-extends-its-pullback-to-9100-amid-us-imports-of-russian-diesel-202610131157",
+      "published_at_utc": "2026-10-13T11:57:00+00:00",
+      "title": "米国によるロシア製ディーゼルの輸入を受けて、WTIオイルは反落幅を91.00ドルまで拡大"
     },
     {
       "source": "FXStreet",
-      "title_en": "WTI holds gains above $91.50 as Russia attacks Ukrainian power plant",
-      "link": "https://www.fxstreet.com/news/wti-holds-gains-above-9200-on-persistent-middle-east-supply-risks-202610130101",
-      "published_at_utc": "2026-10-13T01:01:57+00:00",
-      "title": "ロシアによるウクライナの発電所攻撃を受け、WTIは91.50ドル以上の上昇を維持"
+      "title_en": "Brent: Uptrend intact with $114–116 in sight – Societe Generale",
+      "link": "https://www.fxstreet.com/news/brent-uptrend-intact-with-114-116-in-sight-societe-generale-202610131131",
+      "published_at_utc": "2026-10-13T11:31:26+00:00",
+      "title": "ブレント：上昇傾向は維持、114～116ドルが視野 – ソシエテ・ジェネラル"
     },
     {
       "source": "FXStreet",
-      "title_en": "Aussie Dollar struggles at 0.70, retreats as Oil shock boosts the USD",
-      "link": "https://www.fxstreet.com/news/aussie-dollar-struggles-at-070-retreats-as-oil-shock-boosts-the-usd-202610122347",
-      "published_at_utc": "2026-10-12T23:47:00+00:00",
-      "title": "オーストラリアドルは0.70で苦戦、オイルショックによる米ドル高を受けて下落"
+      "title_en": "Gold Price Forecast: XAU/USD retraces losses as US yields and Oil prices ease",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-retraces-losses-as-us-yields-and-oil-prices-ease-202610130928",
+      "published_at_utc": "2026-10-13T09:28:55+00:00",
+      "title": "金価格予測：米国の利回りと原油価格の緩和により、XAU/USDは損失を取り戻す"
     },
     {
       "source": "FXStreet",
-      "title_en": "Gold tumbles below $4,200 on higher oil prices, firmer US Dollar",
-      "link": "https://www.fxstreet.com/news/gold-tumbles-below-4-200-on-higher-oil-prices-firmer-us-dollar-202610122318",
-      "published_at_utc": "2026-10-12T23:18:51+00:00",
-      "title": "原油価格の上昇と米ドルの堅調を受けて、金は4,200ドルを下回る"
+      "title_en": "Euro strengthens against Canadian Dollar as German HICP inflation accelerates, oil eases",
+      "link": "https://www.fxstreet.com/news/euro-strengthens-against-canadian-dollar-as-german-hicp-inflation-accelerates-oil-eases-202610130902",
+      "published_at_utc": "2026-10-13T09:02:01+00:00",
+      "title": "ドイツのHICPインフレ加速と原油安でユーロ​​がカナダドルに対して上昇"
     },
     {
       "source": "FXStreet",
-      "title_en": "The British Pound drifts back to its floor as Crude Oil lifts the Dollar",
-      "link": "https://www.fxstreet.com/news/the-british-pound-drifts-back-to-its-floor-as-crude-oil-lifts-the-dollar-202610122218",
-      "published_at_utc": "2026-10-12T22:18:23+00:00",
-      "title": "原油価格がドルを押し上げる中、英ポンドは底値に戻る"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Gold tumbles as Oil shock fuels US Dollar rally and Fed hike bets",
-      "link": "https://www.fxstreet.com/news/gold-tumbles-as-oil-shock-fuels-us-dollar-rally-and-fed-hike-bets-202610121908",
-      "published_at_utc": "2026-10-12T19:08:04+00:00",
-      "title": "オイルショックで米ドル上昇とFRBの利上げ観測が加速し、金が下落"
+      "title_en": "WTI slides to near $91.50 as Russian diesel inflow offsets geopolitical escalations",
+      "link": "https://www.fxstreet.com/news/wti-slides-to-near-9150-as-russian-diesel-inflow-offsets-geopolitical-escalations-202610130827",
+      "published_at_utc": "2026-10-13T08:27:05+00:00",
+      "title": "ロシアのディーゼル流入が地政学的エスカレーションを相殺し、WTIは91.50ドル近くまで下落"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
