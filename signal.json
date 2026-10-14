@@ -1,16 +1,16 @@
 {
-  "generated_at_utc": "2026-10-14T13:04:12.805901+00:00",
+  "generated_at_utc": "2026-10-14T17:58:18.162655+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 95.66,
+  "latest_price": 95.94,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "BUY",
     "bias_label": "押し目買い優勢",
     "stars": 4,
-    "confidence": 88,
+    "confidence": 89,
     "confidence_breakdown": {
       "timeframes_note": "4時間足:上方向 / 日足:上方向 → 2時間足とも一致、5分足の反発シグナルも確認済み",
-      "calc_note": "基本50% + 2時間足一致30% + バンド際からの乖離度ボーナス = 88%（上限95%）"
+      "calc_note": "基本50% + 2時間足一致30% + バンド際からの乖離度ボーナス = 89%（上限95%）"
     }
   },
   "volatility_risk": "LOW",
@@ -18,36 +18,36 @@
   "market_mode_note": "4時間・日足の方向が揃っており、方向感のある地合い。",
   "priority_trade": {
     "lead": "押し目買い ― 上位足の上昇方向一致＋5分足の押し目からの反発",
-    "entry": 95.66,
-    "take_profit": 96.12,
-    "stop_loss": 95.14
+    "entry": 95.94,
+    "take_profit": 96.31,
+    "stop_loss": 95.51
   },
   "reversal_setup": {
-    "extreme": 95.2,
-    "reverted_usd": 0.46
+    "extreme": 95.57,
+    "reverted_usd": 0.37
   },
   "regression_channels": [
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 1.51,
+      "position_sigma": 1.68,
       "momentum": "UP",
-      "mid": 93.74,
-      "upper": 96.28,
-      "lower": 91.2
+      "mid": 94.03,
+      "upper": 96.31,
+      "lower": 91.76
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.83,
+      "position_sigma": 1.92,
       "momentum": "UP",
-      "mid": 91.83,
-      "upper": 96.03,
-      "lower": 87.63
+      "mid": 91.85,
+      "upper": 96.12,
+      "lower": 87.58
     }
   ],
   "commentary": "押し目は焦らず拾う。飛び乗りより、待つ勇気を。",
-  "market_context": "WTI原油（CL=F）は現在$95.66付近で推移（直近1時間比+0.00%）。4時間・日足が揃って下値の堅さを示す中、5分足が短期的な押し目から反発したタイミング。目先は下値の堅い展開が想定され、押し目を焦らず拾うスタンスが機能しやすい局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$95.94付近で推移（直近1時間比+0.00%）。4時間・日足が揃って下値の堅さを示す中、5分足が短期的な押し目から反発したタイミング。目先は下値の堅い展開が想定され、押し目を焦らず拾うスタンスが機能しやすい局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
 }
