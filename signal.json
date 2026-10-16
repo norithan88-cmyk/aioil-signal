@@ -1,16 +1,16 @@
 {
-  "generated_at_utc": "2026-10-16T19:53:15.106192+00:00",
+  "generated_at_utc": "2026-10-16T22:31:14.777192+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 98.93,
+  "latest_price": 99.04,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "BUY",
     "bias_label": "押し目買い優勢",
     "stars": 5,
-    "confidence": 92,
+    "confidence": 91,
     "confidence_breakdown": {
       "timeframes_note": "4時間足:上方向 / 日足:上方向 → 2時間足とも一致、5分足の反発シグナルも確認済み",
-      "calc_note": "基本50% + 2時間足一致30% + バンド際からの乖離度ボーナス = 92%（上限95%）"
+      "calc_note": "基本50% + 2時間足一致30% + バンド際からの乖離度ボーナス = 91%（上限95%）"
     }
   },
   "volatility_risk": "LOW",
@@ -18,36 +18,36 @@
   "market_mode_note": "4時間・日足の方向が揃っており、方向感のある地合い。",
   "priority_trade": {
     "lead": "押し目買い ― 上位足の上昇方向一致＋5分足の押し目からの反発",
-    "entry": 98.93,
-    "take_profit": 99.0,
-    "stop_loss": 98.8
+    "entry": 99.04,
+    "take_profit": 99.2,
+    "stop_loss": 98.82
   },
   "reversal_setup": {
-    "extreme": 98.86,
-    "reverted_usd": 0.07
+    "extreme": 98.88,
+    "reverted_usd": 0.16
   },
   "regression_channels": [
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 2.68,
+      "position_sigma": 2.13,
       "momentum": "UP",
-      "mid": 95.69,
-      "upper": 98.11,
-      "lower": 93.27
+      "mid": 95.91,
+      "upper": 98.85,
+      "lower": 92.96
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 2.15,
+      "position_sigma": 2.17,
       "momentum": "UP",
-      "mid": 92.45,
-      "upper": 98.48,
-      "lower": 86.42
+      "mid": 92.46,
+      "upper": 98.52,
+      "lower": 86.4
     }
   ],
   "commentary": "押し目は焦らず拾う。飛び乗りより、待つ勇気を。",
-  "market_context": "WTI原油（CL=F）は現在$98.93付近で推移（直近1時間比+0.00%）。4時間・日足が揃って下値の堅さを示す中、5分足が短期的な押し目から反発したタイミング。目先は下値の堅い展開が想定され、押し目を焦らず拾うスタンスが機能しやすい局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$99.04付近で推移（直近1時間比+0.00%）。4時間・日足が揃って下値の堅さを示す中、5分足が短期的な押し目から反発したタイミング。目先は下値の堅い展開が想定され、押し目を焦らず拾うスタンスが機能しやすい局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
 }
