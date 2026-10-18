@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-18T13:38:21.577691+00:00",
+  "generated_at_utc": "2026-10-18T16:55:58.237188+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
   "latest_price": 99.02,
   "day_change_pct": 0.0,
@@ -32,9 +32,9 @@
       "label": "4時間足",
       "position_sigma": 2.12,
       "momentum": "UP",
-      "mid": 95.9,
+      "mid": 95.91,
       "upper": 98.84,
-      "lower": 92.96
+      "lower": 92.97
     },
     {
       "key": "d1",
