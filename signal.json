@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-11-04T07:56:53.892834+00:00",
+  "generated_at_utc": "2026-11-04T16:08:30.872133+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 96.31,
+  "latest_price": 91.79,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -9,15 +9,15 @@
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "4時間足:中央 / 日足:下方向 → 2時間足の方向が一致していません",
-      "calc_note": "2時間足の方向が揃っていないため、基本値50%のままです。"
+      "timeframes_note": "4時間足:下方向 / 日足:下方向 → 2時間足は一致していますが、5分足の反発シグナルはまだ点灯していません",
+      "calc_note": "2時間足の方向一致のみでは確信度は上がらず、5分足の反発確認まで基本値50%のままです。"
     }
   },
   "volatility_risk": "LOW",
-  "market_mode": "RANGE",
-  "market_mode_note": "時間足ごとに方向が割れており、方向感に乏しいレンジ地合い。",
+  "market_mode": "TREND",
+  "market_mode_note": "4時間・日足の方向が揃っており、方向感のある地合い。",
   "priority_trade": {
-    "lead": "様子見 ― 4時間・日足の方向が一致していない",
+    "lead": "様子見 ― 上位足は戻り売り方向で一致、5分足の反落シグナル待ち",
     "entry": null,
     "take_profit": null,
     "stop_loss": null
@@ -27,24 +27,24 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -0.77,
-      "momentum": "FLAT",
-      "mid": 97.85,
-      "upper": 101.86,
-      "lower": 93.84
+      "position_sigma": -2.51,
+      "momentum": "DOWN",
+      "mid": 96.78,
+      "upper": 100.75,
+      "lower": 92.8
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -1.44,
+      "position_sigma": -2.44,
       "momentum": "DOWN",
-      "mid": 100.28,
-      "upper": 105.79,
-      "lower": 94.76
+      "mid": 99.97,
+      "upper": 106.68,
+      "lower": 93.26
     }
   ],
-  "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "WTI原油（CL=F）は現在$96.31付近で推移（直近1時間比+0.00%）。4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "commentary": "上位足は下向き。焦らず、5分足の戻りからの反落を待つ。",
+  "market_context": "WTI原油（CL=F）は現在$91.79付近で推移（直近1時間比+0.00%）。4時間・日足は戻り売り方向で揃っているが、5分足の反落シグナルはまだ点灯していない。上位足の方向感は出ているため、5分足が戻り高値から反落するタイミングを待ちたい局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
 }
