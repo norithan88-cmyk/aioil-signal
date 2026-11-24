@@ -1,16 +1,16 @@
 {
-  "generated_at_utc": "2026-11-23T12:51:19.901394+00:00",
+  "generated_at_utc": "2026-11-24T00:30:42.530768+00:00",
   "pair": "WTI CRUDE OIL (CL=F)",
-  "latest_price": 82.1,
+  "latest_price": 80.37,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "SELL",
     "bias_label": "戻り売り優勢",
     "stars": 4,
-    "confidence": 87,
+    "confidence": 88,
     "confidence_breakdown": {
       "timeframes_note": "4時間足:下方向 / 日足:下方向 → 2時間足とも一致、5分足の反発シグナルも確認済み",
-      "calc_note": "基本50% + 2時間足一致30% + バンド際からの乖離度ボーナス = 87%（上限95%）"
+      "calc_note": "基本50% + 2時間足一致30% + バンド際からの乖離度ボーナス = 88%（上限95%）"
     }
   },
   "volatility_risk": "LOW",
@@ -18,36 +18,36 @@
   "market_mode_note": "4時間・日足の方向が揃っており、方向感のある地合い。",
   "priority_trade": {
     "lead": "戻り売り ― 上位足の下降方向一致＋5分足の戻りからの反落",
-    "entry": 82.1,
-    "take_profit": 81.77,
-    "stop_loss": 82.49
+    "entry": 80.37,
+    "take_profit": 80.2,
+    "stop_loss": 80.6
   },
   "reversal_setup": {
-    "extreme": 82.43,
-    "reverted_usd": 0.33
+    "extreme": 80.54,
+    "reverted_usd": 0.17
   },
   "regression_channels": [
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -1.54,
+      "position_sigma": -1.48,
       "momentum": "DOWN",
-      "mid": 82.74,
-      "upper": 83.58,
-      "lower": 81.91
+      "mid": 82.12,
+      "upper": 84.49,
+      "lower": 79.75
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -1.44,
+      "position_sigma": -1.81,
       "momentum": "DOWN",
-      "mid": 87.1,
-      "upper": 94.06,
-      "lower": 80.15
+      "mid": 86.99,
+      "upper": 94.32,
+      "lower": 79.66
     }
   ],
   "commentary": "強い相場ほど、飛び乗らない。戻りを丁寧に売る一日に。",
-  "market_context": "WTI原油（CL=F）は現在$82.10付近で推移（直近1時間比+0.00%）。4時間・日足が揃って上値の重さを示す中、5分足が短期的な戻りから反落したタイミング。目先は上値の重い展開が想定され、高値を追わず戻りを待つスタンスが機能しやすい局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "WTI原油（CL=F）は現在$80.37付近で推移（直近1時間比+0.00%）。4時間・日足が揃って上値の重さを示す中、5分足が短期的な戻りから反落したタイミング。目先は上値の重い展開が想定され、高値を追わず戻りを待つスタンスが機能しやすい局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
 }

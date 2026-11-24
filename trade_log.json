@@ -190,6 +190,19 @@
       "take_profit": 81.0,
       "stop_loss": 84.42,
       "confidence": 88,
+      "status": "WIN",
+      "closed_at_utc": "2026-11-24T00:30:42.530768+00:00",
+      "closed_price": 80.37,
+      "pnl_usd": 2.31
+    },
+    {
+      "id": "2026-11-24T00:30:42.530768+00:00",
+      "opened_at_utc": "2026-11-24T00:30:42.530768+00:00",
+      "bias": "SELL",
+      "entry": 80.37,
+      "take_profit": 80.2,
+      "stop_loss": 80.6,
+      "confidence": 88,
       "status": "OPEN",
       "closed_at_utc": null,
       "closed_price": null,
@@ -197,14 +210,14 @@
     }
   ],
   "stats": {
-    "total_closed": 14,
-    "wins": 8,
+    "total_closed": 15,
+    "wins": 9,
     "losses": 6,
-    "win_rate_pct": 57.1,
-    "avg_win_usd": 1.04,
+    "win_rate_pct": 60.0,
+    "avg_win_usd": 1.18,
     "avg_loss_usd": -0.99,
-    "profit_factor": 1.4,
-    "total_usd": 2.37
+    "profit_factor": 1.79,
+    "total_usd": 4.68
   },
-  "updated_at_utc": "2026-11-23T12:51:19.901394+00:00"
+  "updated_at_utc": "2026-11-24T00:30:42.530768+00:00"
 }
